@@ -1,0 +1,10 @@
+import assert from 'node:assert/strict';
+import {reviewEntry,identityFingerprint,reviewIndex,withReviewIndex} from '/tmp/tokyo-review-tests/review-index.mjs';
+import {allCatalog} from '/tmp/tokyo-map-tests/catalog.mjs';
+const base={id:'stable-record-id',title:'새 카페',place:'새 주소',area:'',day:null,time:'',duration:0,note:'보존할 메모',category:'카페'};
+assert.equal(reviewEntry(base).status,'pending');const r=allCatalog.find(x=>x.id==='montbell-kyobashi');const known={...base,id:'known-record-id',title:r.title,place:r.address,catalogId:r.id};assert.equal(reviewEntry(known).status,'reviewed');
+assert.equal(reviewEntry({...known,title:'전혀 다른 매장'}).status,'pending');assert.equal(reviewEntry({...known,place:'다른 주소'}).status,'pending');assert.equal(reviewEntry({...known,place:''}).status,'pending');
+assert.notEqual(identityFingerprint(known),identityFingerprint({...known,title:'바꾼 이름'}));assert.notEqual(identityFingerprint(known),identityFingerprint({...known,place:'바꾼 주소'}));assert.equal(identityFingerprint(known),identityFingerprint({...known,note:'메모 수정',day:'2026-11-30',time:'15:00'}));
+assert.equal(reviewEntry({...base,title:'몽벨',place:''}).status,'needs_selection');assert.equal(reviewEntry({...base,title:'시오콘부',place:''}).status,'not_a_venue');const held=allCatalog.find(x=>x.id==='monkichi-tsukishima');assert.equal(reviewEntry({...base,title:held.title,place:held.address}).status,'needs_confirmation');
+const trip={entries:[base,known],checks:[],outbound:{},inbound:{},hotel:{},favorites:['catalog:montbell-kyobashi']};const before=JSON.stringify(trip);const result=withReviewIndex({trip,version:7,updatedAt:'old'});assert.equal(JSON.stringify(trip),before);assert.equal(result.trip,trip);assert.deepEqual(result.reviewIndex.pendingEntryIds,[base.id]);assert.equal(result.reviewIndex.mode,'manual_only');assert.equal(result.version,7);
+console.log('PASS manual review index: new/custom/renamed/readdressed pending; exact known identity reviewed; stable ID + identity fingerprint; generic wishes need selection; product excluded; held map remains unconfirmed; no data writes');

@@ -1,0 +1,8 @@
+import {z} from 'zod';
+const day = z.enum(['2026-11-29', '2026-11-30', '2026-12-01']);
+const short = z.string().max(180);
+const time = z.string().regex(/^$|^([01]\d|2[0-3]):[0-5]\d$/);
+export const entrySchema = z.object({id:z.string().min(1).max(80), day:day.nullable(), title:short.min(1), time, duration:z.number().int().min(0).max(1440), area:short, place:short, note:z.string().max(3000), category:z.enum(['구경','맛집','카페','쇼핑','이동','기타']),catalogId:z.string().regex(/^[a-z0-9-]{1,100}$/).optional()}).strict();
+export const flightSchema = z.object({carrier:short, agency:short, from:short, to:short, departure:time, arrival:time, number:short, note:z.string().max(2000)}).strict();
+export const shoppingSchema=z.object({id:z.string().min(1).max(80),place:short,item:short.min(1),done:z.boolean()}).strict();
+export const tripSchema = z.object({shopping:z.array(shoppingSchema).max(200).optional(),favorites:z.array(z.string().regex(/^(catalog|entry):.{1,180}$/u)).max(600).optional(),entries:z.array(entrySchema).max(300), checks:z.array(z.object({id:z.string().min(1).max(80), title:short.min(1), done:z.boolean()}).strict()).max(200), outbound:flightSchema, inbound:flightSchema, hotel:z.object({name:short, agency:short, address:short, checkin:time, checkout:time, note:z.string().max(3000)}).strict()}).strict().superRefine((v,ctx)=>{ if(v.favorites&&new Set(v.favorites).size!==v.favorites.length)ctx.addIssue({code:'custom',message:'중복된 하트입니다'});for(const group of [v.entries,v.checks,v.shopping||[]]) { if(new Set(group.map(x=>x.id)).size !== group.length) ctx.addIssue({code:'custom',message:'중복된 항목입니다'}); } });

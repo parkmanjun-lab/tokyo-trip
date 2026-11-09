@@ -1,0 +1,6 @@
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+
+/tokyo-shell-worker.js
+  Cache-Control: no-store, max-age=0
+  Service-Worker-Allowed: /

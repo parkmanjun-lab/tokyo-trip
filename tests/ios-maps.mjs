@@ -1,0 +1,16 @@
+import assert from 'node:assert/strict';
+import {iosMapUrl,iosWalkingUrl,iosDirectionsUrl,isAppleMobile,mapLinkOptions} from '../lib/ios-maps.ts';
+import {mapUrl,walkingUrl} from '../lib/trip.ts';
+import {readFileSync} from 'node:fs';
+const origin='Hotel Monterey Ginza, 東京都中央区銀座2-10-2';
+const destination='Jazz & Soul Bar The Deep, 東京都中央区銀座6-3-12 "数寄屋"ビル4F #店';
+const search=new URL(iosMapUrl(destination));assert.equal(search.protocol,'comgooglemaps:');assert.equal(search.searchParams.get('q'),destination);
+const walking=new URL(iosWalkingUrl(origin,destination));assert.equal(walking.protocol,'comgooglemaps:');assert.equal(walking.searchParams.get('saddr'),origin);assert.equal(walking.searchParams.get('daddr'),destination);assert.equal(walking.searchParams.get('directionsmode'),'walking');
+assert.ok(isAppleMobile('Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X)','iPhone',5));assert.ok(isAppleMobile('Mozilla/5.0 (Macintosh; Intel Mac OS X)','MacIntel',5));assert.ok(!isAppleMobile('Mozilla/5.0 (Macintosh; Intel Mac OS X)','MacIntel',0));assert.ok(!isAppleMobile('Mozilla/5.0 (Linux; Android 16)','Linux armv8l',5));
+const transit=new URL(iosDirectionsUrl(origin,destination,'transit'));assert.equal(transit.searchParams.get('directionsmode'),'transit');assert.equal(transit.searchParams.get('saddr'),origin);assert.equal(transit.searchParams.get('daddr'),destination);
+const web=walkingUrl(origin,destination);const app=iosWalkingUrl(origin,destination);
+assert.deepEqual(mapLinkOptions(web,app,true),{href:app,target:undefined,rel:undefined});assert.deepEqual(mapLinkOptions(web,app,false),{href:web,target:'_blank',rel:'noopener noreferrer'});
+assert.equal(new URL(mapUrl(destination)).protocol,'https:');assert.equal(new URL(web).searchParams.get('destination'),destination);
+const component=readFileSync('app/map-action.tsx','utf8');assert.ok(component.includes('href={webHref} target="_blank" rel="noopener noreferrer"'));assert.ok(!component.includes('window.open'));assert.ok(!component.includes('setTimeout'));assert.ok(!component.includes('location.href'));assert.ok(component.includes('...link'));
+const planner=readFileSync('app/planner.tsx','utf8');assert.ok(!planner.includes('href={mapUrl('));assert.ok(!planner.includes('href={walkingUrl('));assert.equal((planner.match(/<MapAction /g)||[]).length,5);
+console.log('PASS iOS scheme search and hotel walking parameters, encoded Unicode/quotes/ampersands, iPhone/iPad detection, desktop/Android HTTPS fallback, same-frame app anchors, explicit web fallback, all five existing map affordances plus transit-mode encoding');

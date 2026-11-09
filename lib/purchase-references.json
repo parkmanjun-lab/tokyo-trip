@@ -1,0 +1,73 @@
+[
+  {
+    "id": "bath-additive-shopping",
+    "title": "돈키호테/무지 입욕제",
+    "aliases": [
+      "입욕제",
+      "배스솔트",
+      "bath",
+      "donki",
+      "muji",
+      "돈키",
+      "무지"
+    ],
+    "summary": "무지 긴자와 돈키 긴자본관에서 입욕제를 비교해보세요. 원하는 향·규격의 지점 재고는 아직 미확인이에요.",
+    "notes": [
+      "무지 공식 입욕제 상품군은 확인됐어요. 긴자점3층 헬스&뷰티 안내는2025년 층별도 기준이며, 현재 진열 위치·재고는 별도 확인이 필요해요.",
+      "무지는 원하는 상품 페이지의 ‘店舗在庫を確認する’에서 銀座를 선택해 확인하세요. 재고가 보여도 품절될 수 있으며, 전화 재고 확인·상품 보관은 받지 않는다고 안내해요.",
+      "돈키는 공식 체인 입욕료 상품이 있지만 긴자본관의 취급·재고를 확인한 것은 아니에요. 원하는 브랜드·향·규격을 보여주고 문의하세요."
+    ],
+    "candidateIds": [
+      "muji-ginza",
+      "donki-ginza-main"
+    ],
+    "candidateDescriptions": {
+      "muji-ginza": "공식 입욕제 상품군이 있는 무인양품 · 긴자점 재고는 방문 전 확인",
+      "donki-ginza-main": "24시간 돈키호테에서 입욕제·생활용품 비교 · 상품별 재고 미확인"
+    },
+    "sourceUrls": [
+      "https://www.muji.com/jp/ja/shop/detail/046604",
+      "https://www.muji.com/jp/ja/store/cmdty/section/S1070302",
+      "https://www.muji.com/public/media/doc/19224144/ginza_map250221.pdf",
+      "https://www.donki.com/store/shop_detail.php?shop_id=92",
+      "https://www.donki.com/media_item/item/index.php?item_id=5059"
+    ],
+    "checkedAt": "2026-10-07"
+  },
+  {
+    "id": "lush-mask-shopping",
+    "title": "러쉬",
+    "aliases": [
+      "러쉬",
+      "lush",
+      "슈렉팩",
+      "두피팩",
+      "mask of magnaminty",
+      "roots"
+    ],
+    "summary": "팩·두피 트리트먼트 구매 후보로 유라쿠초 마루이1층 러쉬를 연결했어요. 제품 종류·용량과 지점 재고는 확인이 필요해요.",
+    "notes": [
+      "슈렉팩은 마스크 오브 매그너민티(Mask of Magnaminty), 일본명 パワーマスク로 찾을 수 있어요. 일반 처방과 SP(셀프 프리저빙)는 별개이므로 원한 제품인지 확인하세요.",
+      "파워마스크 일반·SP의 일본 공식 상품 안내상 유통기한은 제조일부터120일이에요. 구매일부터120일이 아니므로 용기 날짜를 확인하세요.",
+      "메모의 두피팩은 루츠(Roots), 일본명 現実頭皮일 가능성이 있어요. 정확한 제품은 아직 확인되지 않았으니 사진·제품명으로 비교하세요. Superbalm은 다른 두피 제품이에요.",
+      "루츠450g과 파워마스크SP600g은 공식 안내상 일본 온라인·신주쿠점 한정이에요. 유라쿠초점에서 해당 용량을 살 수 있다고 가정하지 마세요.",
+      "현재 공식 온라인 참고가격: 파워마스크 일반315g ¥3,640, SP70g ¥1,280, 루츠225g ¥2,910. 2026.10.07 표시값이며 여행일 지점 가격·재고는 보장되지 않아요."
+    ],
+    "candidateIds": [
+      "lush-yurakucho-marui"
+    ],
+    "candidateDescriptions": {
+      "lush-yurakucho-marui": "유라쿠초 마루이1층에서 팩·두피 트리트먼트 비교 · 재고 문의 필요"
+    },
+    "sourceUrls": [
+      "https://www.lush.com/jp/ja/shops/lush?id=JP206",
+      "https://www.lush.com/jp/ja/p/mask-of-magnaminty-face-and-body-mask",
+      "https://www.lush.com/jp/ja/p/mask-of-magnaminty-self-preserving-face-and-body-mask",
+      "https://www.lush.com/jp/ja/p/roots-hair-treatment",
+      "https://helpfeel.com/lushjp-faq/%E6%94%AF%E6%89%95%E3%81%84%E6%96%B9%E6%B3%95%EF%BC%88%E5%BA%97%E8%88%97%EF%BC%89-649a50e6af32bb001bf96ab4",
+      "https://www.lush.co.kr/m/board/jeallushContents/575",
+      "https://www.lush.com/jp/ja/p/superbalm-scalp-treatment"
+    ],
+    "checkedAt": "2026-10-07"
+  }
+]

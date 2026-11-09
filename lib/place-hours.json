@@ -1,0 +1,2415 @@
+{
+  "checkedAt": "2026-10-06",
+  "timezone": "Asia/Tokyo",
+  "places": [
+    {
+      "id": "seveneleven-ginza1chome-chuo",
+      "hours": "24시간(동일 점포 공식 채용 안내 기준)",
+      "lastOrder": "해당 없음(편의점 상품 판매)",
+      "closure": "연중무휴(동일 점포 공식 채용 안내 기준)",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "needs_confirmation",
+          "hours": "24시간 안내; 최신 점포 영업시간 재확인",
+          "note": "주소가 일치하는 공식 채용 페이지는 24시간·연중무휴로 안내. 최신 고객용 점포안내는 확보하지 못해 확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": "24시간 안내; 최신 점포 영업시간 재확인",
+          "note": "주소가 일치하는 공식 채용 페이지는 24시간·연중무휴로 안내. 최신 고객용 점포안내는 확보하지 못해 확인 필요"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": "24시간 안내; 최신 점포 영업시간 재확인",
+          "note": "주소가 일치하는 공식 채용 페이지는 24시간·연중무휴로 안내. 최신 고객용 점포안내는 확보하지 못해 확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://ptj.sej.co.jp/arbeit/recruitment/jobfind-pc/job/all/120335/",
+        "https://www.sej.co.jp/products/andst_shoplist.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "공식 채용 페이지의 정보 갱신 표기는 2025-09-18. 24시간은 동일 점포의 참고 안내이며 최신 고객용 점포 영업시간은 확인 필요",
+        "공식 점포찾기 개별 페이지는 조회에 실패했으며 미확인 내용을 보완 추정하지 않음"
+      ]
+    },
+    {
+      "id": "acne-ginza-mitsukoshi",
+      "hours": "매일 10:00~20:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 입점 시설 휴점·특별 운영 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.acnestudios.com/jp/ja/stores/ginza-mitsukoshi",
+        "https://www.mistore.jp/store/ginza/access.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "Acne Studios 공식 매장 페이지에 월~일 10:00~20:00 명시. 백화점 식당 시간과 구별한 매장 시간입니다."
+      ]
+    },
+    {
+      "id": "muji-ginza",
+      "hours": "매일 11:00~21:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 임시휴무 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.muji.com/jp/ja/shop/detail/046604"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "요일별 매장 시간 확인. 4층 면세 계산대·5층 배송 접수는 현재 11:00~20:30이며 매장 폐점과 다릅니다. 11월 이후 환급 운영은 재확인하세요."
+      ]
+    },
+    {
+      "id": "celine-mitsukoshi",
+      "hours": "매일 10:00~20:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 입점 시설 휴점·특별 운영 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://stores.celine.com/ja_jp/tokyo/chuo-ku/ginza-4-6-16",
+        "https://www.mistore.jp/store/ginza/access.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "CELINE 공식 긴자 미쓰코시 1F 레ザーグッズ 매장 주간 시간표 기준입니다."
+      ]
+    },
+    {
+      "id": "ami-mitsukoshi",
+      "hours": "10:00~20:00 · 긴자 미쓰코시 쇼핑 영업시간",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 입점 시설 휴점·특별 운영 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.mistore.jp/store/ginza/access.html",
+        "https://www.mistore.jp/store/ginza/shops/luxury/mode/shopnews_list/shopnews056.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "긴자 미쓰코시의 AMI 입점 안내와 백화점 쇼핑 영업시간을 함께 확인했습니다. 개별 매장 특별 운영은 재확인하세요."
+      ]
+    },
+    {
+      "id": "bincho-ginza",
+      "hours": "공식 연결 예약 안내: 런치 11:00~15:00 / 디너 17:00~21:00. 시설 공식 페이지는 디너 종료를 23:00으로 달리 표기",
+      "lastOrder": "런치 14:30 / 디너 20:00. 공식 연결 예약 접수 시작 시각은 19:30까지(일부 가이세키는 19:00까지)",
+      "closure": "공식 매장 페이지는 최신 정기휴무를 Google Maps로 안내. 고정 휴무 미확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "needs_confirmation",
+          "hours": "11:00~15:00 / 17:00~21:00(공식 연결 예약 안내; 종료시간 상충 확인 필요)",
+          "note": "공식 연결 예약 안내와 시설 공식 페이지의 저녁 종료시각이 21:00/23:00으로 상충. 정기휴무 및 실제 여행일 영업 확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": "11:00~15:00 / 17:00~21:00(공식 연결 예약 안내; 종료시간 상충 확인 필요)",
+          "note": "공식 연결 예약 안내와 시설 공식 페이지의 저녁 종료시각이 21:00/23:00으로 상충. 정기휴무 및 실제 여행일 영업 확인 필요"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": "11:00~15:00 / 17:00~21:00(공식 연결 예약 안내; 종료시간 상충 확인 필요)",
+          "note": "공식 연결 예약 안내와 시설 공식 페이지의 저녁 종료시각이 21:00/23:00으로 상충. 정기휴무 및 실제 여행일 영업 확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://hitsumabushi.co.jp/GzQfgPd_/Marronnier_Gate_Ginza",
+        "https://booking.ebica.jp/webrsv/search/e020034301/19319?isfixshop=true",
+        "https://www.marronniergate.com/shop/index/125"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "시설 페이지 23:00 종료를 확정값으로 사용하지 않음. 최신 공식 연결 예약 페이지의 21:00 기준으로 보수적으로 표시",
+        "장어 소진 시 조기 종료; 라스트오더 직전 대기가 많으면 접수 조기 종료 가능"
+      ]
+    },
+    {
+      "id": "gu-marronnier-ginza",
+      "hours": "11:00~21:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 입점 시설 휴점·특별 운영 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.marronniergate.com/shop/index/318",
+        "https://www.marronniergate.com/info"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "마로니에 게이트 긴자2 5F GU 매장 시간이며 건물 내 식당·슈퍼마켓 시간과 다릅니다."
+      ]
+    },
+    {
+      "id": "montbell-kyobashi",
+      "hours": "11:00~21:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "도쿄 스퀘어 가든 휴관일에 따름",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://store.montbell.jp/search/shopinfo/?shop_no=678502",
+        "https://tokyo-sg.com/info/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "매장 공식 안내에 시설 휴관일 준수 명시. 확인한 시설 공지 목록에서 여행일 점검 휴관일을 확정할 수 없었습니다."
+      ]
+    },
+    {
+      "id": "standardproducts-ginza",
+      "hours": "11:00~21:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 입점 시설 휴점·특별 운영 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.daiso-sangyo.co.jp/shop/detail/009170",
+        "https://www.marronniergate.com/info"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "마로니에 게이트 긴자2 6F 소매점 시간. 식당·슈퍼마켓 운영시간과 구별했습니다."
+      ]
+    },
+    {
+      "id": "torigin-ginza",
+      "hours": "매일 11:30~22:00",
+      "lastOrder": "21:00",
+      "closure": "연말연시 휴무; 통상 주간 정기휴무 없음",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:30~22:00 · L.O.21:00",
+          "note": "통상 요일별 영업시간 적용. 여행일 임시 변경은 미확정"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:30~22:00 · L.O.21:00",
+          "note": "통상 요일별 영업시간 적용. 여행일 임시 변경은 미확정"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:30~22:00 · L.O.21:00",
+          "note": "통상 요일별 영업시간 적용. 여행일 임시 변경은 미확정"
+        }
+      ],
+      "sourceUrls": [
+        "https://torigin-ginza.jp/access/",
+        "https://torigin-ginza.jp/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "본점은 예약을 받지 않으므로 대기·당일 접수 종료를 고려"
+      ]
+    },
+    {
+      "id": "highfive-ginza",
+      "hours": "월~토 17:00~익일 01:00",
+      "lastOrder": "라스트오더 미명시; 최종 입장 익일 00:00",
+      "closure": "일요일·공휴일 저녁 영업 휴무",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_closed",
+          "hours": "일요일 저녁 영업 없음; 00:00~01:00은 토요일 영업의 연장",
+          "note": "일요일에 시작하는 영업은 정기 휴무. 날짜 전체가 휴업이라는 뜻은 아니며 11/28(토) 영업이 11/29 01:00까지 이어짐"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "17:00~12/1(화) 01:00 · 최종 입장 12/1 00:00",
+          "note": "월요일 영업을 적용. 자정 이후는 다음 날이며 여행일 임시 변경 미확정"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "17:00~12/2(수) 01:00 · 최종 입장 12/2 00:00",
+          "note": "화요일 영업을 적용. 12/1 00:00~01:00은 11/30 영업의 연장. 저녁 영업은 18:15 나리타 출국 일정과 맞지 않음"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.barhighfive.com/map"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "최종 입장 시간을 라스트오더로 바꾸지 않음",
+        "여행 중 방문 후보는 11/30 저녁. 예약·입장·잔여 좌석 미확인"
+      ]
+    },
+    {
+      "id": "stussy-dsm-ginza",
+      "hours": "매일 11:00~20:00 · DSM 긴자 쇼핑 영업시간",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 임시휴무 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://ginza.doverstreetmarket.com/pages/contact",
+        "https://ginza.doverstreetmarket.com/pages/floorguide",
+        "https://jp.stussy.com/blogs/chapters/dsm-ginza"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "DSM 긴자 공식 안내는 월~일 11:00~20:00입니다. 발매일 입장·추첨 방식과 시즌 교체 휴점은 별도 확인이 필요합니다."
+      ]
+    },
+    {
+      "id": "supreme-dsm-ginza",
+      "hours": "매일 11:00~20:00 · DSM 긴자 쇼핑 영업시간",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 임시휴무 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://ginza.doverstreetmarket.com/pages/contact",
+        "https://ginza.doverstreetmarket.com/pages/floorguide"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요. Supreme 발매일의 추첨·대기·입장 제한은 영업시간과 별개입니다.",
+        "DSM 긴자 공식 안내는 월~일 11:00~20:00입니다. 발매일 입장·추첨 방식과 시즌 교체 휴점은 별도 확인이 필요합니다."
+      ]
+    },
+    {
+      "id": "cdg-dsm-ginza",
+      "hours": "매일 11:00~20:00 · DSM 긴자 쇼핑 영업시간",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 임시휴무 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://ginza.doverstreetmarket.com/pages/contact",
+        "https://ginza.doverstreetmarket.com/pages/floorguide"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "DSM 긴자 공식 안내는 월~일 11:00~20:00입니다. 발매일 입장·추첨 방식과 시즌 교체 휴점은 별도 확인이 필요합니다."
+      ]
+    },
+    {
+      "id": "danton-bshop-yurakucho",
+      "hours": "매일 11:00~21:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 입점 시설 휴점·특별 운영 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~21:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.lumine.ne.jp/yurakucho/floorguide/detail/?scd=003254",
+        "https://bshop-inc.com/feature/event/yurakucho-lumine-re-open"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "루미네2 4F Bshop 매장 시간입니다. 2026-03-10 리뉴얼 오픈 확인; DANTON 단독 매장이 아닙니다."
+      ]
+    },
+    {
+      "id": "celine-ginza-six",
+      "hours": "매일 10:30~20:30",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 입점 시설 휴점·특별 운영 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:30~20:30",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:30~20:30",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:30~20:30",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://stores.celine.com/ja_jp/tokyo/chuo-ku/ginza-6-10-1",
+        "https://ginza6.tokyo/hours/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "CELINE 공식 매장의 월~일 시간표 확인. GINZA SIX 식당의 23시 종료와 구별합니다."
+      ]
+    },
+    {
+      "id": "ami-ginza-six",
+      "hours": "10:30~20:30",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 입점 시설 휴점·특별 운영 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:30~20:30",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:30~20:30",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:30~20:30",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://ginza6.tokyo/shops/detail/5343004/?tenant_cd=5343004",
+        "https://ginza6.tokyo/hours/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "현행 GINZA SIX 3F Ami Paris 매장 상세의 10:30~20:30 기준. 과거 리뉴얼 중 임시 팝업 공지의 기간과 혼동하지 않습니다."
+      ]
+    },
+    {
+      "id": "arcteryx-ginza-six",
+      "hours": "10:30~20:30",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "GINZA SIX 휴관일에 따름",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:30~20:30",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:30~20:30",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:30~20:30",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://ginza6.tokyo/shops/detail/3528007/?tenant_cd=3528007",
+        "https://arcteryx.jp/pages/storelist",
+        "https://ginza6.tokyo/hours/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "브랜드 목록의 시설 휴무 준수와 GINZA SIX 5F 매장 상세 시간 확인. 월~목 휴무인 도쿄 긴자 취급점과 별개입니다."
+      ]
+    },
+    {
+      "id": "bacchus-ginza",
+      "hours": "월~금 18:00~익일 03:00 / 토 18:00~24:00. 사전 전화예약제",
+      "lastOrder": "월~금 익일 02:00 / 토 23:00",
+      "closure": "일요일·공휴일 휴무",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_closed",
+          "hours": "일요일 휴무",
+          "note": "토요일 영업은 일요일 00:00에 끝남. 일요일에 시작하는 영업은 정기 휴무"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "18:00~12/1(화) 03:00 · L.O.12/1 02:00",
+          "note": "평일 통상 시간. 사전 전화예약제이므로 예약 없이 입장 가능한 영업으로 해석하지 않음"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "18:00~12/2(수) 03:00 · L.O.12/2 02:00",
+          "note": "12/1 00:00~03:00은 11/30 영업의 연장. 화요일 저녁 영업은 18:15 나리타 출국 일정과 맞지 않음"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ginza-bacchus.jp/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "사전 전화예약 필수. 여행일 예약·잔여 좌석 확인 전"
+      ]
+    },
+    {
+      "id": "thedeep-ginza",
+      "hours": "공연일 기본 19:00 오픈~22:30 종료; 1부 19:30~20:30 / 2부 21:00~22:00. 공연별 예외 가능",
+      "lastOrder": "공식 페이지에 라스트오더 시각 미명시",
+      "closure": "공연 일정 기준. 고정 주간 휴무 명시 없음; 일정 미기재를 휴업으로 단정하지 않음",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "needs_confirmation",
+          "hours": "11/29 공연 시간 미기재",
+          "note": "공식 11월 일정에서 11/29 공연을 찾지 못함. 휴업 확정과 구분해 확인 필요로 표시"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "19:00~22:30 · 공연 19:30~20:30 / 21:00~22:00",
+          "note": "공식 11/30 공연 게시 확인: 出口優日(Vo), 後藤沙紀(Pf). 개별 시간 예외가 없어 기본 공연시간 적용; 변경·잔여석은 미확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "기본 19:00~22:30 · 현재 출국 일정에는 이용 불가",
+          "note": "공식 12/1 11주년 공연 게시 확인: 平良亜矢子(Vo), 小谷のりこ(Vo), 奥山勝(Pf), 田中洋平(B); Music Fee 3,850엔. 기본 19:00 오픈이 18:15 나리타 출국 이후이므로 여행 중 방문 후보로 추천하지 않음"
+        }
+      ],
+      "sourceUrls": [
+        "https://jazz-thedeep.com/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "11/30과 12/1 공연 게재 사실은 확인했지만 개최 보장·예약 완료·잔여석 확인을 뜻하지 않음",
+        "12/1 11주년 공연은 사실 정보로만 기록; 사용자의 출국 일정과 맞지 않음"
+      ]
+    },
+    {
+      "id": "liquor-mountain-ginza777",
+      "hours": "월~금 11:00~다음 날 02:00, 토 11:00~22:00, 일·공휴일 11:00~20:00",
+      "lastOrder": "상품 구매는 해당 없음 · 유료 시음 마감 별도 확인",
+      "closure": "주 7일 영업 안내 · 임시휴무 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~다음 날 02:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~다음 날 02:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.likaman.co.jp/en/shop/tokyo/chuo-ku/8466.html",
+        "https://www.likaman.co.jp/special/ginza777/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "요일별 폐점시간이 다릅니다. 평일 다음 날 02:00까지라는 뜻이며 일요일에는 20:00에 종료합니다. 위스키 구매 매장 시간과 유료 시음 운영은 구별하세요."
+      ]
+    },
+    {
+      "id": "sushinomidori-ginza",
+      "hours": "평일 11:00~15:00 / 17:00~21:00(15:00~17:00 휴식). 토·일·공휴일 11:00~21:00",
+      "lastOrder": "평일 런치 14:00 / 저녁 20:30; 토·일·공휴일 20:30",
+      "closure": "1/1 휴무. 현재 추가 휴점 안내 10/14·11/11(여행일과 겹치지 않음)",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~21:00 · L.O.20:30",
+          "note": "일요일 통상 연속 영업. 현재 추가 휴점 목록은 10/14·11/11이며 여행일 휴업 보장은 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~15:00(L.O.14:00) / 17:00~21:00(L.O.20:30)",
+          "note": "통상 요일별 영업시간 적용. 여행일 임시 변경은 미확정"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~15:00(L.O.14:00) / 17:00~21:00(L.O.20:30)",
+          "note": "통상 요일별 영업시간 적용. 여행일 임시 변경은 미확정"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.sushinomidori.co.jp/shops/ginza/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "현장 순번표 10:00부터. 라스트오더 전 입장이 어렵다고 판단되면 정리권 배부를 일찍 종료할 수 있음"
+      ]
+    },
+    {
+      "id": "ichiran-shimbashi",
+      "hours": "24시간",
+      "lastOrder": "별도 라스트오더 미명시(24시간 안내)",
+      "closure": "통상 24시간 안내; 인력 사정에 따른 임시 변경 가능",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "24시간",
+          "note": "공식 신바시점의 24시간 안내 적용. 인력 사정 등 임시 변경은 여행 직전 확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "24시간",
+          "note": "공식 신바시점의 24시간 안내 적용. 인력 사정 등 임시 변경은 여행 직전 확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "24시간",
+          "note": "공식 신바시점의 24시간 안내 적용. 인력 사정 등 임시 변경은 여행 직전 확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://ichiran.com/shop/tokyo/shimbashi/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "폐점한 긴자점 영업시간을 사용하지 않음"
+      ]
+    },
+    {
+      "id": "monkichi-tsukishima",
+      "hours": "공식 本店: 11:00~22:00. 지도 지점 식별 충돌 때문에 방문 지점 확정 전 단일 영업정보로 단정하지 않음",
+      "lastOrder": "공식 本店: 21:00",
+      "closure": "공식 本店 연중무휴(점검 휴무 가능); 新店 월요일 휴무, 西仲店 화요일 휴무",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "needs_confirmation",
+          "hours": "공식 本店 참고: 11:00~22:00 · L.O.21:00",
+          "note": "세 지점 주소가 같고 기존 지도 결과의 전화번호는 新店과 일치. 공식 本店을 찾는지 확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": "본점 참고 11:00~22:00; 新店은 월요일 정기휴무",
+          "note": "본점은 통상 무휴지만 기존 지도 결과는 월요일 휴무인 新店 전화번호와 일치. 지점 확인 전 영업으로 확정하지 않음"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": "본점 참고 11:00~22:00; 西仲店은 화요일 정기휴무",
+          "note": "본점은 통상 무휴. 동일 주소의 西仲店은 화요일 휴무이므로 실제 방문 지점 확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.monkichi.co.jp/restaurant/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "공식 本店 03-3531-2380 / 新店 03-3531-2366 / 西仲店 03-3531-2367; 기존 지도 결과는 本店 표기지만 전화번호가 新店과 일치",
+        "지도의 혼재된 영업시간·전화번호를 本店의 사실로 강제 병합하지 않음"
+      ]
+    },
+    {
+      "id": "humanmade-harajuku",
+      "hours": "11:00~20:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 임시휴무 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.humanmade.jp/en/dealers.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "HUMAN MADE HARAJUKU(神宮前1-11-6) 매장 시간. 별도 HUMAN MADE TOKYO·OFFLINE STORE 시간과 구별했습니다."
+      ]
+    },
+    {
+      "id": "kaldi-yaechika",
+      "hours": "10:00~20:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무일은 공식 안내에 별도 표기 없음 · 입점 시설 휴점·특별 운영 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:00~20:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.yaechika.com/shop/sp384/",
+        "https://www.yaechika.com/opening-hours/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "야에치카 공식 KALDI 매장 안내의 시간. Cafe Kaldi/하가레 및 도쿄역 캐릭터 스트리트의 20:30 종료와 구별합니다."
+      ]
+    },
+    {
+      "id": "arcteryx-tokyo-ginza",
+      "hours": "금 12:00~19:00, 토·일 12:00~18:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "월~목 정기휴무",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "12:00~18:00",
+          "note": "현재 일요일 정규시간 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_closed",
+          "hours": null,
+          "note": "월요일 정기휴무"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_closed",
+          "hours": null,
+          "note": "화요일 정기휴무"
+        }
+      ],
+      "sourceUrls": [
+        "https://arcteryxtokyoginza.jp/",
+        "https://arcteryx.jp/pages/storelist"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "매장 자체 사이트의 요일별 시간이 더 구체적입니다. 브랜드 목록은 일괄 12:00~18:00로 표기하지만 금요일은 매장 사이트 기준 19:00까지. 여행일 일·월·화 판단에는 충돌이 없습니다."
+      ]
+    },
+    {
+      "id": "tsunahachi-ginza",
+      "hours": "월~토 11:00~22:00 / 일요일·연휴 마지막 날 11:00~21:30",
+      "lastOrder": "월~토 21:00 / 일·연휴 마지막 날 20:30; 런치 메뉴 15:00",
+      "closure": "마쓰야 긴자 휴점일에 따르는 부정기 휴무",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~21:30 · L.O.20:30 / 런치 L.O.15:00",
+          "note": "일요일 통상 시간 적용. 마쓰야 임시 휴점 및 운영 변경은 미확정"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~22:00 · L.O.21:00 / 런치 L.O.15:00",
+          "note": "월요일 통상 시간 적용. 마쓰야 임시 휴점 및 운영 변경은 미확정"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~22:00 · L.O.21:00 / 런치 L.O.15:00",
+          "note": "화요일 통상 시간 적용. 마쓰야 임시 휴점 및 운영 변경은 미확정"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.tunahachi.co.jp/store/15.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님"
+      ]
+    },
+    {
+      "id": "ginza-hachigo",
+      "hours": "11:00부터 현장 순서대로 안내 / 12:00~16:00 예약 고객 안내. 현장 접수는 수프 소진 시 종료",
+      "lastOrder": "고정 라스트오더 미명시; 당일 수프 소진 시 현장 접수 종료",
+      "closure": "월요일 정기휴무 / 화요일 부정기휴무",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00부터 현장 안내 / 12:00~16:00 예약 운영",
+          "note": "일요일 통상 운영 기준. 도착 시각·수프 소진·예약 여부에 따라 이용 가능성이 달라짐"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_closed",
+          "hours": "월요일 정기휴무",
+          "note": "현행 월요일 정기휴무 규정에 해당"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": "영업하면 11:00부터 현장 안내 / 12:00~16:00 예약 운영",
+          "note": "화요일 부정기휴무가 있으므로 12/1 영업 여부와 18:15 나리타 출국 이동 시간을 먼저 확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://katsumoto-japan.com/ja/ginza_hachigou.html",
+        "https://www.tablecheck.com/ja/shops/ginza-hachigou/reserve"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "현장 접수와 예약 운영시간을 구분. 16:00까지 아무나 입장할 수 있는 것으로 표시하지 않음"
+      ]
+    },
+    {
+      "id": "tsujihan-nihonbashi",
+      "hours": "10:00~22:30",
+      "lastOrder": "22:00",
+      "closure": "부정기휴무; 연말연시 별도",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:00~22:30 · L.O.22:00",
+          "note": "주간 정기휴무 표시는 없음. 통상 시간 적용이며 부정기 휴무·당일 접수 마감은 미확정"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:00~22:30 · L.O.22:00",
+          "note": "주간 정기휴무 표시는 없음. 통상 시간 적용이며 부정기 휴무·당일 접수 마감은 미확정"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:00~22:30 · L.O.22:00",
+          "note": "주간 정기휴무 표시는 없음. 통상 시간 적용이며 부정기 휴무·당일 접수 마감은 미확정"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.tsujihan-jp.com/blank"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "전 지점 좌석 예약 미접수. 현장 대기와 접수 조기 종료는 예측하지 않음"
+      ]
+    },
+    {
+      "id": "asakusa-imahan-kokusai",
+      "hours": "11:30~21:30. 현재 14:30~16:00 신규 안내 중단; 입장·최종 예약 시작 19:00까지",
+      "lastOrder": "20:30. 라스트오더와 별개로 입장은 19:00까지",
+      "closure": "연중무휴 안내",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:30~21:30 · L.O.20:30; 14:30~16:00 신규 안내 중단 / 입장 19:00까지",
+          "note": "통상 영업시간 적용. 14:30~16:00은 신규 안내 중단이며 전면 휴업으로 바꾸지 않음"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:30~21:30 · L.O.20:30; 14:30~16:00 신규 안내 중단 / 입장 19:00까지",
+          "note": "통상 영업시간 적용. 14:30~16:00은 신규 안내 중단이며 전면 휴업으로 바꾸지 않음"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:30~21:30 · L.O.20:30; 14:30~16:00 신규 안내 중단 / 입장 19:00까지",
+          "note": "통상 영업시간 적용. 14:30~16:00은 신규 안내 중단이며 전면 휴업으로 바꾸지 않음"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.asakusaimahan.co.jp/kokusai"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "현재 신규 안내 중단·입장 마감 운영이 여행일에도 유지되는지 확인 필요",
+        "평일 개별실은 16:00 이후; 주말·공휴일은 낮 이용도 가능. 좌석별 예약 조건은 별도"
+      ]
+    },
+    {
+      "id": "maisen-aoyama",
+      "hours": "11:00~22:00(토·일·공휴일 포함)",
+      "lastOrder": "21:00",
+      "closure": "1/1~1/2 휴무 안내",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~22:00 · L.O.21:00",
+          "note": "일요일 정상 통상 영업. 주말에는 연회 코스만 예약 가능하므로 일반 돈카츠 예약 가능으로 해석하지 않음"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~22:00 · L.O.21:00",
+          "note": "통상 요일별 영업시간 적용. 여행일 임시 변경은 미확정"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~22:00 · L.O.21:00",
+          "note": "통상 요일별 영업시간 적용. 여행일 임시 변경은 미확정"
+        }
+      ],
+      "sourceUrls": [
+        "https://mai-sen.com/restaurant/aoyama/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "여행일 예약 가능 범위·잔여석 미확인"
+      ]
+    },
+    {
+      "id": "cafe-kimuraya-ginza",
+      "hours": "2층 카페 10:00~20:00. 모닝은 평일 10:00~11:00에만 제공",
+      "lastOrder": "19:00",
+      "closure": "12/31·1/1 휴무, 그 외 무휴 안내",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:00~20:00 · L.O.19:00; 모닝 세트 미제공",
+          "note": "일요일 카페 통상 영업이지만 평일 전용 모닝은 제공하지 않음"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:00~20:00 · L.O.19:00; 모닝 10:00~11:00",
+          "note": "평일 통상 영업 및 모닝 시간 적용. 여행일 실제 메뉴는 재확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:00~20:00 · L.O.19:00; 모닝 10:00~11:00",
+          "note": "평일 통상 영업 및 모닝 시간 적용. 여행일 실제 메뉴는 재확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ginzakimuraya.jp/cafe-kimuraya/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일 임시 휴무·단축 영업·운영 변경은 미확정이며 통상 시간은 영업 보장이 아님",
+        "1층 빵 판매점의 영업시간이 아니라 2층 카페 안내"
+      ]
+    },
+    {
+      "id": "extra-tokyo-character-street",
+      "hours": "10:00~20:30 · 일부 매장 다름",
+      "lastOrder": "쇼핑은 해당 없음 · 음식점은 개별 확인",
+      "closure": "공통 정기휴무일은 공식 안내에 별도 표기 없음 · 개별 매장 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:00~20:30 · 개별 매장 예외",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:00~20:30 · 개별 매장 예외",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:00~20:30 · 개별 매장 예외",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.tokyoeki-1bangai.co.jp/en/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "도쿄역 일번가 전체 영업시간이 아닌 캐릭터 스트리트의 표준 쇼핑시간입니다. 라멘·과자·식당 구역은 별도 시간입니다."
+      ]
+    },
+    {
+      "id": "extra-biccamera-yurakucho",
+      "hours": "10:00~22:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "연중무휴 · 공식 명시",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:00~22:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:00~22:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:00~22:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.biccamera.com/bc/i/shop/shoplist/shop014.jsp"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요."
+      ]
+    },
+    {
+      "id": "extra-shibuya-parco",
+      "hours": "일반 쇼핑 11:00~21:00 · 6F Nintendo TOKYO·포켓몬센터 등 10:00~21:00",
+      "lastOrder": "쇼핑은 해당 없음 · 식당 L.O.는 점포별 확인",
+      "closure": "부정기 휴무 · 연말연시 시간 변경, 일부 점포 예외",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "일반 11:00~21:00 · 6F 10:00~21:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "일반 11:00~21:00 · 6F 10:00~21:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "일반 11:00~21:00 · 6F 10:00~21:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://shibuya.parco.jp/info/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "일반 식당 11:30~23:00, 7F 식당 11:00~23:00로 쇼핑시간과 다릅니다. 공식 시설 안내에 부정기 휴무 명시."
+      ]
+    },
+    {
+      "id": "extra-isetan-shinjuku",
+      "hours": "쇼핑 10:00~20:00 · 7F 식당 11:00~22:00(점포별 예외)",
+      "lastOrder": "쇼핑은 해당 없음 · 식당 L.O.는 점포별 확인",
+      "closure": "정기휴무일은 확인한 공식 안내에 별도 표기 없음 · 백화점 휴점 공지 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "쇼핑 10:00~20:00",
+          "note": "현재 일요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "쇼핑 10:00~20:00",
+          "note": "현재 월요일 정규 운영 기준 · 여행일 확정 아님"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "쇼핑 10:00~20:00",
+          "note": "현재 화요일 정규 운영 기준 · 여행일 확정 아님"
+        }
+      ],
+      "sourceUrls": [
+        "https://cp.mistore.jp/global/en/shinjuku.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "쇼핑 시간과 식당 시간을 분리했습니다. 개별 브랜드·식당 특별 운영은 따로 확인하세요."
+      ]
+    },
+    {
+      "id": "extra-kappabashi",
+      "hours": "상점가 점포별 상이 · 니이미 시작점은 10:00~17:45",
+      "lastOrder": "해당 없음 · 상점가 소매점",
+      "closure": "거리 내 점포별 휴무 상이 · 일·공휴일 약 70% 점포 휴무",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "needs_confirmation",
+          "hours": "점포별 상이 · 니이미 휴무",
+          "note": "일요일 약 70% 점포 휴무 · 거리 전체 휴무는 아님"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": "점포별 상이 · 니이미 10:00~17:45",
+          "note": "방문할 개별 점포 확인 · 니이미는 월요일 통상영업"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": "점포별 상이 · 니이미 10:00~17:45",
+          "note": "방문할 개별 점포 확인 · 니이미는 화요일 통상영업"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.kappabashi.or.jp/qa/",
+        "https://niimi1907.com/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06에 확인한 현재 정규 운영 기준입니다. 여행일(11/29~12/1)의 임시휴무·시설 점검·특별 영업은 확정되지 않았으므로 출발 전 공식 공지를 다시 확인하세요.",
+        "상점가는 단일 매장이 아니므로 통합 영업시간·통합 휴무를 만들지 않았습니다. 니이미의 시간과 휴무는 지도 시작점에만 적용합니다."
+      ],
+      "routedAnchor": {
+        "title": "니이미 양식기점",
+        "hours": "월~토 10:00~17:45",
+        "closure": "일요일·공휴일 휴무",
+        "days": [
+          {
+            "date": "2026-11-29",
+            "status": "regular_closed",
+            "hours": null,
+            "note": "일요일 정기휴무"
+          },
+          {
+            "date": "2026-11-30",
+            "status": "regular_hours",
+            "hours": "10:00~17:45",
+            "note": "현재 월요일 정규시간 기준"
+          },
+          {
+            "date": "2026-12-01",
+            "status": "regular_hours",
+            "hours": "10:00~17:45",
+            "note": "현재 화요일 정규시간 기준"
+          }
+        ],
+        "sourceUrls": [
+          "https://niimi1907.com/"
+        ]
+      }
+    },
+    {
+      "id": "moheji-ueno",
+      "hours": "평일 10:45–23:00 / 토·일·공휴일 10:30–23:00",
+      "lastOrder": "공식 확인 자료에 라스트오더 미표기. 늦게 방문한다면 매장에 확인",
+      "closure": "정기휴무 없음. 임시휴무·단축영업은 방문 전 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:30–23:00",
+          "note": "현재 일요일 통상 영업시간이며 해당 날짜의 임시휴무·좌석은 미확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": "10:45–23:00 안내",
+          "note": "현재 상점가·점주 관리 타베로그·Google Maps는 평일 10:45 개점, 구루나비 계열 공식 페이지는 11:00로 상충. 11시 전 방문 시 문의"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": "10:45–23:00 안내",
+          "note": "현재 상점가·점주 관리 타베로그·Google Maps는 평일 10:45 개점, 구루나비 계열 공식 페이지는 11:00로 상충. 11시 전 방문 시 문의"
+        }
+      ],
+      "sourceUrls": [
+        "https://kissuigroup.com/shop/#moheji_ueno",
+        "https://www.ameyoko.net/shop/295",
+        "https://tabelog.com/tokyo/A1311/A131101/13230741/",
+        "https://gh04604.gorp.jp/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "평일 개점 시각은 공식 계열 출처끼리 10:45와 11:00로 상충. 다수 현재 안내인 10:45를 표시하되 11시 전 방문은 매장 확인",
+        "라스트오더, 예약 시간대·최소 인원·취소 규정, 당일 메뉴·가격은 미확인",
+        "미래 여행일의 임시휴무·영업 변경과 잔여석을 보장하지 않음"
+      ]
+    },
+    {
+      "id": "pain-maison-ginza",
+      "hours": "08:30~19:00 · 화요일 휴무",
+      "lastOrder": "공식 별도 L.O. 표기 없음",
+      "closure": "화요일",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "08:30~19:00 · 화요일 휴무",
+          "note": "08:30~19:00, 임시 변동 미확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "08:30~19:00 · 화요일 휴무",
+          "note": "08:30~19:00, 아침 포장 우선 후보"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_closed",
+          "hours": null,
+          "note": "화요일 정기 휴무"
+        }
+      ],
+      "sourceUrls": [
+        "https://shiopan-maison.com/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "주간 영업 안내를 여행 요일에 대입한 계획 참고값. 날짜별 특별 영업 확정 아님",
+        "11/29(일)·11/30(월)은 통상 영업일. 12/1(화)은 정기 휴무이므로 제외. 11/29는 15:00 호텔 체크인 후 간식도 가능하나 당일 접수·재고 확인"
+      ]
+    },
+    {
+      "id": "bongen-coffee-ginza",
+      "hours": "공식 현재 안내 10:00~17:00 · 연중무휴",
+      "lastOrder": "공식 L.O. 미공개",
+      "closure": "공식 연중무휴. 제3자 정보의 화요일 휴무와 충돌하여 재확인 필요",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "공식 현재 안내 10:00~17:00 · 연중무휴",
+          "note": "공식 10:00~17:00 기준, 실제 영업 재확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "공식 현재 안내 10:00~17:00 · 연중무휴",
+          "note": "공식 10:00~17:00 기준"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": "공식 현재 안내 10:00~17:00 · 연중무휴",
+          "note": "공식 연중무휴와 제3자 화요일 휴무 충돌"
+        }
+      ],
+      "sourceUrls": [
+        "https://ginza-bongen.jp/location/",
+        "https://tabelog.com/tokyo/A1313/A131301/13216379/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "주간 영업 안내를 여행 요일에 대입한 계획 참고값. 날짜별 특별 영업 확정 아님",
+        "11/29(일)은 체크인 15:00 뒤 17:00 종료까지 여유가 짧음. 11/30(월) 낮 커피가 가장 편함. 12/1(화)은 휴무 정보 충돌과 11:00 체크아웃 때문에 확정 추천에서 제외"
+      ]
+    },
+    {
+      "id": "tricolore-ginza-honten",
+      "hours": "긴자 공식 매장 안내 08:00~18:00(L.O.17:30). 매장 관리 타베로그 08:00~19:00(L.O.18:30)와 상이",
+      "lastOrder": "17:30 또는 18:30로 출처 상이; 보수적으로 17:30 전 방문",
+      "closure": "화요일, 월별 예외는 공식 Instagram 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "needs_confirmation",
+          "hours": "긴자 공식 매장 안내 08:00~18:00(L.O.17:30). 매장 관리 타베로그 08:00~19:00(L.O.18:30)와 상이",
+          "note": "08:00 개점, 종료 시간은 출처 충돌"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": "긴자 공식 매장 안내 08:00~18:00(L.O.17:30). 매장 관리 타베로그 08:00~19:00(L.O.18:30)와 상이",
+          "note": "08:00 아침 후보, 임시 휴무 확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_closed",
+          "hours": null,
+          "note": "화요일 정기 휴무"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ginza.jp/shop/873",
+        "https://tabelog.com/tokyo/A1301/A130101/13007761/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "주간 영업 안내를 여행 요일에 대입한 계획 참고값. 날짜별 특별 영업 확정 아님",
+        "11/29(일)·11/30(월) 통상 영업일. 12/1(화)은 정기 휴무. 늦은 오후보다 11/30 아침이 운영시간 충돌 영향을 덜 받음"
+      ]
+    },
+    {
+      "id": "city-bakery-ginza-inz",
+      "hours": "BAKERY & CAFE 09:30~22:00 · 플레이트 메뉴는 17:00까지",
+      "lastOrder": "베이커리·카페 L.O. 별도 미공개",
+      "closure": "공식 지점 안내에 정기 휴무 명시 없음; 시설 휴무 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "BAKERY & CAFE 09:30~22:00 · 플레이트 메뉴는 17:00까지",
+          "note": "09:30~22:00 일반 안내; 특정 날짜 휴무 미확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "BAKERY & CAFE 09:30~22:00 · 플레이트 메뉴는 17:00까지",
+          "note": "09:30~22:00 일반 안내; 특정 날짜 휴무 미확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "BAKERY & CAFE 09:30~22:00 · 플레이트 메뉴는 17:00까지",
+          "note": "09:30~22:00 일반 안내; 특정 날짜 휴무 미확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://thecitybakery.jp/news/inz",
+        "https://thecitybakery.jp/shop"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "주간 영업 안내를 여행 요일에 대입한 계획 참고값. 날짜별 특별 영업 확정 아님",
+        "11/29·11/30·12/1은 현행 일반 시간표상 방문 후보이나 날짜별 영업 확인 전. 12/1은 09:30 개점 후 이용하고 11:00 체크아웃에 맞춰 호텔 복귀 시간을 확보"
+      ]
+    },
+    {
+      "id": "le-petit-mec-hibiya",
+      "hours": "08:00~20:00 · 공식 브랜드 안내 전일 영업",
+      "lastOrder": "공식 별도 L.O. 미공개",
+      "closure": "전일 영업 안내. 시설 임시 휴무·변경 가능",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "08:00~20:00 · 공식 브랜드 안내 전일 영업",
+          "note": "08:00~20:00 전일 영업 안내; 여행일 임시 변동 미확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "08:00~20:00 · 공식 브랜드 안내 전일 영업",
+          "note": "08:00~20:00 전일 영업 안내; 여행일 임시 변동 미확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "08:00~20:00 · 공식 브랜드 안내 전일 영업",
+          "note": "08:00~20:00 전일 영업 안내; 여행일 임시 변동 미확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.lepetitmec.com/",
+        "https://www.hibiya-chanter.com/floorguide/detail/?scd=000010"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "주간 영업 안내를 여행 요일에 대입한 계획 참고값. 날짜별 특별 영업 확정 아님",
+        "세 날짜 모두 현행 안내상 전일 영업 후보이나 임시 변경 미확인. 12/1 체크아웃 전이라면 08:00대 아침 후 호텔 복귀, 짐·교통 시간을 따로 확보"
+      ]
+    },
+    {
+      "id": "viron-marunouchi-bakery",
+      "hours": "베이커리·파티스리 09:00~20:00. 옆 브라세리 카페는 14:00~17:00 종료로 별도 운영",
+      "lastOrder": "포장 베이커리 L.O. 별도 미공개. 옆 카페 L.O.와 혼동 금지",
+      "closure": "TOKIA 시설 휴무에 따른 부정기 휴무. 시설 공식 일반 안내는 1/1·법정 점검일 제외",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "베이커리·파티스리 09:00~20:00. 옆 브라세리 카페는 14:00~17:00 종료로 별도 운영",
+          "note": "베이커리 09:00~20:00, 시설 임시 휴무 미확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "베이커리·파티스리 09:00~20:00. 옆 브라세리 카페는 14:00~17:00 종료로 별도 운영",
+          "note": "베이커리 09:00~20:00, 시설 임시 휴무 미확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "베이커리·파티스리 09:00~20:00. 옆 브라세리 카페는 14:00~17:00 종료로 별도 운영",
+          "note": "베이커리 09:00~20:00, 시설 임시 휴무 미확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.marunouchi.com/tenants/3018/",
+        "https://visit-chiyoda.tokyo/app/spot/detail/921"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "주간 영업 안내를 여행 요일에 대입한 계획 참고값. 날짜별 특별 영업 확정 아님",
+        "세 날짜 모두 일반 영업일 후보이나 TOKIA 점검·임시 휴무 미확인. 11/30 마루노우치 산책에 연결하기 좋음; 12/1 09:00 이후 이용은 체크아웃 11:00와 이동 시간을 함께 계산"
+      ]
+    },
+    {
+      "id": "donki-ginza-main",
+      "hours": "24시간",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "정기휴무 없음 · 현재 공식 안내",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "24시간",
+          "note": "현재 정규 영업 안내 기준 · 여행일 임시휴무·변경은 미확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "24시간",
+          "note": "현재 정규 영업 안내 기준 · 여행일 임시휴무·변경은 미확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "24시간",
+          "note": "현재 정규 영업 안내 기준 · 여행일 임시휴무·변경은 미확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.donki.com/store/shop_detail.php?shop_id=92"
+      ],
+      "checkedAt": "2026-10-07",
+      "uncertainties": [
+        "여행일의 특별영업·임시휴무와 원하는 상품 재고는 방문 전 확인 필요"
+      ]
+    },
+    {
+      "id": "lush-yurakucho-marui",
+      "hours": "11:00~20:00",
+      "lastOrder": "해당 없음 · 소매점",
+      "closure": "월~일 영업시간 표기 · 시설 특별휴무는 재확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 정규 영업 안내 기준 · 여행일 임시휴무·변경은 미확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 정규 영업 안내 기준 · 여행일 임시휴무·변경은 미확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00~20:00",
+          "note": "현재 정규 영업 안내 기준 · 여행일 임시휴무·변경은 미확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.lush.com/jp/ja/shops/lush?id=JP206"
+      ],
+      "checkedAt": "2026-10-07",
+      "uncertainties": [
+        "여행일의 특별영업·임시휴무와 원하는 상품 재고는 방문 전 확인 필요"
+      ]
+    },
+    {
+      "id": "ginza-mitsukoshi",
+      "hours": "통상 10:00~20:00",
+      "lastOrder": "일반 매장 해당 없음 · 입점 식당별 확인",
+      "closure": "정기휴무일 별도 표기 없음 · 특별 휴점 확인필요",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "needs_confirmation",
+          "hours": "통상 10:00~20:00",
+          "note": "여행일 특별 영업·휴점 공지 미확인. 식당·카페는 매장별 운영"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": "통상 10:00~20:00",
+          "note": "여행일 특별 영업·휴점 공지 미확인. 식당·카페는 매장별 운영"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": "통상 10:00~20:00",
+          "note": "여행일 특별 영업·휴점 공지 미확인. 식당·카페는 매장별 운영"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.mistore.jp/store/ginza/access.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "uncertainties": [
+        "통상 시간만 확인. 미래 여행일 영업·휴점 확정 아님",
+        "식당·카페·개별 서비스는 운영 시간이 다를 수 있음"
+      ]
+    },
+    {
+      "id": "shabuki-ginza",
+      "hours": "평일 11:30–15:00 / 17:00–22:30; 토·일·공휴일 11:30–15:00 / 16:00–22:30",
+      "lastOrder": "점심 14:30; 저녁 보통 22:00, 토요일 음식 21:30",
+      "closure": "12/31–1/3",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:30–15:00 / 16:00–22:30",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:30–15:00 / 17:00–22:30",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:30–15:00 / 17:00–22:30",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://ginza-shabuki.hapyres.com/",
+        "https://ginza-shabuki.owst.jp/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+      ]
+    },
+    {
+      "id": "moheji-shibuya-scramble-square",
+      "hours": "11:00–23:00",
+      "lastOrder": "22:00",
+      "closure": "시설 휴관일 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00–23:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00–23:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00–23:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.shibuya-scramble-square.com/shops_restaurants/shop_77.html",
+        "https://shibuya-scramble-square.com/faq/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+      ]
+    },
+    {
+      "id": "kanda-yabusoba",
+      "hours": "11:30–20:30",
+      "lastOrder": "20:00",
+      "closure": "수요일(공휴일은 변동 가능)",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:30–20:30",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:30–20:30",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:30–20:30",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.yabusoba.net/shop/",
+        "https://www.yabusoba.net/reserve/",
+        "https://visit-chiyoda.tokyo/app/spot/detail/382"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+      ]
+    },
+    {
+      "id": "sato-yosuke-ginza",
+      "hours": "매일 11:30–15:00; 평일 17:00–22:00 / 토·일·공휴일 17:00–21:00",
+      "lastOrder": "점심 14:30; 평일 저녁 21:00 / 주말·공휴일 20:00",
+      "closure": "통상 무휴(오봉·연말연시 제외)",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:30–15:00 / 17:00–21:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:30–15:00 / 17:00–22:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:30–15:00 / 17:00–22:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.sato-yoske.co.jp/shop/ginza/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+      ]
+    },
+    {
+      "id": "shinanoya-ginza",
+      "hours": "월–목 12:00–22:00; 금 12:00–23:00; 토 11:00–20:00; 일·공휴일 11:00–19:00",
+      "lastOrder": "해당 없음(주류 소매)",
+      "closure": "연초",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00–19:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "12:00–22:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "12:00–22:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://shinanoya.co.jp/shop/ginza.html"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+      ]
+    },
+    {
+      "id": "bouya-nihonbashi",
+      "hours": "브랜드 공식: 점심 11:00–15:00 / 저녁 17:00–23:00",
+      "lastOrder": "점심 14:30 / 저녁 22:30",
+      "closure": "COREDO 무로마치 휴관일",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "needs_confirmation",
+          "hours": "브랜드 공식: 점심 11:00–15:00 / 저녁 17:00–23:00",
+          "note": "운영사 공식 페이지는 일–목 저녁 22:00, 금·토 23:00 및 주말 점심 11:30–15:30으로 달리 표시. 날짜별 확정 영업으로 처리하지 말고 재확인 표시."
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": "브랜드 공식: 점심 11:00–15:00 / 저녁 17:00–23:00",
+          "note": "운영사 공식 페이지는 일–목 저녁 22:00, 금·토 23:00 및 주말 점심 11:30–15:30으로 달리 표시. 날짜별 확정 영업으로 처리하지 말고 재확인 표시."
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": "브랜드 공식: 점심 11:00–15:00 / 저녁 17:00–23:00",
+          "note": "운영사 공식 페이지는 일–목 저녁 22:00, 금·토 23:00 및 주말 점심 11:30–15:30으로 달리 표시. 날짜별 확정 영업으로 처리하지 말고 재확인 표시."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bou-ya.com/information/102.html",
+        "https://issei-inc.co.jp/service02/",
+        "https://booking.ebica.jp/webrsv/search/e014076701/25219?isfixshop=true",
+        "https://tabelog.com/tokyo/A1302/A130202/13117977/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "운영사 공식 페이지는 일–목 저녁 22:00, 금·토 23:00 및 주말 점심 11:30–15:30으로 달리 표시. 날짜별 확정 영업으로 처리하지 말고 재확인 표시.",
+        "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+      ]
+    },
+    {
+      "id": "hirokiya-shibuya",
+      "hours": "매일 12:00–15:00 / 17:00–23:00",
+      "lastOrder": "점심 14:30; 공식 저녁 22:30(예약 플랫폼 음식 22:00/음료22:30)",
+      "closure": "정기휴무 없음(예약 플랫폼 안내)",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "매일 12:00–15:00 / 17:00–23:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "매일 12:00–15:00 / 17:00–23:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "매일 12:00–15:00 / 17:00–23:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://hirokiya-group.com/shibuya/ja",
+        "https://www.hotpepper.jp/strJ003671311/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+      ]
+    },
+    {
+      "id": "panga-ueno",
+      "hours": "업장 등록 식べ로그: 매일 11:30–15:00 / 17:00–23:00",
+      "lastOrder": "점심 음식14:30·음료15:00; 저녁 음식22:00·음료22:30",
+      "closure": "공식 정기휴무 미확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "needs_confirmation",
+          "hours": "업장 등록 식べ로그: 매일 11:30–15:00 / 17:00–23:00",
+          "note": "공식 홈페이지는 월요일 저녁/화–일 점심 11:30–15:30로 불완전·상이하게 표기. 여행일 영업 확정 금지; 매장 확인 필요."
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": "업장 등록 식べ로그: 매일 11:30–15:00 / 17:00–23:00",
+          "note": "공식 홈페이지는 월요일 저녁/화–일 점심 11:30–15:30로 불완전·상이하게 표기. 여행일 영업 확정 금지; 매장 확인 필요."
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": "업장 등록 식べ로그: 매일 11:30–15:00 / 17:00–23:00",
+          "note": "공식 홈페이지는 월요일 저녁/화–일 점심 11:30–15:30로 불완전·상이하게 표기. 여행일 영업 확정 금지; 매장 확인 필요."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.wagyu-panga.jp/index.html",
+        "https://www.wagyu-panga.jp/indexen.html",
+        "https://tabelog.com/tokyo/A1311/A131101/13303729/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "공식 홈페이지는 월요일 저녁/화–일 점심 11:30–15:30로 불완전·상이하게 표기. 여행일 영업 확정 금지; 매장 확인 필요.",
+        "공식 일본어와 업장 등록 식べ로그는 2F; 공식 영어는 4F로 충돌. 일본어·업장 안내 2F를 사용하되 방문 전 확인.",
+        "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+      ]
+    },
+    {
+      "id": "unafuji-midtown-yaesu",
+      "hours": "11:00–23:00",
+      "lastOrder": "22:00",
+      "closure": "비정기 휴무",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00–23:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00–23:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00–23:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://sumiyaki-unafuji.com/shops/yaesu/",
+        "https://www.yaesu.tokyo-midtown.com/shop-restaurant/detail/30400"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+      ]
+    },
+    {
+      "id": "unafuji-yurakucho",
+      "hours": "11:00–22:00",
+      "lastOrder": "21:00",
+      "closure": "비정기 휴무",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00–22:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00–22:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00–22:00",
+          "note": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+        }
+      ],
+      "sourceUrls": [
+        "https://sumiyaki-unafuji.com/shops/ginza/",
+        "https://sumiyaki-unafuji.com/information/booking/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요"
+      ]
+    },
+    {
+      "id": "meatman-roppongi",
+      "hours": "일–목 17:00–23:30(음식 LO22:30, 음료 LO23:00); 금·토·공휴일 전날 17:00–익일05:00(음식 LO04:00, 음료 LO04:30)",
+      "lastOrder": "위 시간 안내 참고",
+      "closure": "정기휴무 없음; 여행일 특별휴무는 미확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "17:00–23:30 · 음식L.O.22:30",
+          "note": "현재 정규 영업 기준 · 해당 여행일 임시 변경 미확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "17:00–23:30 · 음식L.O.22:30",
+          "note": "현재 정규 영업 기준 · 해당 여행일 임시 변경 미확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "17:00–23:30 · 음식L.O.22:30",
+          "note": "현재 정규 영업 기준 · 해당 여행일 임시 변경 미확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://teyandei.com/?page_id=11",
+        "https://www.tablecheck.com/en/shops/meatman-roppongi/reserve"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "공식 소개글의 매일새벽5시는 하단 상세영업표와 충돌. 상세표 사용. 사용자 예약을 실행하지 않음.",
+        "여행일 영업·좌석 재확인"
+      ]
+    },
+    {
+      "id": "ginza-marui",
+      "hours": "평일11:30–15:00(LO14:30),17:00–22:00(LO21:30); 토·일·공휴일11:30–15:30(LO15:00),16:00–20:00(LO19:30)",
+      "lastOrder": "위 시간 안내 참고",
+      "closure": "공식메인페이지에 정기휴무명시 없음; 여행일 재확인 필요",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:30–15:30 / 16:00–20:00",
+          "note": "현재 정규 영업 기준 · 해당 여행일 임시 변경 미확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:30–15:00 / 17:00–22:00",
+          "note": "현재 정규 영업 기준 · 해당 여행일 임시 변경 미확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:30–15:00 / 17:00–22:00",
+          "note": "현재 정규 영업 기준 · 해당 여행일 임시 변경 미확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://ginza-maruisushi.com/index.html"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "Google 영업표에 LO시각을 마감으로 표시하는 경우가 있어 공식사이트시간 사용",
+        "여행일 영업·좌석 재확인"
+      ]
+    },
+    {
+      "id": "ginten-ginza-corridor",
+      "hours": "14:00–23:30 · 음식 L.O.22:30 / 음료23:00",
+      "lastOrder": "음식22:30 / 음료23:00(일요일)",
+      "closure": "통상 무휴",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "14:00–23:30 · 음식 L.O.22:30 / 음료23:00",
+          "note": "현재 정규 영업 기준 · 여행일 임시 변경 재확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": null,
+          "note": "이번 조사에서는 일요일 시간만 검증, 평일 시간은 공식 페이지에서 재확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": null,
+          "note": "이번 조사에서는 일요일 시간만 검증, 평일 시간은 공식 페이지에서 재확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://ginten.dkdining.com/ginza/",
+        "https://ginten-ginzacorridor.owst.jp/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "예약 전 · 별도 오토시 금액과 여행일 영업 확인"
+      ]
+    },
+    {
+      "id": "tokyo-tower-main-deck",
+      "hours": "09:00–23:00 · 최종 입장22:30",
+      "lastOrder": "최종 입장22:30",
+      "closure": "시설 특별휴무·운영 변경 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "09:00–23:00 · 최종 입장22:30",
+          "note": "현재 정규 영업 기준 · 여행일 임시 변경 재확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "09:00–23:00 · 최종 입장22:30",
+          "note": "현재 정규 영업 기준 · 여행일 임시 변경 재확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "09:00–23:00 · 최종 입장22:30",
+          "note": "현재 정규 영업 기준 · 여행일 임시 변경 재확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://en.tokyotower.co.jp/fee/",
+        "https://www.tokyotower.co.jp/access/index.html",
+        "https://www.tokyotower.co.jp/company/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "입장권 미구매 · 당일 혼잡·운영·조명 확인"
+      ]
+    },
+    {
+      "id": "porter-exchange-shibuya-parco",
+      "hours": "11:00–21:00",
+      "lastOrder": "소매점 해당 없음",
+      "closure": "시설 특별휴무·운영 변경 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00–21:00",
+          "note": "현재 정규 영업 기준 · 여행일 임시 변경 재확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00–21:00",
+          "note": "현재 정규 영업 기준 · 여행일 임시 변경 재확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00–21:00",
+          "note": "현재 정규 영업 기준 · 여행일 임시 변경 재확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://shibuya.parco.jp/shop/detail/?cd=025704"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "원하는 가방의 색상·모델·재고 미확인"
+      ]
+    },
+    {
+      "id": "ushigoro-bambina-ginza",
+      "hours": "일요일 11:30–23:30",
+      "lastOrder": "라스트오더는 방문 전 확인",
+      "closure": "여행일 임시 변경 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "일요일 11:30–23:30",
+          "note": "현재 공표 영업 기준 · 방문 전 재확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "needs_confirmation",
+          "hours": null,
+          "note": "현재 공표 영업 기준 · 방문 전 재확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "needs_confirmation",
+          "hours": null,
+          "note": "현재 공표 영업 기준 · 방문 전 재확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://ushigoro-bambina.com/shop-info/ginza/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "예약 전 · 해당 날짜 빈자리 미확인"
+      ]
+    },
+    {
+      "id": "old-imperial-bar",
+      "hours": "11:30–24:00",
+      "lastOrder": "23:30",
+      "closure": "여행일 임시 변경 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:30–24:00",
+          "note": "현재 공표 영업 기준 · 방문 전 재확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:30–24:00",
+          "note": "현재 공표 영업 기준 · 방문 전 재확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:30–24:00",
+          "note": "현재 공표 영업 기준 · 방문 전 재확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.imperialhotel.co.jp/tokyo/restaurant/old-imperialbar"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "21시 예약 불가 · 현장 방문, 만석이면 생략"
+      ]
+    },
+    {
+      "id": "danton-tokyo",
+      "hours": "11:00–20:00",
+      "lastOrder": "해당 없음",
+      "closure": "여행일 임시 변경 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "11:00–20:00",
+          "note": "현재 공식 영업 기준 · 여행일 변경 재확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "11:00–20:00",
+          "note": "현재 공식 영업 기준 · 여행일 변경 재확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "11:00–20:00",
+          "note": "현재 공식 영업 기준 · 여행일 변경 재확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://danton.com/ja-jp/pages/shop"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "단톤 의류·사이즈별 재고는 미확인"
+      ]
+    },
+    {
+      "id": "kaldi-shibuya-tokyu-foodshow",
+      "hours": "10:00–21:00",
+      "lastOrder": "해당 없음",
+      "closure": "여행일 임시 변경 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:00–21:00",
+          "note": "현재 공식 영업 기준 · 여행일 변경 재확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:00–21:00",
+          "note": "현재 공식 영업 기준 · 여행일 변경 재확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:00–21:00",
+          "note": "현재 공식 영업 기준 · 여행일 변경 재확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.tokyu-dept.co.jp/shibuya_foodshow/shop/kana_list.html?kana=%E3%82%AB"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "레몬에이드·시오콘부 재고는 미확인. 스크램블 스퀘어점이 아닌 마크시티 B1"
+      ]
+    },
+    {
+      "id": "montbell-shibuya",
+      "hours": "10:30–21:00",
+      "lastOrder": "해당 없음",
+      "closure": "여행일 임시 변경 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "10:30–21:00",
+          "note": "현재 공식 영업 기준 · 여행일 변경 재확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "10:30–21:00",
+          "note": "현재 공식 영업 기준 · 여행일 변경 재확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "10:30–21:00",
+          "note": "현재 공식 영업 기준 · 여행일 변경 재확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://store.montbell.jp/search/shopinfo/?shop_no=618851"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "원하는 상품·사이즈 재고 미확인. 기존 교바시점은 별도 후보로 유지"
+      ]
+    },
+    {
+      "id": "ichiran-harajuku",
+      "hours": "09:00–22:00",
+      "lastOrder": "21:45",
+      "closure": "여행일 임시 변경 확인",
+      "days": [
+        {
+          "date": "2026-11-29",
+          "status": "regular_hours",
+          "hours": "09:00–22:00",
+          "note": "현재 공식 안내 · 여행일 임시 변경 확인"
+        },
+        {
+          "date": "2026-11-30",
+          "status": "regular_hours",
+          "hours": "09:00–22:00",
+          "note": "현재 공식 안내 · 여행일 임시 변경 확인"
+        },
+        {
+          "date": "2026-12-01",
+          "status": "regular_hours",
+          "hours": "09:00–22:00",
+          "note": "현재 공식 안내 · 여행일 임시 변경 확인"
+        }
+      ],
+      "sourceUrls": [
+        "https://ichiran.com/shop/tokyo/harajuku/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "현장 대기 시간과 여행일 영업 변경은 미확인"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1597 @@
+{
+  "checkedAt": "2026-10-06",
+  "statusLabel": "추천 후보",
+  "note": "공식 매장·시설 안내에서 위치와 기본 정보를 확인한 후보입니다. 2026년 11월 29일~12월 1일의 실제 영업, 예약 가능 여부, 가격과 재고는 확정되지 않았습니다. 일정에 자동 확정하지 마세요.",
+  "routeNote": "호텔 주변에서 공식 매장이 확인된 후보입니다. 모든 지점의 최단거리 순위는 아닙니다. 실제 도보 경로·거리·시간은 Google Maps에서 확인하세요.",
+  "recommendations": [
+    {
+      "id": "seveneleven-ginza1chome-chuo",
+      "title": "세븐일레븐 긴자1초메 주오점",
+      "originalName": "セブン-イレブン 銀座１丁目中央店",
+      "brand": "7-Eleven",
+      "category": "먹거리 · 편의점",
+      "address": "東京都中央区銀座1-10-6",
+      "area": "긴자 · 호텔 주변",
+      "sourceURL": "https://www.sej.co.jp/products/andst_shoplist.html",
+      "additionalSourceURL": "https://www.sej.co.jp/library/contents/products/toy/20260403/tokyo.pdf",
+      "why": "호텔 주변에서 편의점 아이스크림·타마고 샌드위치를 찾아볼 후보. 공식 매장 목록에서 점포와 주소를 확인했습니다.",
+      "needsConfirmation": "원하는 아이스크림과 타마고 샌드위치의 실제 취급·방문 시 재고 확인 필요",
+      "verifiedAt": "2026-10-06",
+      "distanceStatus": "pending_route_verification",
+      "nearestClaim": false,
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A71-10-6+%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3+%E9%8A%80%E5%BA%A7%EF%BC%91%E4%B8%81%E7%9B%AE%E4%B8%AD%E5%A4%AE%E5%BA%97&travelmode=walking",
+      "coordinates": {
+        "lat": 35.67350269,
+        "lng": 139.76896422,
+        "sourceURL": "https://www.mapion.co.jp/phonebook/M02005/13102/ILSP0059673858_ipclm/",
+        "method": "동일 세븐일레븐 점포의 Mapion 장소 지도 좌표"
+      },
+      "wishKeys": [
+        "편의점 아이스크림·타마고 샌드위치"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 100,
+        "estimatedWalkDistanceMRange": [
+          100,
+          200
+        ],
+        "estimatedWalkMinutesRange": [
+          1,
+          6
+        ],
+        "distanceLabel": "약 0.1~0.2km",
+        "timeLabel": "약 1~6분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님 단, 300m 미만은 1분 단위로 범위를 넓혀 표시",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.67350269,
+          "lng": 139.76896422,
+          "sourceURL": "https://www.mapion.co.jp/phonebook/M02005/13102/ILSP0059673858_ipclm/",
+          "method": "동일 세븐일레븐 점포의 Mapion 장소 지도 좌표"
+        }
+      },
+      "distanceEstimateLabel": "약 0.1~0.2km",
+      "sortDistanceM": 150.0,
+      "walking": {
+        "timeLabel": "약 1~6분",
+        "distanceLabel": "약 0.1~0.2km",
+        "status": "estimate",
+        "sourceURL": "https://www.mapion.co.jp/phonebook/M02005/13102/ILSP0059673858_ipclm/",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "acne-ginza-mitsukoshi",
+      "title": "아크네 스튜디오 긴자 미쓰코시",
+      "originalName": "Acne Studios Ginza Mitsukoshi",
+      "category": "쇼핑 · 아크네",
+      "area": "긴자",
+      "why": "저장하신 아크네(Acne Studios)의 긴자 미쓰코시 4층 매장입니다. 공식 브랜드 안내의 여성·남성 컬렉션을 확인할 수 있어요.",
+      "address": "東京都中央区銀座4-6-16 銀座三越4F",
+      "sourceURL": "https://www.acnestudios.com/jp/ja/stores/ginza-mitsukoshi",
+      "needsConfirmation": "여행일 영업·재고·해당 상품 할인 대상 여부",
+      "hoursAsPublished": "매일 10:00–20:00",
+      "wishKeys": [
+        "아크네",
+        "Acne Studios"
+      ],
+      "walking": {
+        "timeLabel": "약 7분",
+        "distanceLabel": null,
+        "status": "official",
+        "sourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+        "note": "호텔의 미쓰코시 건물까지 안내 · 4층 매장 이동 별도"
+      }
+    },
+    {
+      "id": "muji-ginza",
+      "title": "무인양품 긴자",
+      "brand": "MUJI",
+      "category": "쇼핑 · 파자마",
+      "address": "東京都中央区銀座3-3-5",
+      "area": "긴자",
+      "sourceURL": "https://www.muji.com/jp/ja/shop/detail/046604",
+      "why": "무인양품 파자마를 먼저 살펴볼 후보. 카레 등 식품 쇼핑도 함께 고려할 수 있습니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "원하는 파자마의 사이즈·색상과 카레 상품의 여행일 재고 확인",
+      "originalName": "無印良品 銀座",
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A73-3-5+%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E9%8A%80%E5%BA%A7&travelmode=walking",
+      "additionalSourceURL": "https://shop.muji.com/jp/ginza/",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "coordinates": {
+        "lat": 35.673325,
+        "lng": 139.765394,
+        "sourceURL": "https://www.muji.com/jp/ja/shop/detail/046604",
+        "method": "공식 매장 페이지 JSON-LD GeoCoordinates latitude/longitude"
+      },
+      "wishKeys": [
+        "무인양품 파자마 또는 GU",
+        "카레"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 300,
+        "estimatedWalkDistanceMRange": [
+          400,
+          500
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          15
+        ],
+        "distanceLabel": "약 0.4~0.5km",
+        "timeLabel": "약 5~15분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.673325,
+          "lng": 139.765394,
+          "sourceURL": "https://www.muji.com/jp/ja/shop/detail/046604",
+          "method": "공식 매장 페이지 JSON-LD GeoCoordinates latitude/longitude"
+        }
+      },
+      "distanceEstimateLabel": "약 0.4~0.5km",
+      "sortDistanceM": 450.0,
+      "walking": {
+        "timeLabel": "약 5~15분",
+        "distanceLabel": "약 0.4~0.5km",
+        "status": "estimate",
+        "sourceURL": "https://www.muji.com/jp/ja/shop/detail/046604",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "celine-mitsukoshi",
+      "title": "셀린느 긴자 미쓰코시",
+      "brand": "CELINE",
+      "category": "쇼핑",
+      "address": "東京都中央区銀座4-6-16 銀座三越1F",
+      "area": "긴자",
+      "sourceURL": "https://www.celine.com/ja-jp/stores",
+      "why": "가까운 긴자 미쓰코시의 가죽제품 중심 매장 후보. 다양한 의류까지 보려면 GINZA SIX점과 비교하세요.",
+      "distanceStatus": "official_building_walk_estimate",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "여행일 영업과 원하는 품목·사이즈 재고 확인",
+      "originalName": "CELINE TOKYO GINZA MITSUKOSHI LEATHER GOODS",
+      "storeType": "백화점 가죽제품 매장",
+      "coordinates": {
+        "lat": 35.67130813517447,
+        "lng": 139.7658661472948,
+        "sourceURL": "https://www.celine.com/ja-jp/stores",
+        "method": "공식 매장안내 Google 지도 daddr 좌표"
+      },
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A74-6-16+%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A1F+CELINE+TOKYO+GINZA+MITSUKOSHI+LEATHER+GOODS&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "officialWalkEstimateMinutes": 7,
+      "officialWalkEstimateSourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+      "officialWalkEstimateNote": "호텔 공식 안내의 건물까지 도보 약 7분. 매장 층까지 실내 이동·대기 제외, 실제 지도 경로 거리 미확인",
+      "wishKeys": [
+        "셀린느 매장"
+      ],
+      "walking": {
+        "timeLabel": "약 7분",
+        "distanceLabel": null,
+        "status": "official",
+        "sourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+        "note": "호텔 공식 안내의 긴자 미쓰코시 건물까지 도보 시간 · 매장 층 이동 제외"
+      },
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 300,
+        "estimatedWalkDistanceMRange": [
+          400,
+          500
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          15
+        ],
+        "distanceLabel": "약 0.4~0.5km",
+        "timeLabel": "약 5~15분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.67130813517447,
+          "lng": 139.7658661472948,
+          "sourceURL": "https://www.celine.com/ja-jp/stores",
+          "method": "공식 매장안내 Google 지도 daddr 좌표"
+        }
+      },
+      "distanceEstimateLabel": "약 0.4~0.5km",
+      "sortDistanceM": 450.0
+    },
+    {
+      "id": "ami-mitsukoshi",
+      "title": "AMI 긴자 미쓰코시",
+      "brand": "AMI Paris",
+      "category": "쇼핑",
+      "address": "東京都中央区銀座4-6-16 銀座三越本館4F",
+      "area": "긴자",
+      "sourceURL": "https://www.mistore.jp/store/ginza/shops/luxury/mode/shopnews_list/shopnews056.html",
+      "why": "미쓰코시 본관 4층의 가까운 AMI 후보. 여성·유니섹스 구성이며 남성 상품을 폭넓게 보려면 GINZA SIX점도 비교하세요.",
+      "distanceStatus": "official_building_walk_estimate",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "여행일 영업과 원하는 품목·사이즈 재고 확인",
+      "originalName": "AMI PARIS 銀座三越",
+      "storeType": "백화점 매장",
+      "additionalSources": [
+        "https://cp.mistore.jp/common/event_calendar/clearance/ginza.html",
+        "https://prtimes.jp/main/html/rd/p/000000018.000087547.html"
+      ],
+      "coordinates": {
+        "lat": 35.67130813517447,
+        "lng": 139.7658661472948,
+        "sourceURL": "https://www.celine.com/ja-jp/stores",
+        "method": "같은 미쓰코시 건물의 CELINE 공식 지도 좌표; AMI 매장 입구 아님"
+      },
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A74-6-16+%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A%E6%9C%AC%E9%A4%A84F+AMI+PARIS+%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "officialWalkEstimateMinutes": 7,
+      "officialWalkEstimateSourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+      "officialWalkEstimateNote": "호텔 공식 안내의 건물까지 도보 약 7분. 매장 층까지 실내 이동·대기 제외, 실제 지도 경로 거리 미확인",
+      "wishKeys": [
+        "아미"
+      ],
+      "walking": {
+        "timeLabel": "약 7분",
+        "distanceLabel": null,
+        "status": "official",
+        "sourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+        "note": "호텔 공식 안내의 긴자 미쓰코시 건물까지 도보 시간 · 매장 층 이동 제외"
+      },
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 300,
+        "estimatedWalkDistanceMRange": [
+          400,
+          500
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          15
+        ],
+        "distanceLabel": "약 0.4~0.5km",
+        "timeLabel": "약 5~15분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.67130813517447,
+          "lng": 139.7658661472948,
+          "sourceURL": "https://www.celine.com/ja-jp/stores",
+          "method": "같은 미쓰코시 건물의 CELINE 공식 지도 좌표; AMI 매장 입구 아님"
+        }
+      },
+      "distanceEstimateLabel": "약 0.4~0.5km",
+      "sortDistanceM": 450.0
+    },
+    {
+      "id": "bincho-ginza",
+      "title": "히츠마부시 빈초 마로니에 게이트 긴자점",
+      "originalName": "ひつまぶし 名古屋 備長 マロニエゲート銀座店",
+      "category": "먹거리 · 히츠마부시",
+      "area": "긴자",
+      "why": "긴자 북쪽 쇼핑과 함께 들를 히츠마부시 전문점 후보. GU·스탠다드프로덕트가 있는 긴자2 건물과는 별도인 긴자1 건물 12층입니다",
+      "address": "東京都中央区銀座2-2-14 マロニエゲート銀座1 12F",
+      "sourceURL": "https://hitsumabushi.co.jp/GzQfgPd_/Marronnier_Gate_Ginza",
+      "needsConfirmation": "여행일 영업·예약·메뉴 가격 확인. 공식 사이트는 최신 영업시간을 Google Maps로 안내",
+      "wishKeys": [
+        "히츠마부시"
+      ],
+      "wishlistMatch": "히츠마부시",
+      "officialMapURL": "https://maps.app.goo.gl/wK8q9S5pWC19GQh97",
+      "officialAccess": "긴자역 도보 4분, 유라쿠초역 도보 3분 (호텔 출발 시간 아님)",
+      "routingStatus": "hotel_walk_unverified",
+      "routeDistanceM": null,
+      "walkMinutes": null,
+      "hotelWalkURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72%E4%B8%81%E7%9B%AE10%E7%95%AA2%E5%8F%B7&destination=%E3%81%B2%E3%81%A4%E3%81%BE%E3%81%B6%E3%81%97+%E5%90%8D%E5%8F%A4%E5%B1%8B+%E5%82%99%E9%95%B7+%E3%83%9E%E3%83%AD%E3%83%8B%E3%82%A8%E3%82%B2%E3%83%BC%E3%83%88%E9%8A%80%E5%BA%A7%E5%BA%97+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-2-14+%E3%83%9E%E3%83%AD%E3%83%8B%E3%82%A8%E3%82%B2%E3%83%BC%E3%83%88%E9%8A%80%E5%BA%A71+12F&travelmode=walking",
+      "checkedAt": "2026-10-06",
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 350,
+        "estimatedWalkDistanceMRange": [
+          400,
+          600
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          15
+        ],
+        "distanceLabel": "약 0.4~0.6km",
+        "timeLabel": "약 5~15분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.67414125062329,
+          "lng": 139.7654526905202,
+          "sourceURL": "https://www.tokuinfo.com/gourmet/13/0/gaaamegcob.htm",
+          "method": "공식 주소와 일치하는 매장 페이지의 공개 좌표. 제3자 출처"
+        }
+      },
+      "distanceEstimateLabel": "약 0.4~0.6km",
+      "sortDistanceM": 500.0,
+      "walking": {
+        "timeLabel": "약 5~15분",
+        "distanceLabel": "약 0.4~0.6km",
+        "status": "estimate",
+        "sourceURL": "https://www.tokuinfo.com/gourmet/13/0/gaaamegcob.htm",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "gu-marronnier-ginza",
+      "title": "GU 마로니에 게이트 긴자점",
+      "brand": "GU",
+      "category": "쇼핑 · 파자마",
+      "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 5F",
+      "area": "긴자",
+      "sourceURL": "https://www.marronniergate.com/shop/index/318",
+      "why": "MUJI와 함께 둘러보고 파자마를 비교하기 좋은 후보. 마로니에 게이트 긴자2의 5층입니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "원하는 파자마 상품·사이즈 재고와 여행일 영업 확인",
+      "originalName": "ジーユー マロニエゲート銀座店",
+      "additionalSourceURL": "https://www.marronniergate.com/access/",
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A73-2-1+%E3%83%9E%E3%83%AD%E3%83%8B%E3%82%A8%E3%82%B2%E3%83%BC%E3%83%88%E9%8A%80%E5%BA%A72+5F+%E3%82%B8%E3%83%BC%E3%83%A6%E3%83%BC+%E3%83%9E%E3%83%AD%E3%83%8B%E3%82%A8%E3%82%B2%E3%83%BC%E3%83%88%E9%8A%80%E5%BA%A7%E5%BA%97&travelmode=walking",
+      "coordinates": {
+        "lat": 35.6737143,
+        "lng": 139.7651429,
+        "sourceURL": "https://www.daiso-sangyo.co.jp/shop/detail/009170",
+        "method": "Standard Products 공식 Google 경로 목적지 좌표; 같은 마로니에 게이트 긴자2 건물"
+      },
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "wishKeys": [
+        "GU"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 350,
+        "estimatedWalkDistanceMRange": [
+          400,
+          600
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          15
+        ],
+        "distanceLabel": "약 0.4~0.6km",
+        "timeLabel": "약 5~15분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6737143,
+          "lng": 139.7651429,
+          "sourceURL": "https://www.daiso-sangyo.co.jp/shop/detail/009170",
+          "method": "Standard Products 공식 Google 경로 목적지 좌표; 같은 마로니에 게이트 긴자2 건물"
+        }
+      },
+      "distanceEstimateLabel": "약 0.4~0.6km",
+      "sortDistanceM": 500.0,
+      "walking": {
+        "timeLabel": "약 5~15분",
+        "distanceLabel": "약 0.4~0.6km",
+        "status": "estimate",
+        "sourceURL": "https://www.daiso-sangyo.co.jp/shop/detail/009170",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "montbell-kyobashi",
+      "title": "몽벨 도쿄 교바시점",
+      "brand": "Montbell",
+      "category": "쇼핑 · 몽벨",
+      "address": "東京都中央区京橋3-1-1 東京スクエアガーデン1・2F",
+      "area": "교바시 · 긴자 인근",
+      "sourceURL": "https://store.montbell.jp/search/shopinfo/?shop_no=678502",
+      "why": "긴자 쇼핑과 이어 붙이기 좋은 몽벨 후보. 공식 안내상 긴자잇초메역 7번 출구에서 도보 2분입니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "원하는 품목·사이즈 재고와 여행일 시설 휴무 확인",
+      "originalName": "モンベル 東京京橋店",
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%AC%E6%A9%8B3-1-1+%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B31%E3%83%BB2F+%E3%83%A2%E3%83%B3%E3%83%99%E3%83%AB+%E6%9D%B1%E4%BA%AC%E4%BA%AC%E6%A9%8B%E5%BA%97&travelmode=walking",
+      "coordinates": {
+        "lat": 35.67602540925414,
+        "lng": 139.76879456441804,
+        "sourceURL": "https://store.montbell.jp/search/shopinfo/?shop_no=678502",
+        "method": "공식 Google 지도 q 좌표"
+      },
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "wishKeys": [
+        "몽벨"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 350,
+        "estimatedWalkDistanceMRange": [
+          400,
+          600
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          15
+        ],
+        "distanceLabel": "약 0.4~0.6km",
+        "timeLabel": "약 5~15분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.67602540925414,
+          "lng": 139.76879456441804,
+          "sourceURL": "https://store.montbell.jp/search/shopinfo/?shop_no=678502",
+          "method": "공식 Google 지도 q 좌표"
+        }
+      },
+      "distanceEstimateLabel": "약 0.4~0.6km",
+      "sortDistanceM": 500.0,
+      "walking": {
+        "timeLabel": "약 5~15분",
+        "distanceLabel": "약 0.4~0.6km",
+        "status": "estimate",
+        "sourceURL": "https://store.montbell.jp/search/shopinfo/?shop_no=678502",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "standardproducts-ginza",
+      "title": "스탠다드프로덕트 마로니에 게이트 긴자점",
+      "brand": "Standard Products",
+      "category": "쇼핑 · 생활 잡화",
+      "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6F",
+      "area": "긴자",
+      "sourceURL": "https://www.daiso-sangyo.co.jp/shop/detail/009170",
+      "why": "추가로 요청한 스탠다드프로덕트 매장. GU와 같은 마로니에 게이트 긴자2 건물의 6층이라 함께 둘러보기 좋습니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "여행일 시설 휴무·영업 변경과 원하는 상품의 재고 확인",
+      "originalName": "Standard Products マロニエゲート銀座店",
+      "additionalSourceURL": "https://www.marronniergate.com/shop/index/305",
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A73-2-1+%E3%83%9E%E3%83%AD%E3%83%8B%E3%82%A8%E3%82%B2%E3%83%BC%E3%83%88%E9%8A%80%E5%BA%A72+6F+Standard+Products+%E3%83%9E%E3%83%AD%E3%83%8B%E3%82%A8%E3%82%B2%E3%83%BC%E3%83%88%E9%8A%80%E5%BA%A7%E5%BA%97&travelmode=walking",
+      "coordinates": {
+        "lat": 35.6737143,
+        "lng": 139.7651429,
+        "sourceURL": "https://www.daiso-sangyo.co.jp/shop/detail/009170",
+        "method": "Standard Products 공식 Google 경로 목적지 좌표; 같은 마로니에 게이트 긴자2 건물"
+      },
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "wishKeys": [
+        "Standard Products 매장",
+        "스탠다드프로덕트"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 350,
+        "estimatedWalkDistanceMRange": [
+          400,
+          600
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          15
+        ],
+        "distanceLabel": "약 0.4~0.6km",
+        "timeLabel": "약 5~15분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6737143,
+          "lng": 139.7651429,
+          "sourceURL": "https://www.daiso-sangyo.co.jp/shop/detail/009170",
+          "method": "Standard Products 공식 Google 경로 목적지 좌표; 같은 마로니에 게이트 긴자2 건물"
+        }
+      },
+      "distanceEstimateLabel": "약 0.4~0.6km",
+      "sortDistanceM": 500.0,
+      "walking": {
+        "timeLabel": "약 5~15분",
+        "distanceLabel": "약 0.4~0.6km",
+        "status": "estimate",
+        "sourceURL": "https://www.daiso-sangyo.co.jp/shop/detail/009170",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "torigin-ginza",
+      "title": "도리긴 긴자 본점",
+      "originalName": "鳥ぎん 銀座本店",
+      "category": "먹거리 · 야키토리",
+      "area": "긴자",
+      "wishlistMatch": "야키토리의 긴자 대안",
+      "why": "숯불 야키토리와 주문 후 짓는 가마솥밥을 함께 먹을 수 있는 긴자 후보입니다",
+      "address": "東京都中央区銀座5-5-7 ニューギンザビル6号館B1",
+      "sourceURL": "https://torigin-ginza.jp/access/",
+      "additionalSourceURL": "https://torigin-ginza.jp/",
+      "hoursAsPublished": "11:30~22:00, L.O.21:00; 연말연시 휴무",
+      "needsConfirmation": "공식 안내상 본점은 예약을 받지 않음. 여행일 영업·대기·가격 확인",
+      "routingStatus": "hotel_walk_unverified",
+      "routeDistanceM": null,
+      "walkMinutes": null,
+      "hotelWalkURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72%E4%B8%81%E7%9B%AE10%E7%95%AA2%E5%8F%B7&destination=%E9%B3%A5%E3%81%8E%E3%82%93+%E9%8A%80%E5%BA%A7%E6%9C%AC%E5%BA%97+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A75-5-7+%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AE%E3%83%B3%E3%82%B6%E3%83%93%E3%83%AB6%E5%8F%B7%E9%A4%A8B1&travelmode=walking",
+      "checkedAt": "2026-10-06",
+      "wishKeys": [
+        "야끼토리",
+        "야키토리"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 500,
+        "estimatedWalkDistanceMRange": [
+          600,
+          800
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          20
+        ],
+        "distanceLabel": "약 0.6~0.8km",
+        "timeLabel": "약 5~20분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6712,
+          "lng": 139.7636,
+          "sourceURL": "https://vinformation.net/photo/2019/01/19/201901-article_4/",
+          "method": "공식 주소와 일치하는 제3자 방문 기록의 지도 좌표. 반올림된 근사점"
+        }
+      },
+      "distanceEstimateLabel": "약 0.6~0.8km",
+      "sortDistanceM": 700.0,
+      "walking": {
+        "timeLabel": "약 5~20분",
+        "distanceLabel": "약 0.6~0.8km",
+        "status": "estimate",
+        "sourceURL": "https://vinformation.net/photo/2019/01/19/201901-article_4/",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "highfive-ginza",
+      "title": "BAR HIGH FIVE",
+      "originalName": "BAR HIGH FIVE",
+      "category": "바 · 위스키 칵테일",
+      "area": "긴자",
+      "why": "긴자에서 칵테일과 일본 위스키 메뉴를 살펴볼 후보입니다",
+      "address": "東京都中央区銀座5-4-15 エフローレ銀座5ビルB1F",
+      "sourceURL": "https://www.barhighfive.com/map",
+      "additionalSourceURL": "https://www.barhighfive.com/menu",
+      "needsConfirmation": "11/29 일요일은 제외. 11/30 입장·차지·가격·자리 확인",
+      "wishKeys": [
+        "위스키바"
+      ],
+      "preferredDay": "2026-11-30",
+      "wishlistMatch": "위스키바",
+      "hoursAsPublished": "월~토 17:00~01:00, 최종 입장 00:00; 일·공휴일 휴무",
+      "routingStatus": "hotel_walk_unverified",
+      "routeDistanceM": null,
+      "walkMinutes": null,
+      "hotelWalkURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72%E4%B8%81%E7%9B%AE10%E7%95%AA2%E5%8F%B7&destination=BAR+HIGH+FIVE+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A75-4-15+%E3%82%A8%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E9%8A%80%E5%BA%A75%E3%83%93%E3%83%ABB1F&travelmode=walking",
+      "checkedAt": "2026-10-06",
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 550,
+        "estimatedWalkDistanceMRange": [
+          700,
+          900
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          20
+        ],
+        "distanceLabel": "약 0.7~0.9km",
+        "timeLabel": "약 5~20분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6716105,
+          "lng": 139.7629895,
+          "sourceURL": "https://www.barhighfive.com/map",
+          "method": "공식 웹사이트 원문의 businessLocationCoordinates.latitude/longitude"
+        }
+      },
+      "distanceEstimateLabel": "약 0.7~0.9km",
+      "sortDistanceM": 800.0,
+      "walking": {
+        "timeLabel": "약 5~20분",
+        "distanceLabel": "약 0.7~0.9km",
+        "status": "estimate",
+        "sourceURL": "https://www.barhighfive.com/map",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "stussy-dsm-ginza",
+      "title": "Stüssy DSM 긴자",
+      "brand": "Stüssy",
+      "category": "쇼핑",
+      "address": "東京都中央区銀座6-9-5 ギンザコマツ西館2F",
+      "area": "긴자",
+      "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+      "why": "하라주쿠까지 이동하지 않아도 살펴볼 수 있는 공식 긴자 입점 매장. Supreme·꼼데가르송과 같은 건물입니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "여행일 영업과 원하는 품목·사이즈 재고 확인",
+      "originalName": "Stüssy DSM Ginza",
+      "additionalSourceURL": "https://ginza.doverstreetmarket.com/pages/floorguide",
+      "storeType": "DSM 입점 매장",
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A76-9-5+%E3%82%AE%E3%83%B3%E3%82%B6%E3%82%B3%E3%83%9E%E3%83%84%E8%A5%BF%E9%A4%A82F+St%C3%BCssy+DSM+Ginza&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "coordinates": {
+        "lat": 35.6704316,
+        "lng": 139.763143,
+        "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+        "mapURL": "https://goo.gl/maps/f23UxE9fi9rcjkZY7",
+        "method": "Stüssy 공식 지도 링크가 연결한 DSM 긴자 장소 좌표; 3d/4d 값, 같은 건물 공통"
+      },
+      "wishKeys": [
+        "스투시"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 600,
+        "estimatedWalkDistanceMRange": [
+          700,
+          900
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          20
+        ],
+        "distanceLabel": "약 0.7~0.9km",
+        "timeLabel": "약 5~20분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6704316,
+          "lng": 139.763143,
+          "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+          "mapURL": "https://goo.gl/maps/f23UxE9fi9rcjkZY7",
+          "method": "Stüssy 공식 지도 링크가 연결한 DSM 긴자 장소 좌표; 3d/4d 값, 같은 건물 공통"
+        }
+      },
+      "distanceEstimateLabel": "약 0.7~0.9km",
+      "sortDistanceM": 800.0,
+      "walking": {
+        "timeLabel": "약 5~20분",
+        "distanceLabel": "약 0.7~0.9km",
+        "status": "estimate",
+        "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "supreme-dsm-ginza",
+      "title": "Supreme DSM 긴자",
+      "brand": "Supreme",
+      "category": "쇼핑",
+      "address": "東京都中央区銀座6-9-5 ギンザコマツ西館5F",
+      "area": "긴자",
+      "sourceURL": "https://ginza.doverstreetmarket.com/pages/floorguide",
+      "why": "공식 플로어 가이드에서 확인한 긴자 매장. Stüssy·꼼데가르송과 함께 볼 수 있습니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "여행일 영업·입장 방식·재고 확인. 일부 발매는 별도 추첨 입장으로 운영되므로 자유입장을 보장할 수 없습니다",
+      "originalName": "Supreme Dover Street Market Ginza",
+      "additionalSourceURL": "https://ginza.doverstreetmarket.com/pages/contact",
+      "storeType": "DSM 입점 매장",
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A76-9-5+%E3%82%AE%E3%83%B3%E3%82%B6%E3%82%B3%E3%83%9E%E3%83%84%E8%A5%BF%E9%A4%A85F+Supreme+Dover+Street+Market+Ginza&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "coordinates": {
+        "lat": 35.6704316,
+        "lng": 139.763143,
+        "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+        "mapURL": "https://goo.gl/maps/f23UxE9fi9rcjkZY7",
+        "method": "Stüssy 공식 지도 링크가 연결한 DSM 긴자 장소 좌표; 3d/4d 값, 같은 건물 공통"
+      },
+      "wishKeys": [
+        "슈프림"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 600,
+        "estimatedWalkDistanceMRange": [
+          700,
+          900
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          20
+        ],
+        "distanceLabel": "약 0.7~0.9km",
+        "timeLabel": "약 5~20분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6704316,
+          "lng": 139.763143,
+          "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+          "mapURL": "https://goo.gl/maps/f23UxE9fi9rcjkZY7",
+          "method": "Stüssy 공식 지도 링크가 연결한 DSM 긴자 장소 좌표; 3d/4d 값, 같은 건물 공통"
+        }
+      },
+      "distanceEstimateLabel": "약 0.7~0.9km",
+      "sortDistanceM": 800.0,
+      "walking": {
+        "timeLabel": "약 5~20분",
+        "distanceLabel": "약 0.7~0.9km",
+        "status": "estimate",
+        "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "cdg-dsm-ginza",
+      "title": "꼼데가르송 DSM 긴자",
+      "brand": "COMME des GARÇONS",
+      "category": "쇼핑",
+      "address": "東京都中央区銀座6-9-5 ギンザコマツ西館",
+      "area": "긴자",
+      "sourceURL": "https://ginza.doverstreetmarket.com/pages/floorguide",
+      "why": "PLAY는 4층, COMME des GARÇONS는 5층 등 여러 라인을 한 건물에서 비교할 수 있는 후보입니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "여행일 영업과 원하는 품목·사이즈 재고 확인",
+      "originalName": "COMME des GARÇONS Dover Street Market Ginza",
+      "additionalSourceURL": "https://ginza.doverstreetmarket.com/pages/contact",
+      "storeType": "DSM 복수 라인 입점",
+      "floorNote": "PLAY 4F; COMME des GARÇONS 5F; 기타 라인 1F·3F·4F·5F",
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A76-9-5+%E3%82%AE%E3%83%B3%E3%82%B6%E3%82%B3%E3%83%9E%E3%83%84%E8%A5%BF%E9%A4%A8+COMME+des+GAR%C3%87ONS+Dover+Street+Market+Ginza&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "coordinates": {
+        "lat": 35.6704316,
+        "lng": 139.763143,
+        "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+        "mapURL": "https://goo.gl/maps/f23UxE9fi9rcjkZY7",
+        "method": "Stüssy 공식 지도 링크가 연결한 DSM 긴자 장소 좌표; 3d/4d 값, 같은 건물 공통"
+      },
+      "wishKeys": [
+        "꼼데"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 600,
+        "estimatedWalkDistanceMRange": [
+          700,
+          900
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          20
+        ],
+        "distanceLabel": "약 0.7~0.9km",
+        "timeLabel": "약 5~20분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6704316,
+          "lng": 139.763143,
+          "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+          "mapURL": "https://goo.gl/maps/f23UxE9fi9rcjkZY7",
+          "method": "Stüssy 공식 지도 링크가 연결한 DSM 긴자 장소 좌표; 3d/4d 값, 같은 건물 공통"
+        }
+      },
+      "distanceEstimateLabel": "약 0.7~0.9km",
+      "sortDistanceM": 800.0,
+      "walking": {
+        "timeLabel": "약 5~20분",
+        "distanceLabel": "약 0.7~0.9km",
+        "status": "estimate",
+        "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "danton-bshop-yurakucho",
+      "title": "단톤 취급 Bshop 루미네 유라쿠초",
+      "brand": "DANTON",
+      "category": "쇼핑",
+      "address": "東京都千代田区有楽町2-5-1 ルミネ有楽町2 4F",
+      "area": "유라쿠초",
+      "sourceURL": "https://bshop-inc.com/company/shop/yurakucho-lumine",
+      "why": "DANTON 공식 취급점 목록과 Bshop 유라쿠초점의 DANTON 행사 이력을 함께 확인한 가까운 편집숍 후보입니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "DANTON 원하는 품목·사이즈의 현재 취급과 여행일 재고 확인. DANTON 단독 매장과 구분 필요",
+      "originalName": "Bshop 有楽町ルミネ店",
+      "storeType": "공식 취급 편집숍, DANTON 단독점 아님",
+      "additionalSources": [
+        "https://danton.com/ja-jp/pages/shop",
+        "https://bshop-inc.com/feature/event/danton-fair-26ss"
+      ],
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9C%89%E6%A5%BD%E7%94%BA2-5-1+%E3%83%AB%E3%83%9F%E3%83%8D%E6%9C%89%E6%A5%BD%E7%94%BA2+4F+Bshop+%E6%9C%89%E6%A5%BD%E7%94%BA%E3%83%AB%E3%83%9F%E3%83%8D%E5%BA%97&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "wishKeys": [
+        "단톤"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 550,
+        "estimatedWalkDistanceMRange": [
+          700,
+          900
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          20
+        ],
+        "distanceLabel": "약 0.7~0.9km",
+        "timeLabel": "약 5~20분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6735355,
+          "lng": 139.7628262,
+          "sourceURL": "https://bshop-inc.com/company/shop/yurakucho-lumine",
+          "mapURL": "https://goo.gl/maps/fwBNddoXDJdMsAFy6",
+          "method": "공식 Google 지도 링크의 장소 좌표 !3d/!4d 값; viewport 중심 제외"
+        }
+      },
+      "distanceEstimateLabel": "약 0.7~0.9km",
+      "sortDistanceM": 800.0,
+      "walking": {
+        "timeLabel": "약 5~20분",
+        "distanceLabel": "약 0.7~0.9km",
+        "status": "estimate",
+        "sourceURL": "https://bshop-inc.com/company/shop/yurakucho-lumine",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "celine-ginza-six",
+      "title": "셀린느 긴자 GINZA SIX",
+      "brand": "CELINE",
+      "category": "쇼핑",
+      "address": "東京都中央区銀座6-10-1 GINZA SIX 1F",
+      "area": "긴자",
+      "sourceURL": "https://www.celine.com/ja-jp/cm/maison-de-couture/store-architecture/celine-tokyo-ginza",
+      "why": "여성·남성·향수 구성을 확인한 매장. 같은 건물의 AMI·아크테릭스 후보와 묶기 좋습니다.",
+      "distanceStatus": "official_building_walk_estimate",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "여행일 영업과 원하는 품목·사이즈 재고 확인",
+      "originalName": "CELINE TOKYO GINZA MEN & WOMEN",
+      "coordinates": {
+        "lat": 35.6695,
+        "lng": 139.763542,
+        "sourceURL": "https://www.celine.com/ja-jp/stores",
+        "method": "공식 매장안내 Google 지도 daddr 좌표"
+      },
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A76-10-1+GINZA+SIX+1F+CELINE+TOKYO+GINZA+MEN+%26+WOMEN&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "officialWalkEstimateMinutes": 12,
+      "officialWalkEstimateSourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+      "officialWalkEstimateNote": "호텔 공식 안내의 건물까지 도보 약 12분. 매장 층까지 실내 이동·대기 제외, 실제 지도 경로 거리 미확인",
+      "wishKeys": [],
+      "walking": {
+        "timeLabel": "약 12분",
+        "distanceLabel": null,
+        "status": "official",
+        "sourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+        "note": "호텔 공식 안내의 GINZA SIX 건물까지 도보 시간 · 매장 층 이동 제외"
+      },
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 600,
+        "estimatedWalkDistanceMRange": [
+          700,
+          1000
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          20
+        ],
+        "distanceLabel": "약 0.7~1km",
+        "timeLabel": "약 5~20분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6695,
+          "lng": 139.763542,
+          "sourceURL": "https://www.celine.com/ja-jp/stores",
+          "method": "공식 매장안내 Google 지도 daddr 좌표"
+        }
+      },
+      "distanceEstimateLabel": "약 0.7~1km",
+      "sortDistanceM": 850.0
+    },
+    {
+      "id": "ami-ginza-six",
+      "title": "AMI GINZA SIX",
+      "brand": "AMI Paris",
+      "category": "쇼핑",
+      "address": "東京都中央区銀座6-10-1 GINZA SIX 3F",
+      "area": "긴자",
+      "sourceURL": "https://ginza6.tokyo/types/shops/",
+      "why": "GINZA SIX 공식 현재 매장 목록에서 남성·여성 취급을 확인했습니다. 셀린느·아크테릭스와 함께 둘러볼 후보입니다.",
+      "distanceStatus": "official_building_walk_estimate",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "여행일 영업과 원하는 품목·사이즈 재고 확인",
+      "originalName": "Ami Paris GINZA SIX",
+      "additionalSourceURL": "https://prtimes.jp/main/html/rd/p/000000046.000087547.html",
+      "coordinates": {
+        "lat": 35.6695,
+        "lng": 139.763542,
+        "sourceURL": "https://www.celine.com/ja-jp/stores",
+        "method": "같은 GINZA SIX 건물의 CELINE 공식 지도 좌표; AMI 매장 입구 아님"
+      },
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A76-10-1+GINZA+SIX+3F+Ami+Paris+GINZA+SIX&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "officialWalkEstimateMinutes": 12,
+      "officialWalkEstimateSourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+      "officialWalkEstimateNote": "호텔 공식 안내의 건물까지 도보 약 12분. 매장 층까지 실내 이동·대기 제외, 실제 지도 경로 거리 미확인",
+      "wishKeys": [],
+      "walking": {
+        "timeLabel": "약 12분",
+        "distanceLabel": null,
+        "status": "official",
+        "sourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+        "note": "호텔 공식 안내의 GINZA SIX 건물까지 도보 시간 · 매장 층 이동 제외"
+      },
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 600,
+        "estimatedWalkDistanceMRange": [
+          700,
+          1000
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          20
+        ],
+        "distanceLabel": "약 0.7~1km",
+        "timeLabel": "약 5~20분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6695,
+          "lng": 139.763542,
+          "sourceURL": "https://www.celine.com/ja-jp/stores",
+          "method": "같은 GINZA SIX 건물의 CELINE 공식 지도 좌표; AMI 매장 입구 아님"
+        }
+      },
+      "distanceEstimateLabel": "약 0.7~1km",
+      "sortDistanceM": 850.0
+    },
+    {
+      "id": "arcteryx-ginza-six",
+      "title": "아크테릭스 GINZA SIX",
+      "brand": "Arc’teryx",
+      "category": "쇼핑",
+      "address": "東京都中央区銀座6-10-1 GINZA SIX 5F",
+      "area": "긴자",
+      "sourceURL": "https://arcteryx.jp/pages/storelist",
+      "why": "셀린느·AMI와 같은 GINZA SIX 건물의 브랜드 매장 후보. 가까운 도쿄 긴자 취급점의 월·화 휴무를 피할 대안입니다.",
+      "distanceStatus": "official_building_walk_estimate",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "원본 ‘아크테’가 Arc’teryx인지와 여행일 영업·품목 재고 확인",
+      "originalName": "ARC’TERYX GINZA SIX店",
+      "wishlistMatchStatus": "손글씨 확장 해석 · 확인 필요",
+      "additionalSourceURL": "https://ginza6.tokyo/types/shops/",
+      "coordinates": {
+        "lat": 35.6695,
+        "lng": 139.763542,
+        "sourceURL": "https://www.celine.com/ja-jp/stores",
+        "method": "같은 GINZA SIX 건물의 CELINE 공식 지도 좌표; 아크테릭스 매장 입구 아님"
+      },
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A76-10-1+GINZA+SIX+5F+ARC%E2%80%99TERYX+GINZA+SIX%E5%BA%97&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "officialWalkEstimateMinutes": 12,
+      "officialWalkEstimateSourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+      "officialWalkEstimateNote": "호텔 공식 안내의 건물까지 도보 약 12분. 매장 층까지 실내 이동·대기 제외, 실제 지도 경로 거리 미확인",
+      "wishKeys": [],
+      "walking": {
+        "timeLabel": "약 12분",
+        "distanceLabel": null,
+        "status": "official",
+        "sourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+        "note": "호텔 공식 안내의 GINZA SIX 건물까지 도보 시간 · 매장 층 이동 제외"
+      },
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 600,
+        "estimatedWalkDistanceMRange": [
+          700,
+          1000
+        ],
+        "estimatedWalkMinutesRange": [
+          5,
+          20
+        ],
+        "distanceLabel": "약 0.7~1km",
+        "timeLabel": "약 5~20분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6695,
+          "lng": 139.763542,
+          "sourceURL": "https://www.celine.com/ja-jp/stores",
+          "method": "같은 GINZA SIX 건물의 CELINE 공식 지도 좌표; 아크테릭스 매장 입구 아님"
+        }
+      },
+      "distanceEstimateLabel": "약 0.7~1km",
+      "sortDistanceM": 850.0
+    },
+    {
+      "id": "bacchus-ginza",
+      "title": "긴자 와인바 BaCChus",
+      "originalName": "銀座ワインバー BaCChus",
+      "category": "바 · 와인",
+      "area": "긴자",
+      "why": "취향을 상의해 세계 각지의 와인을 잔으로 마실 후보입니다",
+      "address": "東京都中央区銀座7-5-15 AG-1ビル9F",
+      "sourceURL": "https://www.ginza-bacchus.jp/",
+      "needsConfirmation": "공식 안내상 사전 전화예약제. 11/29 일요일은 제외, 11/30 영업·자리·가격 확인",
+      "wishKeys": [
+        "와인바"
+      ],
+      "preferredDay": "2026-11-30",
+      "wishlistMatch": "와인바",
+      "hoursAsPublished": "월~금 18:00~03:00(L.O.02:00), 토 18:00~24:00(L.O.23:00); 일·공휴일 휴무",
+      "routingStatus": "hotel_walk_unverified",
+      "routeDistanceM": null,
+      "walkMinutes": null,
+      "hotelWalkURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72%E4%B8%81%E7%9B%AE10%E7%95%AA2%E5%8F%B7&destination=%E9%8A%80%E5%BA%A7%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC+BaCChus+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A77-5-15+AG-1%E3%83%93%E3%83%AB9F&travelmode=walking",
+      "checkedAt": "2026-10-06",
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 750,
+        "estimatedWalkDistanceMRange": [
+          900,
+          1200
+        ],
+        "estimatedWalkMinutesRange": [
+          10,
+          25
+        ],
+        "distanceLabel": "약 0.9~1.2km",
+        "timeLabel": "약 10~25분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6694583362573,
+          "lng": 139.7614087775205,
+          "sourceURL": "https://www.tokuinfo.com/gourmet/13/4/gaaamkkmvk.htm",
+          "method": "공식 주소와 일치하는 매장 페이지의 공개 좌표. 제3자 출처"
+        }
+      },
+      "distanceEstimateLabel": "약 0.9~1.2km",
+      "sortDistanceM": 1050.0,
+      "walking": {
+        "timeLabel": "약 10~25분",
+        "distanceLabel": "약 0.9~1.2km",
+        "status": "estimate",
+        "sourceURL": "https://www.tokuinfo.com/gourmet/13/4/gaaamkkmvk.htm",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "thedeep-ginza",
+      "title": "재즈 & 소울 바 The Deep",
+      "originalName": "Jazz & Soul Bar The Deep",
+      "category": "바 · 재즈 라이브",
+      "area": "긴자",
+      "wishlistMatch": "재즈바",
+      "why": "여행 중인 11월 30일 공연이 공식 일정에 실제 올라 있는 재즈바 후보입니다",
+      "address": "東京都中央区銀座6-3-12 数寄屋ビル4F",
+      "sourceURL": "https://jazz-thedeep.com/",
+      "eventAsPublished": {
+        "date": "2026-11-30",
+        "artists": "出口優日(Vo), 後藤沙紀(Pf)",
+        "standardHours": "19:00 오픈, 19:30~20:30 / 21:00~22:00, 22:30 종료"
+      },
+      "priceAsPublished": "기본 Music Fee 3,300엔, Table Charge 550엔, 1인 2품목 이상 주문. 날짜별 변경 가능. 전날까지 예약 등 테이블차지 면제 조건 있음",
+      "needsConfirmation": "11/30 공연 변경·잔여석 확인. 11/29 공연은 일정에서 확인되지 않음. 차지와 주문 조건 재확인",
+      "routingStatus": "hotel_walk_unverified",
+      "routeDistanceM": null,
+      "walkMinutes": null,
+      "hotelWalkURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72%E4%B8%81%E7%9B%AE10%E7%95%AA2%E5%8F%B7&destination=Jazz+%26+Soul+Bar+The+Deep+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A76-3-12+%E6%95%B0%E5%AF%84%E5%B1%8B%E3%83%93%E3%83%AB4F&travelmode=walking",
+      "checkedAt": "2026-10-06",
+      "wishKeys": [
+        "재즈바"
+      ],
+      "preferredDay": "2026-11-30",
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 750,
+        "estimatedWalkDistanceMRange": [
+          900,
+          1200
+        ],
+        "estimatedWalkMinutesRange": [
+          10,
+          25
+        ],
+        "distanceLabel": "약 0.9~1.2km",
+        "timeLabel": "약 10~25분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.67122972222222,
+          "lng": 139.76073472222222,
+          "sourceURL": "https://bar-navi.suntory.co.jp/shop/S000006437/map.html",
+          "method": "Suntory BAR-NAVI 지도 앱 링크 q 목적지 좌표. 공식 주소와 일치"
+        }
+      },
+      "distanceEstimateLabel": "약 0.9~1.2km",
+      "sortDistanceM": 1050.0,
+      "walking": {
+        "timeLabel": "약 10~25분",
+        "distanceLabel": "약 0.9~1.2km",
+        "status": "estimate",
+        "sourceURL": "https://bar-navi.suntory.co.jp/shop/S000006437/map.html",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "liquor-mountain-ginza777",
+      "title": "리커 마운틴 긴자777",
+      "originalName": "リカーマウンテン 銀座777",
+      "brand": "Liquor Mountain",
+      "category": "쇼핑 · 위스키 구매",
+      "address": "東京都中央区銀座7-7-7",
+      "area": "긴자",
+      "sourceURL": "https://www.likaman.co.jp/en/shop/tokyo/chuo-ku/8466.html",
+      "additionalSourceURL": "https://www.likaman.co.jp/special/ginza777/",
+      "why": "호텔에서 긴자 남쪽 쇼핑을 이어갈 때 들를 위스키 구매 후보. 공식 안내에 다양한 위스키 취급과 유료 소량 시음을 소개합니다.",
+      "needsConfirmation": "여행일 영업·위스키 브랜드/용량별 재고·가격·시음 운영은 재확인 필요",
+      "verifiedAt": "2026-10-06",
+      "distanceStatus": "pending_route_verification",
+      "nearestClaim": false,
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A77-7-7+%E3%83%AA%E3%82%AB%E3%83%BC%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3+%E9%8A%80%E5%BA%A7777&travelmode=walking",
+      "coordinates": {
+        "lat": 35.6692865,
+        "lng": 139.7620731,
+        "sourceURL": "https://www.tokuinfo.com/gourmet/13/4/gaaddbbmvk.htm",
+        "method": "같은 공식 주소 GINZA777 건물 입점 매장의 공개 좌표를 건물 근사점으로 사용. 주류점 정문 핀 아님"
+      },
+      "wishKeys": [
+        "위스키"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 700,
+        "estimatedWalkDistanceMRange": [
+          900,
+          1200
+        ],
+        "estimatedWalkMinutesRange": [
+          10,
+          25
+        ],
+        "distanceLabel": "약 0.9~1.2km",
+        "timeLabel": "약 10~25분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6692865,
+          "lng": 139.7620731,
+          "sourceURL": "https://www.tokuinfo.com/gourmet/13/4/gaaddbbmvk.htm",
+          "method": "같은 공식 주소 GINZA777 건물 입점 매장의 공개 좌표를 건물 근사점으로 사용. 주류점 정문 핀 아님"
+        }
+      },
+      "distanceEstimateLabel": "약 0.9~1.2km",
+      "sortDistanceM": 1050.0,
+      "walking": {
+        "timeLabel": "약 10~25분",
+        "distanceLabel": "약 0.9~1.2km",
+        "status": "estimate",
+        "sourceURL": "https://www.tokuinfo.com/gourmet/13/4/gaaddbbmvk.htm",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "sushinomidori-ginza",
+      "title": "미도리 스시 긴자점",
+      "originalName": "梅丘寿司の美登利 銀座店",
+      "category": "먹거리 · 초밥",
+      "area": "긴자 · 신바시 쪽",
+      "wishlistMatch": "초밥",
+      "why": "위시리스트 초밥을 긴자 남쪽에서 먹을 후보. 현장 대기표 방식이어서 식사 시간을 넉넉히 잡는 편이 좋습니다",
+      "address": "東京都中央区銀座8-3 先 東京高速道路山下ビル1F",
+      "sourceURL": "https://www.sushinomidori.co.jp/shops/ginza/",
+      "hoursAsPublished": "평일 11:00~15:00(L.O.14:00),17:00~21:00(L.O.20:30); 토·일·공휴일 11:00~21:00(L.O.20:30)",
+      "needsConfirmation": "현장 대기표는 10시부터. 공식 안내상 스마트폰 대기 접수 불가, 혼잡하면 조기 마감 가능. 여행일 휴무·예약 조건 재확인",
+      "routingStatus": "hotel_walk_unverified",
+      "routeDistanceM": null,
+      "walkMinutes": null,
+      "hotelWalkURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72%E4%B8%81%E7%9B%AE10%E7%95%AA2%E5%8F%B7&destination=%E6%A2%85%E4%B8%98%E5%AF%BF%E5%8F%B8%E3%81%AE%E7%BE%8E%E7%99%BB%E5%88%A9+%E9%8A%80%E5%BA%A7%E5%BA%97+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A78-3+%E5%85%88+%E6%9D%B1%E4%BA%AC%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF%E5%B1%B1%E4%B8%8B%E3%83%93%E3%83%AB1F&travelmode=walking",
+      "checkedAt": "2026-10-06",
+      "wishKeys": [
+        "스시",
+        "초밥"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 800,
+        "estimatedWalkDistanceMRange": [
+          1000,
+          1300
+        ],
+        "estimatedWalkMinutesRange": [
+          10,
+          25
+        ],
+        "distanceLabel": "약 1~1.3km",
+        "timeLabel": "약 10~25분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.6713282,
+          "lng": 139.7601339,
+          "sourceURL": "https://mapfan.com/spots/S5CAA%2CJ%2C7BWGU0",
+          "method": "공식 주소와 일치하는 MapFan 매장 좌표"
+        }
+      },
+      "distanceEstimateLabel": "약 1~1.3km",
+      "sortDistanceM": 1150.0,
+      "walking": {
+        "timeLabel": "약 10~25분",
+        "distanceLabel": "약 1~1.3km",
+        "status": "estimate",
+        "sourceURL": "https://mapfan.com/spots/S5CAA%2CJ%2C7BWGU0",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "ichiran-shimbashi",
+      "title": "이치란 신바시점",
+      "originalName": "一蘭 新橋店",
+      "category": "먹거리 · 라멘",
+      "area": "신바시",
+      "wishlistMatch": "이치란",
+      "why": "현재 영업 안내가 확인되는 신바시 지점. 폐점한 긴자 이치란 대신 제시하는 후보입니다",
+      "address": "東京都港区新橋2-5-6 2F",
+      "sourceURL": "https://ichiran.com/shop/tokyo/shimbashi/",
+      "additionalSourceURL": "https://ichiran.com/shop/tokyo/ginza/",
+      "hoursAsPublished": "24시간. 인력 사정에 따른 임시 변경 가능",
+      "menuExample": "천연 돈코츠 라멘 1,180엔, 22:00~익일 6:00 심야요금 안내 있음",
+      "officialAccess": "신바시역 히비야구치 도보 3분 (호텔 출발 시간 아님)",
+      "needsConfirmation": "여행일 영업과 임시휴무·심야요금 확인. 긴자 이치란은 공식적으로 2022-02-28 폐점",
+      "routingStatus": "hotel_walk_unverified",
+      "routeDistanceM": null,
+      "walkMinutes": null,
+      "hotelWalkURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72%E4%B8%81%E7%9B%AE10%E7%95%AA2%E5%8F%B7&destination=%E4%B8%80%E8%98%AD+%E6%96%B0%E6%A9%8B%E5%BA%97+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%96%B0%E6%A9%8B2-5-6+2F&travelmode=walking",
+      "checkedAt": "2026-10-06",
+      "wishKeys": [
+        "이치란 라멘",
+        "이치란"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 1300,
+        "estimatedWalkDistanceMRange": [
+          1600,
+          2100
+        ],
+        "estimatedWalkMinutesRange": [
+          20,
+          40
+        ],
+        "distanceLabel": "약 1.6~2.1km",
+        "timeLabel": "약 20~40분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.667462,
+          "lng": 139.7558964,
+          "sourceURL": "https://mapfan.com/spots/S553Y%2CFDJJ%2CGIPGU0",
+          "method": "공식 주소와 일치하는 MapFan 매장 좌표"
+        }
+      },
+      "distanceEstimateLabel": "약 1.6~2.1km",
+      "sortDistanceM": 1850.0,
+      "walking": {
+        "timeLabel": "약 20~40분",
+        "distanceLabel": "약 1.6~2.1km",
+        "status": "estimate",
+        "sourceURL": "https://mapfan.com/spots/S553Y%2CFDJJ%2CGIPGU0",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "monkichi-tsukishima",
+      "title": "쓰키시마 몬키치 본점",
+      "originalName": "路地裏もんじゃ もん吉 本店",
+      "category": "먹거리 · 몬자야끼",
+      "area": "쓰키시마",
+      "why": "몬자거리에서 고르는 목적지형 후보. 긴자 호텔 바로 근처 또는 최단 거리 몬자야끼집이라는 의미는 아닙니다",
+      "address": "東京都中央区月島3-8-10",
+      "sourceURL": "https://www.monkichi.co.jp/restaurant/",
+      "needsConfirmation": "공식 안내의 카드 사용 불가·전면 흡연 가능 정책을 방문 전 재확인. 본점과 신점·니시나카점은 휴무가 다름",
+      "wishKeys": [
+        "몬자야끼",
+        "몬자야키"
+      ],
+      "wishlistMatch": "몬자야끼",
+      "officialAccess": "쓰키시마역 7번 출구 도보 약 5분 (호텔 출발 시간 아님)",
+      "hoursAsPublished": "11:00~22:00, L.O.21:00; 본점은 연중무휴·점검 휴무 가능",
+      "routingStatus": "hotel_walk_unverified",
+      "routeDistanceM": null,
+      "walkMinutes": null,
+      "hotelWalkURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72%E4%B8%81%E7%9B%AE10%E7%95%AA2%E5%8F%B7&destination=%E8%B7%AF%E5%9C%B0%E8%A3%8F%E3%82%82%E3%82%93%E3%81%98%E3%82%83+%E3%82%82%E3%82%93%E5%90%89+%E6%9C%AC%E5%BA%97+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9C%88%E5%B3%B63-8-10&travelmode=walking",
+      "checkedAt": "2026-10-06",
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 1550,
+        "estimatedWalkDistanceMRange": [
+          2200,
+          2900
+        ],
+        "estimatedWalkMinutesRange": [
+          25,
+          55
+        ],
+        "distanceLabel": "약 2.2~2.9km",
+        "timeLabel": "약 25~55분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.4~1.9(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인; 강 건너 목적지이므로 교량 우회를 고려한 별도 가정 적용",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.663073,
+          "lng": 139.781183,
+          "sourceURL": "https://j-catalyst.com/atlas-public/world-monja-atlas/shops/jp-tokyo-tsukishima-monkichi-new-store/",
+          "method": "동일 공식 주소 3-8-10의 몬키치 신점 좌표를 본점 건물 근사점으로 사용. 제3자가 조합 지도에서 인용. 매장 정문 확정값 아님"
+        }
+      },
+      "distanceEstimateLabel": "약 2.2~2.9km",
+      "sortDistanceM": 2550.0,
+      "walking": {
+        "timeLabel": "약 25~55분",
+        "distanceLabel": "약 2.2~2.9km",
+        "status": "estimate",
+        "sourceURL": "https://j-catalyst.com/atlas-public/world-monja-atlas/shops/jp-tokyo-tsukishima-monkichi-new-store/",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "humanmade-harajuku",
+      "title": "HUMAN MADE 하라주쿠",
+      "brand": "HUMAN MADE",
+      "category": "쇼핑",
+      "address": "東京都渋谷区神宮前1-11-6",
+      "area": "하라주쿠",
+      "sourceURL": "https://www.humanmade.jp/en/dealers.html",
+      "why": "공식 일본 매장 목록에서 긴자·유라쿠초 지점을 확인하지 못해 하라주쿠 후보를 유지합니다. 호텔 근거리 묶음과 별도 동선입니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "여행일 영업과 원하는 품목·사이즈 재고 확인",
+      "originalName": "HUMAN MADE HARAJUKU",
+      "proximityGroup": "별도 이동",
+      "nearestClaim": false,
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%A5%9E%E5%AE%AE%E5%89%8D1-11-6+HUMAN+MADE+HARAJUKU&travelmode=walking",
+      "wishKeys": [
+        "휴먼메이드"
+      ],
+      "hotelWalkEstimate": {
+        "straightLineDistanceM": 5750,
+        "estimatedWalkDistanceMRange": [
+          6900,
+          9200
+        ],
+        "estimatedWalkMinutesRange": [
+          85,
+          160
+        ],
+        "distanceLabel": "약 6.9~9.2km",
+        "timeLabel": "약 85~160분",
+        "routingStatus": "geographic_planning_estimate_not_routed",
+        "method": "공개 좌표 간 Haversine 직선거리 × 1.2~1.6(우회 가정), 거리 100m 단위 반올림. 분당 60~80m·상한 신호 여유 2분을 가정하고 시간은 5분 단위로 넓혀 표시. 실제 길찾기 측정값 또는 보장 범위 아님",
+        "caveat": "출입구·횡단보도·공사·실내/지하 이동·대기는 반영하지 않음. 방문 전 호텔 출발 Google Maps 도보 경로 확인",
+        "originCoordinates": {
+          "lat": 35.672741,
+          "lng": 139.7688775,
+          "sourceURL": "https://mapfan.com/spots/SCAQ5%2CJ%2C9M",
+          "method": "MapFan의 호텔 몬토레 긴자 동일 건물 주차장 좌표를 호텔 건물의 근사점으로 사용. 정문 핀 확정값 아님"
+        },
+        "destinationCoordinates": {
+          "lat": 35.669035,
+          "lng": 139.705425,
+          "sourceURL": "https://www.navitime.co.jp/poi?spot=02301-1300579",
+          "method": "같은 공식 주소의 라포레 하라주쿠 건물 좌표(NAVITIME). 매장 입구 대신 건물 근사점"
+        }
+      },
+      "distanceEstimateLabel": "약 6.9~9.2km",
+      "sortDistanceM": 8050.0,
+      "walking": {
+        "timeLabel": "약 85~160분",
+        "distanceLabel": "약 6.9~9.2km",
+        "status": "estimate",
+        "sourceURL": "https://www.navitime.co.jp/poi?spot=02301-1300579",
+        "note": "지리 기반 계획용 추정 · 실제 길찾기 값 아님"
+      }
+    },
+    {
+      "id": "kaldi-yaechika",
+      "title": "KALDI 야에치카점",
+      "brand": "KALDI",
+      "category": "쇼핑",
+      "address": "東京都中央区八重洲2-1 北1号 ヤエチカ",
+      "area": "도쿄역 · 야에스",
+      "sourceURL": "https://map.kaldi.co.jp/kaldi/detailMap?account=kaldi&bid=404",
+      "why": "공식 중앙구 매장 목록에서 확인한 지점. 교바시·도쿄역 동선에 연결할 수 있는 레몬에이드 탐색 후보입니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "레몬에이드 취급·여행일 재고는 확인되지 않았습니다. 공식 안내대로 해당 매장에 재고 확인 필요",
+      "originalName": "カルディコーヒーファーム ヤエチカ店",
+      "additionalSourceURL": "https://www.kaldi.co.jp/faq/product/goods/post_30.html",
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%AB%E9%87%8D%E6%B4%B22-1+%E5%8C%971%E5%8F%B7+%E3%83%A4%E3%82%A8%E3%83%81%E3%82%AB+%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0+%E3%83%A4%E3%82%A8%E3%83%81%E3%82%AB%E5%BA%97&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "wishKeys": [
+        "칼디 레몬에이드"
+      ]
+    },
+    {
+      "id": "arcteryx-tokyo-ginza",
+      "title": "아크테릭스 도쿄 긴자",
+      "brand": "Arc’teryx",
+      "category": "쇼핑",
+      "address": "東京都中央区銀座3-11-14 1F",
+      "area": "긴자",
+      "sourceURL": "https://arcteryx.jp/pages/storelist",
+      "why": "호텔과 같은 긴자 동쪽의 가까운 취급점 후보. 손글씨 ‘아크테’의 확장 해석이 맞는지 확인이 필요합니다.",
+      "distanceStatus": "pending_route_verification",
+      "verifiedAt": "2026-10-06",
+      "needsConfirmation": "원본 ‘아크테’가 Arc’teryx인지 확인 필요. 공식 현재 정기휴무는 월·화·수·목으로 11/30·12/1 방문 후보에서 제외; 11/29 영업도 여행 전 재확인",
+      "originalName": "アークテリクス 東京銀座",
+      "wishlistMatchStatus": "손글씨 확장 해석 · 확인 필요",
+      "storeType": "공식 목록의 취급점",
+      "mapsWalkingURL": "https://www.google.com/maps/dir/?api=1&origin=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E9%8A%80%E5%BA%A7+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A72-10-2&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A73-11-14+1F+%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%86%E3%83%AA%E3%82%AF%E3%82%B9+%E6%9D%B1%E4%BA%AC%E9%8A%80%E5%BA%A7&travelmode=walking",
+      "nearestClaim": false,
+      "proximityGroup": "긴자 · 유라쿠초 · 교바시 · 도쿄역",
+      "wishKeys": [
+        "아크테"
+      ],
+      "preferredDay": "2026-11-29"
+    }
+  ],
+  "exclusions": "사진 오독으로 확인된 온천·센카는 제외. 셀린느는 사용자가 매장 방문으로 확인했고, KALDI 레몬에이드도 확인했으므로 원본 위시리스트에는 포함합니다. 스탠다드프로덕트는 사용자의 추가 요청으로 아홉 번째 매장 후보에 포함했습니다."
+}

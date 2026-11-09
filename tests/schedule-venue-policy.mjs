@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import React from 'react';
+import {renderToStaticMarkup} from 'react-dom/server';
+import {ScheduleVenuePolicy} from '../.test-build/place-reservation.mjs';
+const meat={id:'meatman-roppongi',title:'미트맨 롯폰기',category:'먹거리 · 야키토리'};
+const moheji={id:'moheji-shibuya-scramble-square',title:'모헤지',category:'먹거리 · 몬자야키'};
+for(const place of [meat,moheji])for(const category of ['이동','쇼핑','구경','기타'])assert.equal(renderToStaticMarkup(React.createElement(ScheduleVenuePolicy,{place,category})), '');
+assert.match(renderToStaticMarkup(React.createElement(ScheduleVenuePolicy,{place:meat,category:'맛집'})),/예약 가능/);
+assert.match(renderToStaticMarkup(React.createElement(ScheduleVenuePolicy,{place:meat,category:'맛집'})),/카드 가능/);
+assert.match(renderToStaticMarkup(React.createElement(ScheduleVenuePolicy,{place:moheji,category:'맛집'})),/카드 확인 필요/);
+console.log('PASS venue-only policy badges: no badges on transit/retail/sightseeing even when destination resolves to a restaurant.');

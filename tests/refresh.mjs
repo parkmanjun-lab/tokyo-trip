@@ -1,0 +1,17 @@
+import assert from 'node:assert/strict';
+import {readTrip,writeTrip} from '/tmp/tokyo-perf-tests/trip-store.mjs';
+import {prefetchTrip,loadTrip,discardTripPrefetch} from '/tmp/tokyo-perf-tests/trip-client.mjs';
+const state={trip:{entries:[],checks:[],hotel:{name:'사용자 호텔'},favorites:['entry:mine']},version:7,updatedAt:'2026-10-06T06:57:53.800Z'};
+let calls=[];let row={data:JSON.stringify(state.trip),version:state.version,updated_at:state.updatedAt};
+const db={prepare(sql){return {bind(...values){return {async first(){calls.push(['read',sql,values]);return row;},async run(){calls.push(['write',sql,values]);if(sql.startsWith('INSERT'))row={data:values[1],version:1,updated_at:values[2]};return {meta:{changes:0}};}}}}}};
+assert.deepEqual(await readTrip(db,'shared'),state);assert.equal(calls.length,1);assert.equal(calls[0][0],'read');
+assert.equal(await writeTrip(db,'shared',state.trip,6),null);assert.match(calls.at(-1)[1],/AND version = \?/);assert.equal(calls.at(-1)[2].at(-1),6);
+row=null;calls=[];const seeded=await readTrip(db,'new');assert.equal(seeded.version,1);assert.deepEqual(calls.map(c=>c[0]),['read','write','read']);assert.match(calls[1][1],/ON CONFLICT\(user_id\) DO NOTHING/);
+let requests=0;let resolve;
+globalThis.fetch=async(url,options)=>{requests++;assert.equal(url,'/api/trip');assert.equal(options.cache,'no-store');assert.ok(options.signal);return new Promise(r=>resolve=()=>r({ok:true,json:async()=>state}));};
+const first=prefetchTrip();assert.equal(requests,1);assert.equal(prefetchTrip(),first);const consuming=loadTrip(true);assert.equal(requests,1);resolve();assert.deepEqual(await consuming,state);
+const fresh=loadTrip();assert.equal(requests,2);resolve();await fresh;discardTripPrefetch();
+globalThis.fetch=async()=>({ok:false,json:async()=>({error:'서버 오류'})});await assert.rejects(loadTrip(),/서버 오류/);
+globalThis.fetch=async()=>({ok:true,json:async()=>{throw Error('bad JSON')}});await assert.rejects(loadTrip(),/연결이 잠시 끊겼어요/);
+globalThis.fetch=async()=>{throw new DOMException('aborted','AbortError')};await assert.rejects(loadTrip(),/시간이 걸려요/);
+console.log('PASS refresh: existing D1 is one SELECT with no mutation, seed fallback, CAS intact, eager prefetch reused, retry fresh, API/JSON/timeout errors recoverable');

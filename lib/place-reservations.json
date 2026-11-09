@@ -1,0 +1,283 @@
+{
+  "bincho-ginza": {
+    "status": "available",
+    "method": "공식 홈페이지 웹예약 또는 전화 예약 · 03-5159-0231",
+    "conditions": [
+      "전화 예약은 AI 응대로 안내됩니다.",
+      "예약 시간대·인원·취소 조건은 선택한 예약 안내에서 확인해주세요.",
+      "마로니에 게이트 긴자점 기준 · 미츠코시점과 다릅니다. 여행일 빈자리 미확인·예약 전."
+    ],
+    "sourceUrls": [
+      "https://hitsumabushi.co.jp/store_details/Marronnier_Gate_Ginza",
+      "https://booking.ebica.jp/webrsv/search/e020034301/19319?isfixshop=true"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "torigin-ginza": {
+    "status": "unavailable",
+    "method": "현재 긴자 본점은 예약 접수를 중단한 것으로 공식 안내됩니다.",
+    "conditions": [
+      "현장 방문 시 입장·대기 상황을 확인해주세요."
+    ],
+    "sourceUrls": [
+      "https://torigin-ginza.jp/",
+      "https://torigin-ginza.jp/contact/"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  "sushinomidori-ginza": {
+    "status": "conditional",
+    "method": "공식 매장 페이지에서 연결한 TableCheck로 예약",
+    "conditions": [
+      "좌석만 예약 상품: 이용 105분 · 선부착(先付) 880엔 포함 조건. 메뉴는 당일 선택합니다.",
+      "세트 예약 상품은 별도 90분 조건입니다. 서로 다른 상품의 조건을 혼합하지 말고 선택한 예약 화면을 확인해주세요.",
+      "2026.10.15 확인한90분 선결제 세트는 그룹 동일 메뉴·취소3일전~전날50%,당일100%. 기존 좌석만 옵션과 다른 상품입니다. 선택한 플랜의 최신 조건을 적용하세요.",
+      "Google4.2 · 리뷰5,734개(2026.10.15 직접 확인,변동 가능). 여행일 잔여석 미확인·예약 전."
+    ],
+    "sourceUrls": [
+      "https://www.sushinomidori.co.jp/shops/ginza/",
+      "https://www.tablecheck.com/ja/shops/sushinomidori-ginza/reserve"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "ichiran-shimbashi": {
+    "status": "unavailable",
+    "method": "좌석 예약 불가 · 현장 방문",
+    "conditions": [
+      "공식 FAQ에서 좌석 예약을 받지 않는다고 안내합니다.",
+      "별도 우선안내 서비스도 좌석 확보를 보장하지 않으며, 현재 대상 목록에 신바시점은 없습니다."
+    ],
+    "sourceUrls": [
+      "https://ichiran.com/contact/inquiry-faqlist.php",
+      "https://ichiran.com/yusen-service.html",
+      "https://ichiran.com/shop/tokyo/shimbashi/"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  "monkichi-tsukishima": {
+    "status": "available",
+    "method": "본점 전화 예약 문의 · 03-3531-2380",
+    "conditions": [
+      "공식 본점 안내에 전화·예약 번호가 표시돼 있습니다.",
+      "인원·시간 제한과 취소 조건은 통화 시 확인해주세요. 본점·신점을 구분하세요."
+    ],
+    "sourceUrls": [
+      "https://www.monkichi.co.jp/restaurant/"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  "moheji-ueno": {
+    "status": "unknown",
+    "method": "예약 정책 확인 필요 · 우에노점 직통 03-6803-0083",
+    "conditions": [
+      "기존 점주 관리 매장 안내에는 예약 가능으로 표시돼 있으나, 이번 확인에서는 현재 공식 예약 조건을 확정하지 못했습니다.",
+      "주소 6-11-2 우에노점 기준입니다. 우에노 분점(6-10-10)과 구분해 시간대·인원·취소 조건을 문의해주세요."
+    ],
+    "sourceUrls": [
+      "https://kissuigroup.com/shop/#moheji_ueno",
+      "https://kano-corp.tokyo/shop/"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  "shabuki-ginza": {
+    "status": "available",
+    "method": "공식 페이지에서 웹예약 또는 전화 03-6263-8829",
+    "conditions": [],
+    "sourceUrls": [
+      "https://ginza-shabuki.hapyres.com/",
+      "https://ginza-shabuki.owst.jp/"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "moheji-shibuya-scramble-square": {
+    "status": "unavailable",
+    "method": "시설 공식 매장 안내: 예약 불가",
+    "conditions": [
+      "현장 대기 필요; 제3자 예약 사이트 표시보다 시설 공식 안내 우선"
+    ],
+    "sourceUrls": [
+      "https://www.shibuya-scramble-square.com/shops_restaurants/shop_77.html",
+      "https://shibuya-scramble-square.com/faq/"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "kanda-yabusoba": {
+    "status": "conditional",
+    "method": "전화 03-3251-0287",
+    "conditions": [
+      "공식 확인 범위: 2층 개인실은 2인부터 2일 전까지 예약",
+      "개인실 좌석만 예약 시 방당 5,500엔. 일반 1층 좌석 예약 조건은 문의"
+    ],
+    "sourceUrls": [
+      "https://www.yabusoba.net/shop/",
+      "https://www.yabusoba.net/reserve/",
+      "https://visit-chiyoda.tokyo/app/spot/detail/382"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "sato-yosuke-ginza": {
+    "status": "conditional",
+    "method": "평일 저녁 코스만 전화 예약 03-6215-6211",
+    "conditions": [
+      "점심 및 토·일·공휴일 예약 불가",
+      "좌석만 예약 불가",
+      "저녁 17시 이후 서비스료 10%"
+    ],
+    "sourceUrls": [
+      "https://www.sato-yoske.co.jp/shop/ginza/"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "bouya-nihonbashi": {
+    "status": "available",
+    "method": "공식 웹예약 또는 AI 예약전화 050-3101-9842",
+    "conditions": [
+      "예약 15분 경과 후 연락 없으면 취소 가능",
+      "혼잡 시 2시간제"
+    ],
+    "sourceUrls": [
+      "https://www.bou-ya.com/information/102.html",
+      "https://issei-inc.co.jp/service02/",
+      "https://booking.ebica.jp/webrsv/search/e014076701/25219?isfixshop=true",
+      "https://tabelog.com/tokyo/A1302/A130202/13117977/"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "hirokiya-shibuya": {
+    "status": "available",
+    "method": "공식 페이지 웹예약 또는 전화 03-6416-1529",
+    "conditions": [
+      "선택 불가 인원·날짜는 매장 문의",
+      "예약 플랫폼 안내: 점심 한정 30식, 소진 시 종료"
+    ],
+    "sourceUrls": [
+      "https://hirokiya-group.com/shibuya/ja",
+      "https://www.hotpepper.jp/strJ003671311/"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "panga-ueno": {
+    "status": "available",
+    "method": "업장 등록 식べ로그 웹예약 또는 전화 03-5846-8529",
+    "conditions": [
+      "15분 이상 늦으면 취소 가능, 늦을 때 연락",
+      "1인 좌석 이용은 1시간"
+    ],
+    "sourceUrls": [
+      "https://www.wagyu-panga.jp/index.html",
+      "https://www.wagyu-panga.jp/indexen.html",
+      "https://tabelog.com/tokyo/A1311/A131101/13303729/"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "unafuji-midtown-yaesu": {
+    "status": "conditional",
+    "method": "공식 웹예약 또는 전화 03-3274-4788",
+    "conditions": [
+      "시설 안내: 일반 예약 2인부터, 개인실 3인부터",
+      "이용시간·개인실 요금은 공식 매장과 시설 페이지 차이가 있어 예약 선택 조건 확인",
+      "공식 취소규정: 3일 전–전날 개인실료 50%, 당일 음식·개인실료 100%"
+    ],
+    "sourceUrls": [
+      "https://sumiyaki-unafuji.com/shops/yaesu/",
+      "https://www.yaesu.tokyo-midtown.com/shop-restaurant/detail/30400"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "unafuji-yurakucho": {
+    "status": "available",
+    "method": "공식 웹예약 또는 전화 03-6457-9688",
+    "conditions": [
+      "개인실 점심60분 1,000엔 / 저녁120분 2,000엔",
+      "공식 취소규정: 3일 전–전날 개인실료 50%, 당일 음식·개인실료 100%",
+      "웹예약 최소 인원은 선택 상품 확인"
+    ],
+    "sourceUrls": [
+      "https://sumiyaki-unafuji.com/shops/ginza/",
+      "https://sumiyaki-unafuji.com/information/booking/"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "meatman-roppongi": {
+    "status": "available",
+    "method": "공식 TableCheck 웹예약",
+    "conditions": [
+      "18세 미만은 보호자 동반이어도 입장 불가",
+      "좌석만 예약은 2시간, 표시된 인원범위 2–7인",
+      "예약 시 카드정보 필요",
+      "연락 없이 예약시간 10분 경과 시 취소 가능",
+      "실제 여행일 잔여좌석/취소비는 예약시 재확인"
+    ],
+    "sourceUrls": [
+      "https://teyandei.com/?page_id=11",
+      "https://www.tablecheck.com/en/shops/meatman-roppongi/reserve"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "ginza-marui": {
+    "status": "unknown",
+    "method": "공식전화03-3564-8601로 예약 가능 여부 문의",
+    "conditions": [
+      "온라인 예약조건 미확인. 예약가능확정 표시금지",
+      "저녁메뉴가격/좌석문의는 공식전화 참고",
+      "11월29일 일요일 저녁은 공식20:00마감(LO19:30) 기준"
+    ],
+    "sourceUrls": [
+      "https://ginza-maruisushi.com/index.html"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "ginten-ginza-corridor": {
+    "status": "unknown",
+    "method": "공식 매장 페이지에서 좌석·예약 조건 확인",
+    "conditions": [
+      "이번 일정은 예약 전입니다.",
+      "1인 평균 약 2,500엔 외에 오토시가 있으며 정확한 금액은 매장 확인."
+    ],
+    "sourceUrls": [
+      "https://ginten.dkdining.com/ginza/",
+      "https://ginten-ginzacorridor.owst.jp/"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "ushigoro-bambina-ginza": {
+    "status": "available",
+    "method": "TableCheck 예약 가능 · 아직 예약하지 않았어요",
+    "conditions": [
+      "11/29 실제 빈자리 미확인. 특선 코스 8,800엔(세금 포함), 음료 별도. 개인실 총액 10% 추가.",
+      "5명 이상은 코스 필수. 15분 무연락 지각 시 취소될 수 있어요. 선택 플랜의 취소 조건을 예약 전에 확인하세요."
+    ],
+    "sourceUrls": [
+      "https://ushigoro-bambina.com/shop-info/ginza/",
+      "https://www.tablecheck.com/ja/shops/ushigoro-bambina-ginza/reserve"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "old-imperial-bar": {
+    "status": "unavailable",
+    "method": "이번 21시 방문은 예약 불가 · 현장 입장",
+    "conditions": [
+      "공식 예약은 11:30–16:00 입장만 가능. 21시에는 현장 방문하고 만석이면 생략하세요.",
+      "20세 이상·전석 금연·복장 제한 확인. 커버차지 여부는 입장 전에 확인하세요."
+    ],
+    "sourceUrls": [
+      "https://www.imperialhotel.co.jp/tokyo/restaurant/old-imperialbar"
+    ],
+    "checkedAt": "2026-10-15"
+  },
+  "ichiran-harajuku": {
+    "status": "queue",
+    "method": "이번 09:30 방문은 현장 대기 · 좌석 예약 아님",
+    "conditions": [
+      "좌석 예약은 받지 않는다고 공식 FAQ가 안내합니다.",
+      "하라주쿠 유료 우선안내는 10:00–21:30 대상이며 좌석 확보가 아니에요. 이번 09:30 아침 일정에는 적용하지 않고 신청·결제도 하지 않았어요.",
+      "대기 없이 입장하거나 10:30까지 마칠 수 있음을 보장하지 않아요."
+    ],
+    "sourceUrls": [
+      "https://ichiran.com/shop/tokyo/harajuku/",
+      "https://ichiran.com/contact/inquiry-faqlist.php",
+      "https://ichiran.com/yusen-service.html"
+    ],
+    "checkedAt": "2026-10-15"
+  }
+}

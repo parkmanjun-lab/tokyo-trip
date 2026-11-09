@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import {isFavorite,setFavorite,entryFavoriteTarget} from '/tmp/tokyo-favorite-tests/favorites.mjs';
+import {tripSchema} from '/tmp/tokyo-favorite-tests/trip-schema.mjs';
+import {readFileSync} from 'node:fs';
+const original=JSON.parse(readFileSync('/tmp/tokyo-typeahead-live.json','utf8')).trip;
+assert.ok(tripSchema.safeParse(original).success);assert.equal(original.favorites,undefined);
+const entry=original.entries.find(e=>e.title==='몽벨'),target=entryFavoriteTarget(entry);assert.equal(target.catalogId,'montbell-kyobashi');
+const selected=setFavorite(original,target,true);assert.ok(isFavorite(selected,target));assert.ok(isFavorite(selected,{catalogId:target.catalogId}));assert.ok(tripSchema.safeParse(selected).success);
+assert.deepEqual(selected.entries,original.entries);assert.deepEqual(selected.hotel,original.hotel);assert.deepEqual(selected.checks,original.checks);assert.deepEqual(selected.inbound,original.inbound);assert.deepEqual(selected.outbound,original.outbound);assert.equal(original.favorites,undefined);
+const reloaded=JSON.parse(JSON.stringify(selected));assert.ok(isFavorite(reloaded,target));assert.equal(setFavorite(reloaded,target,true).favorites.length,1);assert.equal(setFavorite(reloaded,{catalogId:target.catalogId},false).favorites.length,0);
+const custom=original.entries.find(e=>e.title==='시오콘부');const both=setFavorite(selected,entryFavoriteTarget(custom),true);assert.equal(both.favorites.length,2);assert.ok(isFavorite(both,entryFavoriteTarget(custom)));assert.equal(setFavorite(both,target,false).favorites.length,1);
+const moved={...both,entries:both.entries.map(e=>e.id===entry.id?{...e,day:'2026-11-30',note:'새 메모'}:e)};assert.ok(isFavorite(moved,entryFavoriteTarget(moved.entries.find(e=>e.id===entry.id))));
+assert.equal(tripSchema.safeParse({...selected,favorites:['catalog:montbell-kyobashi','catalog:montbell-kyobashi']}).success,false);assert.equal(tripSchema.safeParse({...selected,favorites:['invalid-prefix']}).success,false);
+console.log('PASS shared favorites: legacy data, canonical/saved synchronization, immutable updates, reload, dedup, toggle off, day move, all unrelated trip data preserved, schema guards');

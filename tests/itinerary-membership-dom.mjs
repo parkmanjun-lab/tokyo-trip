@@ -1,0 +1,27 @@
+import assert from 'node:assert/strict';
+import {JSDOM} from '/workspace/shared/lumen-bastion/node_modules/jsdom/lib/api.js';
+const dom=new JSDOM('<html><body><div id="root"></div></body></html>',{url:'http://localhost',pretendToBeVisual:true});
+for(const key of ['window','document','navigator','HTMLElement','Element','Node','Event','MouseEvent','KeyboardEvent','InputEvent','HTMLInputElement','MutationObserver','FormData'])Object.defineProperty(globalThis,key,{value:dom.window[key],configurable:true});
+globalThis.getComputedStyle=window.getComputedStyle.bind(window);globalThis.IS_REACT_ACT_ENVIRONMENT=true;globalThis.requestAnimationFrame=window.requestAnimationFrame.bind(window);globalThis.cancelAnimationFrame=window.cancelAnimationFrame.bind(window);globalThis.ResizeObserver=class{observe(){}unobserve(){}disconnect(){}};window.ResizeObserver=globalThis.ResizeObserver;window.matchMedia=()=>({matches:false,addEventListener(){},removeEventListener(){}});window.HTMLDialogElement.prototype.showModal=function(){this.open=true};window.HTMLDialogElement.prototype.close=function(){this.open=false};
+window.scrollTo=()=>{};const React=await import('react');const {act}=React;const {createRoot}=await import('react-dom/client');const {default:Planner}=await import('../.test-build/planner.mjs');
+
+const {readFileSync}=await import('node:fs');
+const original=JSON.parse(readFileSync('/workspace/shared/tokyo-itinerary-live-before.json','utf8'));
+const server=structuredClone(original);Object.assign(server.trip.entries.find(e=>e.id==='wish-15'),{day:'2026-11-30',catalogId:'montbell-kyobashi'});
+let writes=0;globalThis.fetch=async(url,options={})=>{if(options.method==='PUT'){writes++;throw Error('No writes in read-only test');}if(url==='/api/trip')return{ok:true,json:async()=>server};throw Error('Offline other test routes')};
+const root=createRoot(document.getElementById('root'));await act(async()=>root.render(React.createElement(Planner)));
+const btn=text=>[...document.querySelectorAll('button')].find(b=>b.textContent===text);
+await act(async()=>btn('장소').click());
+const membership=text=>[...document.querySelectorAll('.membership-filters button')].find(b=>b.textContent===text);
+await act(async()=>membership('일정 포함').click());
+assert.equal(document.querySelectorAll('.rich-place-card').length,1);assert.match(document.querySelector('.rich-place-card').textContent,/몽벨/);assert.match(document.querySelector('.itinerary-membership').textContent,/2일차/);
+const source=key=>[...document.querySelectorAll('.places-segments button')].find(b=>b.textContent.startsWith(key));
+await act(async()=>source('추천').click());assert.equal(document.querySelectorAll('.rich-place-card').length,1);assert.match(document.querySelector('.rich-place-card').textContent,/몽벨/);
+await act(async()=>source('위시').click());assert.equal(document.querySelectorAll('.rich-place-card').length,1);
+await act(async()=>membership('미포함').click());assert.equal(document.querySelectorAll('.rich-place-card').length,26);assert.ok(![...document.querySelectorAll('.rich-place-card h3')].some(x=>x.textContent==='몽벨'));
+await act(async()=>membership('전체').click());assert.equal(document.querySelectorAll('.rich-place-card').length,27);
+await act(async()=>membership('일정 포함').click());await act(async()=>btn('먹거리').click());assert.equal(document.querySelectorAll('.rich-place-card').length,0);
+await act(async()=>[...document.querySelectorAll('.filter-tabs button')].find(b=>b.textContent==='전체').click());assert.equal(document.querySelectorAll('.rich-place-card').length,1);
+await act(async()=>document.querySelector('.favorites-filter').click());assert.equal(document.querySelectorAll('.rich-place-card').length,0);await act(async()=>document.querySelector('.favorites-filter').click());
+assert.equal(writes,0);assert.deepEqual(original.trip.entries.find(e=>e.id==='wish-15').day,null);await act(async()=>root.unmount());
+console.log('PASS DOM: badges survive date assignment; included/excluded/all combine with source/category/hearts; wishlist stays intact; no writes.');

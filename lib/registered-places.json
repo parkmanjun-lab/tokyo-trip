@@ -1,0 +1,442 @@
+[
+  {
+    "id": "moheji-ueno",
+    "title": "츠키시마 몬자 모헤지 우에노점",
+    "originalName": "月島もんじゃ もへじ 上野",
+    "category": "먹거리 · 몬자야키",
+    "area": "우에노 · 아메요코",
+    "why": "우에노역 가까운 아메요코의 몬자야키 전문점. 묽은 반죽과 재료를 철판에 익혀 작은 주걱으로 먹는 도쿄식 요리로, 명란·떡·치즈 몬자와 제철 해산물 요리가 메뉴 후보예요. 근처의 우에노 분점과는 다른 매장이므로 주소 6-11-2를 확인하세요.",
+    "address": "6 Chome-11-2 Ueno, Taito City, Tokyo 110-0005 일본",
+    "sourceURL": "https://kissuigroup.com/shop/#moheji_ueno",
+    "needsConfirmation": "평일 개점 10:45/11:00 안내가 상충해 11시 전 방문은 확인이 필요해요. 미래 여행일 운영·예약 잔여석은 미확인입니다.",
+    "wishKeys": [
+      "츠키시마 몬자 모헤지 우에노점 月島もんじゃ もへじ 上野",
+      "츠키시마 몬자 모헤지 우에노점",
+      "月島もんじゃ もへじ 上野",
+      "모헤지 우에노",
+      "moheji ueno"
+    ],
+    "registeredOnly": true,
+    "bookingSummary": "예약 가능 안내 · 우에노점 직통 +81 3-6803-0083",
+    "visitTip": "점주 관리 타베로그는 예약 가능으로 안내. 예약·공석 문의는 우에노점 전화 +81 3-6803-0083 사용\n예약 시 우에노점(上野, 6-11-2)인지 확인. 우에노 분점(上野分店, 6-10-10)은 별도 점포\n예약 가능 시간대·최소 인원·취소 조건은 공식 자료에서 확정하지 못했으므로 문의 시 함께 확인",
+    "menuExample": "매장 소개에서 추천하는 명란·떡·치즈 몬자(明太もちチーズ)와 제철 해산물 요리. 현재 메뉴와 치즈 포함·추가 여부는 주문할 때 확인"
+  },
+  {
+    "id": "donki-ginza-main",
+    "title": "돈키호테 긴자본관",
+    "originalName": "ドン・キホーテ 銀座本館",
+    "category": "쇼핑 · 입욕제·생활용품",
+    "area": "긴자8초메",
+    "why": "긴자 나인3호관의24시간 돈키호테. 입욕제와 생활용품을 비교할 수 있는 구매 후보이며, 원하는 상품의 지점 재고는 확인되지 않았어요.",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "sourceURL": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "needsConfirmation": "입욕제 브랜드·향·규격별 재고와 여행일 임시 영업 변경은 확인 필요",
+    "wishKeys": [
+      "돈키호테 긴자본관",
+      "돈키 긴자본관",
+      "ドン・キホーテ 銀座本館",
+      "Don Quijote Ginza"
+    ],
+    "registeredOnly": true,
+    "visitTip": "공식 지점은24시간·정기휴무 없음으로 안내. 입욕제의 긴자본관 판매·재고는 미확인. 신용카드·한국 간편결제 표기가 있으나 일부 전자머니는 특정 계산대만 이용 가능."
+  },
+  {
+    "id": "lush-yurakucho-marui",
+    "title": "러쉬 유라쿠초 마루이점",
+    "originalName": "LUSH 有楽町マルイ店",
+    "category": "쇼핑 · 화장품",
+    "area": "유라쿠초 · 마루이1층",
+    "why": "유라쿠초 마루이1층 러쉬. 팩과 두피 트리트먼트를 비교할 수 있는 긴자·유라쿠초 쇼핑 동선 후보예요.",
+    "address": "東京都千代田区有楽町2-7-1 有楽町マルイ1F",
+    "sourceURL": "https://www.lush.com/jp/ja/shops/lush?id=JP206",
+    "needsConfirmation": "원하는 상품·용량 재고와 지점 카드 결제수단은 문의 필요",
+    "wishKeys": [
+      "러쉬 유라쿠초 마루이점",
+      "LUSH 有楽町マルイ店",
+      "LUSH Yurakucho Marui"
+    ],
+    "registeredOnly": true,
+    "visitTip": "공식 지점 연락처 +81 3-6738-0554. 월~일11:00~20:00 현재 안내이며 여행일 특별영업·재고는 미확인. 공식 FAQ는 카드 등 결제수단이 지점마다 다르므로 방문점에 문의하도록 안내."
+  },
+  {
+    "id": "ginza-mitsukoshi",
+    "title": "긴자 미츠코시 백화점",
+    "originalName": "銀座三越",
+    "category": "쇼핑 · 백화점",
+    "area": "긴자4초메",
+    "address": "東京都中央区銀座4-6-16",
+    "why": "긴자4초메 교차로의 백화점. 패션·화장품 매장과 지하2·3층 식품관의 디저트·델리를 함께 둘러보기 좋아요.",
+    "sourceURL": "https://www.mistore.jp/store/ginza/access.html",
+    "needsConfirmation": "여행일 특별 영업·휴점, 원하는 상품 재고와 11월 이후 점포별 면세 환급 절차·수수료 확인 필요",
+    "wishKeys": [
+      "미츠코시 백화점",
+      "긴자 미츠코시",
+      "긴자 미쓰코시",
+      "미쓰코시 백화점",
+      "銀座三越",
+      "Ginza Mitsukoshi"
+    ],
+    "registeredOnly": true,
+    "walking": {
+      "timeLabel": "약 7분",
+      "distanceLabel": null,
+      "status": "official",
+      "sourceURL": "https://www.hotelmonterey.co.jp/ginza/access/",
+      "note": "호텔 공식 안내의 긴자 미츠코시 건물까지 도보 시간. 실제 도보 거리(m)와 내부 층 이동은 미확인"
+    },
+    "hoursAsPublished": "통상 10:00~20:00 · 식당·카페는 매장별로 다름",
+    "visitTip": "일반 쇼핑은 예약 없이 방문 가능. 입점 식당 예약은 식당별로 확인\n지하2·3층 식품관에서 디저트·델리를 함께 둘러볼 수 있어요\n2026년11월1일부터 소비세 면세는 세금 포함 결제 후 출국 확인을 거쳐 환급하는 제도로 바뀌어요. 긴자점의 새 절차와 수수료는 방문 전 공식 안내 확인\n8층 Japan Duty Free GINZA는 2026년9월23일 영업 종료. 백화점 소비세 면세 서비스와 별개예요.",
+    "tripDateNotes": "2026-11-29~12-01 특별 영업·휴점 공지는 미확인. 통상 시간은 해당 날짜 영업 보장이 아니에요."
+  },
+  {
+    "id": "shabuki-ginza",
+    "title": "긴자 샤부키",
+    "originalName": "銀座しゃぶ輝 本店",
+    "category": "먹거리",
+    "area": "긴자",
+    "why": "긴자5초메의 와규 샤부샤부·스키야키",
+    "address": "東京都中央区銀座5-9-5 チアーズ銀座4F",
+    "sourceURL": "https://ginza-shabuki.hapyres.com/",
+    "needsConfirmation": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "wishKeys": [
+      "긴자 샤부키",
+      "銀座しゃぶ輝 本店"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.6 · 리뷰 2,775개 (2026.10.15 확인, 변동 가능)\n공식 페이지에서 웹예약 또는 전화 03-6263-8829\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "bookingSummary": "공식 페이지에서 웹예약 또는 전화 03-6263-8829"
+  },
+  {
+    "id": "moheji-shibuya-scramble-square",
+    "title": "모헤지 시부야 스크램블 스퀘어",
+    "originalName": "もへじ 渋谷スクランブルスクエア",
+    "category": "먹거리",
+    "area": "시부야",
+    "why": "시부야 스크램블 스퀘어12층 몬자야키 · 예약 불가·현장 대기",
+    "address": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア12F",
+    "sourceURL": "https://www.shibuya-scramble-square.com/shops_restaurants/shop_77.html",
+    "needsConfirmation": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "wishKeys": [
+      "모헤지 시부야 스크램블 스퀘어",
+      "もへじ 渋谷スクランブルスクエア"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.8 · 리뷰 17,990개 (2026.10.15 확인, 변동 가능)\n시설 공식 매장 안내: 예약 불가\n현장 대기 필요; 제3자 예약 사이트 표시보다 시설 공식 안내 우선\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "bookingSummary": "시설 공식 매장 안내: 예약 불가"
+  },
+  {
+    "id": "kanda-yabusoba",
+    "title": "간다 야부소바",
+    "originalName": "かんだやぶそば",
+    "category": "먹거리",
+    "area": "간다",
+    "why": "간다 아와지초의 전통 소바집",
+    "address": "東京都千代田区神田淡路町2-10",
+    "sourceURL": "https://www.yabusoba.net/shop/",
+    "needsConfirmation": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "wishKeys": [
+      "간다 야부소바",
+      "かんだやぶそば"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.1 · 리뷰 3,711개 (2026.10.15 확인, 변동 가능)\n전화 03-3251-0287\n공식 확인 범위: 2층 개인실은 2인부터 2일 전까지 예약\n개인실 좌석만 예약 시 방당 5,500엔. 일반 1층 좌석 예약 조건은 문의\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "bookingSummary": "전화 03-3251-0287"
+  },
+  {
+    "id": "sato-yosuke-ginza",
+    "title": "긴자 사토 요스케",
+    "originalName": "銀座 佐藤養助",
+    "category": "먹거리",
+    "area": "긴자",
+    "why": "긴자6초메의 이나니와 우동 전문점",
+    "address": "東京都中央区銀座6-4-17 出井本館1F",
+    "sourceURL": "https://www.sato-yoske.co.jp/shop/ginza/",
+    "needsConfirmation": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "wishKeys": [
+      "긴자 사토 요스케",
+      "銀座 佐藤養助"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.2 · 리뷰 2,558개 (2026.10.15 확인, 변동 가능)\n평일 저녁 코스만 전화 예약 03-6215-6211\n점심 및 토·일·공휴일 예약 불가\n좌석만 예약 불가\n저녁 17시 이후 서비스료 10%\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "bookingSummary": "평일 저녁 코스만 전화 예약 03-6215-6211"
+  },
+  {
+    "id": "shinanoya-ginza",
+    "title": "시나노야 긴자",
+    "originalName": "信濃屋 銀座店",
+    "category": "쇼핑 · 주류",
+    "area": "긴자",
+    "why": "긴자8초메 주류점 · 일요일19시 마감",
+    "address": "東京都中央区銀座8-6-22 銀座ピアースビル1F",
+    "sourceURL": "https://shinanoya.co.jp/shop/ginza.html",
+    "needsConfirmation": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "wishKeys": [
+      "시나노야 긴자",
+      "信濃屋 銀座店"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.1 · 리뷰 232개 (2026.10.15 확인, 변동 가능)\n주류 소매점 방문; 재고·보관은 전화 03-3571-3315 문의\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "bookingSummary": "주류 소매점 방문; 재고·보관은 전화 03-3571-3315 문의"
+  },
+  {
+    "id": "bouya-nihonbashi",
+    "title": "와규 야키니쿠 보우야 니혼바시",
+    "originalName": "和牛一頭焼肉 房家 日本橋店",
+    "category": "먹거리",
+    "area": "니혼바시",
+    "why": "COREDO 무로마치1의 와규 야키니쿠",
+    "address": "東京都中央区日本橋室町2-2-1 COREDO室町1 3F",
+    "sourceURL": "https://www.bou-ya.com/information/102.html",
+    "needsConfirmation": "운영사 공식 페이지는 일–목 저녁 22:00, 금·토 23:00 및 주말 점심 11:30–15:30으로 달리 표시. 날짜별 확정 영업으로 처리하지 말고 재확인 표시.\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "wishKeys": [
+      "와규 야키니쿠 보우야 니혼바시",
+      "和牛一頭焼肉 房家 日本橋店"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.6 · 리뷰 3,472개 (2026.10.15 확인, 변동 가능)\n공식 웹예약 또는 AI 예약전화 050-3101-9842\n예약 15분 경과 후 연락 없으면 취소 가능\n혼잡 시 2시간제\n운영사 공식 페이지는 일–목 저녁 22:00, 금·토 23:00 및 주말 점심 11:30–15:30으로 달리 표시. 날짜별 확정 영업으로 처리하지 말고 재확인 표시.\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "bookingSummary": "공식 웹예약 또는 AI 예약전화 050-3101-9842"
+  },
+  {
+    "id": "hirokiya-shibuya",
+    "title": "히로키야 시부야",
+    "originalName": "#ヒロキヤ渋谷",
+    "category": "먹거리",
+    "area": "시부야",
+    "why": "시부야 우다가와초 야키니쿠 · 점심 현금 안내 주의",
+    "address": "東京都渋谷区宇田川町34-6 M&Iビル1F",
+    "sourceURL": "https://hirokiya-group.com/shibuya/ja",
+    "needsConfirmation": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "wishKeys": [
+      "히로키야 시부야",
+      "#ヒロキヤ渋谷"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.8 · 리뷰 1,398개 (2026.10.15 확인, 변동 가능)\n공식 페이지 웹예약 또는 전화 03-6416-1529\n선택 불가 인원·날짜는 매장 문의\n예약 플랫폼 안내: 점심 한정 30식, 소진 시 종료\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "bookingSummary": "공식 페이지 웹예약 또는 전화 03-6416-1529"
+  },
+  {
+    "id": "panga-ueno",
+    "title": "A5 와규 야키니쿠 우에노 판가",
+    "originalName": "和牛焼肉ぱんが 上野店",
+    "category": "먹거리",
+    "area": "우에노·오카치마치",
+    "why": "우에노·오카치마치의 할랄 와규 야키니쿠 · 층수 재확인",
+    "address": "東京都台東区上野3-27-3 ハトヤ3ビル2F",
+    "sourceURL": "https://www.wagyu-panga.jp/index.html",
+    "needsConfirmation": "공식 홈페이지는 월요일 저녁/화–일 점심 11:30–15:30로 불완전·상이하게 표기. 여행일 영업 확정 금지; 매장 확인 필요.\n공식 일본어와 업장 등록 식べ로그는 2F; 공식 영어는 4F로 충돌. 일본어·업장 안내 2F를 사용하되 방문 전 확인.\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "wishKeys": [
+      "A5 와규 야키니쿠 우에노 판가",
+      "和牛焼肉ぱんが 上野店"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.9 · 리뷰 2,669개 (2026.10.15 확인, 변동 가능)\n업장 등록 식べ로그 웹예약 또는 전화 03-5846-8529\n15분 이상 늦으면 취소 가능, 늦을 때 연락\n1인 좌석 이용은 1시간\n공식 홈페이지는 월요일 저녁/화–일 점심 11:30–15:30로 불완전·상이하게 표기. 여행일 영업 확정 금지; 매장 확인 필요.\n공식 일본어와 업장 등록 식べ로그는 2F; 공식 영어는 4F로 충돌. 일본어·업장 안내 2F를 사용하되 방문 전 확인.\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "bookingSummary": "업장 등록 식べ로그 웹예약 또는 전화 03-5846-8529"
+  },
+  {
+    "id": "unafuji-midtown-yaesu",
+    "title": "우나후지 도쿄 미드타운 야에스",
+    "originalName": "炭焼 うな富士 東京ミッドタウン八重洲店",
+    "category": "먹거리",
+    "area": "도쿄역·야에스",
+    "why": "도쿄 미드타운 야에스3층 숯불 장어",
+    "address": "東京都中央区八重洲2-2-1 東京ミッドタウン八重洲3F",
+    "sourceURL": "https://sumiyaki-unafuji.com/shops/yaesu/",
+    "needsConfirmation": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "wishKeys": [
+      "우나후지 도쿄 미드타운 야에스",
+      "炭焼 うな富士 東京ミッドタウン八重洲店"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.4 · 리뷰 781개 (2026.10.15 확인, 변동 가능)\n공식 웹예약 또는 전화 03-3274-4788\n시설 안내: 일반 예약 2인부터, 개인실 3인부터\n이용시간·개인실 요금은 공식 매장과 시설 페이지 차이가 있어 예약 선택 조건 확인\n공식 취소규정: 3일 전–전날 개인실료 50%, 당일 음식·개인실료 100%\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "bookingSummary": "공식 웹예약 또는 전화 03-3274-4788"
+  },
+  {
+    "id": "unafuji-yurakucho",
+    "title": "우나후지 유라쿠초",
+    "originalName": "炭焼 うな富士 有楽町店",
+    "category": "먹거리",
+    "area": "유라쿠초·히비야",
+    "why": "히비야 OKUROJI의 숯불 장어",
+    "address": "東京都千代田区内幸町1-7-1 日比谷OKUROJI H12/G26",
+    "sourceURL": "https://sumiyaki-unafuji.com/shops/ginza/",
+    "needsConfirmation": "현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "wishKeys": [
+      "우나후지 유라쿠초",
+      "炭焼 うな富士 有楽町店"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.4 · 리뷰 2,154개 (2026.10.15 확인, 변동 가능)\n공식 웹예약 또는 전화 03-6457-9688\n개인실 점심60분 1,000엔 / 저녁120분 2,000엔\n공식 취소규정: 3일 전–전날 개인실료 50%, 당일 음식·개인실료 100%\n웹예약 최소 인원은 선택 상품 확인\n현재 공지된 정규 영업 기준이며 여행일 임시휴무·영업 변경과 예약 잔여석은 방문 전 재확인 필요",
+    "bookingSummary": "공식 웹예약 또는 전화 03-6457-9688"
+  },
+  {
+    "id": "meatman-roppongi",
+    "title": "미트맨 롯폰기",
+    "originalName": "ミートマン 六本木店",
+    "category": "먹거리",
+    "area": "롯폰기",
+    "why": "고기 꼬치·야키토리 저녁 · Google 4.2 · 리뷰 886개 (2026.10.15 확인, 변동 가능)",
+    "address": "東京都港区六本木4-8-8 石橋ビル1F",
+    "sourceURL": "https://teyandei.com/?page_id=11",
+    "needsConfirmation": "여행일 영업·좌석 재확인. 18세 미만 입장 불가",
+    "wishKeys": [
+      "미트맨 롯폰기",
+      "ミートマン 六本木店"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.2 · 리뷰 886개 (2026.10.15 확인, 변동 가능)\nGoogle 이용자 제시 1인 ¥3,000–6,000; TableCheck 코스 ¥5,500 또는 ¥6,000 세금포함. 음료/추가 주문 별도 확인\n18세 미만은 보호자 동반이어도 입장 불가\n좌석만 예약은 2시간, 표시된 인원범위 2–7인\n예약 시 카드정보 필요\n연락 없이 예약시간 10분 경과 시 취소 가능\n실제 여행일 잔여좌석/취소비는 예약시 재확인",
+    "bookingSummary": "공식 웹예약"
+  },
+  {
+    "id": "ginza-marui",
+    "title": "긴자 스시 마루이",
+    "originalName": "銀座まる伊寿司 / 銀座寿司処まる伊総本店",
+    "category": "먹거리",
+    "area": "긴자",
+    "why": "미도리 대기 시 선택할 수 있는 긴자 스시 대안 · Google 4.3 · 리뷰 1,294개 (2026.10.15 확인, 변동 가능)",
+    "address": "東京都中央区銀座3-8-15 銀座中央ビル1F",
+    "sourceURL": "https://ginza-maruisushi.com/index.html",
+    "needsConfirmation": "여행일 영업·좌석 재확인. 일요일20시 마감·예약정책 확인",
+    "wishKeys": [
+      "긴자 스시 마루이",
+      "銀座まる伊寿司 / 銀座寿司処まる伊総本店"
+    ],
+    "registeredOnly": true,
+    "visitTip": "Google 4.3 · 리뷰 1,294개 (2026.10.15 확인, 변동 가능)\nGoogle 이용자 제시1인¥2,000–3,000. 점심중심 수치일 수 있어 저녁예산으로 확정하지 말 것\n온라인 예약조건 미확인. 예약가능확정 표시금지\n저녁메뉴가격/좌석문의는 공식전화 참고\n11월29일 일요일 저녁은 공식20:00마감(LO19:30) 기준",
+    "bookingSummary": "예약 정책은 매장 문의"
+  },
+  {
+    "id": "ginten-ginza-corridor",
+    "title": "긴텐 긴자 코리도점",
+    "originalName": "大衆蛇口酒場 ぎん天。銀座コリドー店",
+    "category": "먹거리 · 이자카야",
+    "area": "긴자 · 코리도",
+    "why": "미도리 근처에서 튀김·가벼운 안주를 곁들이는 이자카야",
+    "address": "東京都中央区銀座7-2-114 東京高速道路山下ビル1F",
+    "sourceURL": "https://ginten.dkdining.com/ginza/",
+    "needsConfirmation": "예약 전 · 별도 오토시 금액과 여행일 영업 확인",
+    "registeredOnly": true,
+    "visitTip": "공식 평균 예산 1인 약 2,500엔, 별도 오토시 금액 미표기. 코스 대신 가벼운 단품 2차로 계획. 분리된 흡연실 있음. Google 평점은 이번 확인에서 검증하지 않았습니다.",
+    "bookingSummary": "예약 가능 시간·좌석·조건은 공식 매장에 확인",
+    "wishKeys": [
+      "긴텐 긴자 코리도점",
+      "大衆蛇口酒場 ぎん天。銀座コリドー店"
+    ]
+  },
+  {
+    "id": "tokyo-tower-main-deck",
+    "title": "도쿄타워 메인데크 야경",
+    "originalName": "東京タワー メインデッキ",
+    "category": "구경",
+    "area": "시바공원 · 가미야초",
+    "why": "150m 메인데크 야경과 타워 외관 사진",
+    "address": "東京都港区芝公園4-2-8",
+    "sourceURL": "https://en.tokyotower.co.jp/fee/",
+    "needsConfirmation": "입장권 미구매 · 당일 혼잡·운영·조명 확인",
+    "registeredOnly": true,
+    "visitTip": "현재 메인데크 성인 1,500엔, 09:00–23:00(최종 입장 22:30). 전망대에 오르지 않으면 주변 공공보도에서 외관 산책으로 대체할 수 있어요. 야간 절 내부·닫힌 공원 입장은 전제하지 않습니다. 여행일 조명 색·행사 미확정.",
+    "priceNote": "성인 1,500엔 · 메인데크 기준, 티켓 미구매",
+    "wishKeys": [
+      "도쿄타워 메인데크 야경",
+      "東京タワー メインデッキ"
+    ]
+  },
+  {
+    "id": "porter-exchange-shibuya-parco",
+    "title": "PORTER EXCHANGE 시부야 PARCO",
+    "originalName": "PORTER EXCHANGE 渋谷PARCO",
+    "category": "쇼핑",
+    "area": "시부야 · PARCO 1F",
+    "why": "포터 TANKER·PX 가방을 비교하는 시부야 PARCO 1층 매장",
+    "address": "東京都渋谷区宇田川町15-1 渋谷PARCO1F",
+    "sourceURL": "https://shibuya.parco.jp/shop/detail/?cd=025704",
+    "needsConfirmation": "원하는 가방의 색상·모델·재고 미확인",
+    "registeredOnly": true,
+    "visitTip": "쇼핑목록의 요시다 포터 가방을 볼 수 있는 지점으로 배치. 특정 제품의 재고·입장 대기는 확인하지 않았어요. 시설 소매점 통상 11:00–21:00, 여행일 예외 재확인.",
+    "wishKeys": [
+      "PORTER EXCHANGE 시부야 PARCO",
+      "PORTER EXCHANGE 渋谷PARCO"
+    ]
+  },
+  {
+    "id": "ushigoro-bambina-ginza",
+    "title": "우시고로 반비나 긴자",
+    "originalName": "うしごろバンビーナ 銀座店",
+    "category": "먹거리 · 와규 야키니쿠",
+    "area": "긴자5초메",
+    "address": "東京都中央区銀座5-6-13 西五番街ビル3F",
+    "sourceURL": "https://ushigoro-bambina.com/shop-info/ginza/",
+    "why": "긴자 쇼핑 후 이동을 줄여 와규 야키니쿠를 먹는 새 추천",
+    "needsConfirmation": "예약 전 · 해당 날짜 빈자리 미확인",
+    "visitTip": "Google 평점 4.2 / 리뷰 466개(2026.10.15 직접 확인). 일요일 11:30–23:30. 확인된 특선 코스 8,800엔(세금 포함), 음료 별도. 개인실은 총액 10% 추가. 6,600엔 코스는 월–목 한정이므로 일요일에는 적용하지 않아요.",
+    "bookingSummary": "예약 가능 정책 확인 · 11/29 빈자리·선택 코스 조건 미확인",
+    "registeredOnly": true
+  },
+  {
+    "id": "old-imperial-bar",
+    "title": "올드 임페리얼 바",
+    "originalName": "オールドインペリアルバー",
+    "category": "먹거리 · 위스키 바",
+    "area": "히비야 · 제국호텔",
+    "address": "東京都千代田区内幸町1-1-1 帝国ホテル東京 本館中2階",
+    "sourceURL": "https://www.imperialhotel.co.jp/tokyo/restaurant/old-imperialbar",
+    "why": "긴자 쇼핑 뒤 한 잔 즐기는 제국호텔의 클래식 위스키 바",
+    "needsConfirmation": "21시 예약 불가 · 현장 방문, 만석이면 생략",
+    "visitTip": "Google 평점 4.6 / 리뷰 440개(2026.10.15 직접 확인). 11:30–24:00, L.O.23:30. 위스키 3,100엔부터 / 칵테일 3,000엔부터(세금·서비스료 포함). 커버차지 별도 여부는 공식 명시가 없어 입장 전 확인. 전석 금연, 20세 미만 불가, 반바지·샌들·실내복 제한. 재즈 공연을 전제한 장소는 아니에요.",
+    "bookingSummary": "예약은 11:30–16:00 입장만 · 이번 21시 방문은 현장 대기",
+    "registeredOnly": true
+  },
+  {
+    "id": "danton-tokyo",
+    "title": "DANTON TOKYO",
+    "originalName": "DANTON TOKYO",
+    "area": "하라주쿠 · 진구마에",
+    "address": "東京都渋谷区神宮前6-12-17 ダイヤモンドビル1F",
+    "category": "쇼핑",
+    "sourceURL": "https://danton.com/ja-jp/pages/shop",
+    "why": "하라주쿠·시부야 동선에 맞춰 선택한 방문 지점",
+    "needsConfirmation": "단톤 의류·사이즈별 재고는 미확인",
+    "visitTip": "현재 공식 영업 11:00–20:00. 여행일 임시 변경과 재고는 방문 전 확인.",
+    "registeredOnly": true
+  },
+  {
+    "id": "kaldi-shibuya-tokyu-foodshow",
+    "title": "KALDI 시부야 도큐푸드쇼",
+    "originalName": "カルディコーヒーファーム 渋谷 東急フードショー店",
+    "area": "시부야 · 마크시티",
+    "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティB1",
+    "category": "쇼핑",
+    "sourceURL": "https://www.tokyu-dept.co.jp/shibuya_foodshow/shop/kana_list.html?kana=%E3%82%AB",
+    "why": "하라주쿠·시부야 동선에 맞춰 선택한 방문 지점",
+    "needsConfirmation": "레몬에이드·시오콘부 재고는 미확인. 스크램블 스퀘어점이 아닌 마크시티 B1",
+    "visitTip": "현재 공식 영업 10:00–21:00. 여행일 임시 변경과 재고는 방문 전 확인.",
+    "registeredOnly": true
+  },
+  {
+    "id": "montbell-shibuya",
+    "title": "몽벨 시부야점",
+    "originalName": "モンベル 渋谷店",
+    "area": "시부야 · 우다가와초",
+    "address": "東京都渋谷区宇田川町11-5",
+    "category": "쇼핑",
+    "sourceURL": "https://store.montbell.jp/search/shopinfo/?shop_no=618851",
+    "why": "하라주쿠·시부야 동선에 맞춰 선택한 방문 지점",
+    "needsConfirmation": "원하는 상품·사이즈 재고 미확인. 기존 교바시점은 별도 후보로 유지",
+    "visitTip": "현재 공식 영업 10:30–21:00. 여행일 임시 변경과 재고는 방문 전 확인.",
+    "registeredOnly": true
+  },
+  {
+    "id": "ichiran-harajuku",
+    "title": "이치란 하라주쿠점",
+    "originalName": "一蘭 原宿店",
+    "category": "먹거리 · 라멘",
+    "area": "하라주쿠 · 메이지진구마에",
+    "address": "東京都渋谷区神宮前6-5-6 サンポウ綜合ビル2F",
+    "sourceURL": "https://ichiran.com/shop/tokyo/harajuku/",
+    "why": "하라주쿠 쇼핑을 시작하기 전 아침으로 들르는 동선 맞춤 지점",
+    "needsConfirmation": "현장 대기 · 여행일 영업·실제 대기시간 확인",
+    "hoursAsPublished": "09:00–22:00 · L.O.21:45",
+    "menuExample": "천연 돈코츠 라멘 현재 1,180엔",
+    "visitTip": "09:30 방문은 현장 대기. 메이지진구마에역 7번 출구에서 공식 도보 약 1분. 10:00–21:30 유료 우선안내 서비스는 좌석 예약·확보가 아니며 이번 09:30 방문에는 해당하지 않아요. 신청·결제하지 않았습니다.",
+    "registeredOnly": true
+  }
+]

@@ -1,0 +1,351 @@
+{
+  "plan-20261015-arrival-transfer": {
+    "place": "Narita International Airport Terminal 3 Japan",
+    "title": "입국 수속 후 긴자로 이동",
+    "day": "2026-11-29",
+    "time": "10:45",
+    "duration": 90,
+    "origin": "Narita Airport Terminal 3",
+    "destination": "Hotel Monterey Ginza, 2-10-2 Ginza Tokyo",
+    "mode": "transit",
+    "steps": [
+      "입국·수하물 수령 후 T3 도착 로비의 연두색 LCB 버스표 카운터에서 도쿄역행 TYO-NRT의 다음 이용 가능한 편을 확인하고 표를 구입하세요. 도착편 지연과 입국 대기 때문에 특정 버스 시각을 고정하지 않습니다.",
+      "카운터 반대편 북쪽2번 출구로 나가 빨간 안내선을 따라5번 승차장으로 이동. 출발 최소5분 전에 도착해 직원에게 표를 보여주세요.",
+      "도쿄역행 버스에 탑승해 도쿄역 니혼바시 출구에서 하차. 귀국 때 이용하는 야에스 남쪽 출발 승차장과 다른 곳입니다.",
+      "짐이 있으면 도쿄역에서 호텔까지 짧은 택시 이동을 추천합니다. 기사에게 ホテルモントレ銀座、中央区銀座2-10-2 를 보여주세요. 배차·교통에 따라 시간이 달라집니다.",
+      "추천은 버스+마지막 택시입니다. 길찾기 앱의 대중교통 결과는 당일 시간에 따라 다른 노선을 제시할 수 있습니다. 버스는 현재1인당 캐리어1개 정도가 원칙이고 정체로 지연될 수 있습니다. 무조건 Access Express 직통이라고 안내하지 않습니다."
+    ],
+    "sources": [
+      {
+        "label": "공식 이동 안내 1",
+        "url": "https://tyo-nrt.com/en/busstop/terminal3"
+      },
+      {
+        "label": "공식 이동 안내 2",
+        "url": "https://tyo-nrt.com/en/flow"
+      },
+      {
+        "label": "공식 이동 안내 3",
+        "url": "https://tyo-nrt.com/en/busstop/tokyo"
+      },
+      {
+        "label": "공식 이동 안내 4",
+        "url": "https://www.hotelmonterey.co.jp/ginza/access/"
+      }
+    ]
+  },
+  "plan-20261015-to-harajuku": {
+    "place": "東京都渋谷区神宮前6-5-6 サンポウ綜合ビル2F",
+    "title": "긴자 → 이치란 하라주쿠 이동",
+    "day": "2026-11-30",
+    "time": "08:45",
+    "duration": 45,
+    "origin": "Pain Maison Ginza, 2-14-5 Ginza Tokyo",
+    "destination": "ICHIRAN Harajuku, 6-5-6 Jingumae Tokyo",
+    "mode": "transit",
+    "steps": [
+      "팡메종에서 긴자역 A13 입구까지 도보 약 5분. 지하에서 주황색 G 긴자선 표지를 따라가세요.",
+      "긴자 G09에서 긴자선 시부야(渋谷) 방면 승차 → 오모테산도 G02 하차.",
+      "오모테산도역에서 초록색 C 지요다선으로 환승. 요요기우에하라(代々木上原) 방면 열차를 타고 한 정거장 뒤 메이지진구마에〈하라주쿠〉 C03 하차.",
+      "메이지진구마에〈하라주쿠〉 C03에서 7번 출구로 나와 이치란 하라주쿠점까지 공식 도보 약 1분. 주소는 진구마에6-5-6, サンポウ綜合ビル2F예요.",
+      "08:45 출발 → 09:30경 도착 목표. 전체 35–50분은 환승·대기 포함 계획 추정이며 도착 시각 보장이 아니에요. 식사 후 라포레의 기존 HUMAN MADE 하라주쿠까지 도보 약 5–10분 계획, 11시 개점."
+    ],
+    "sources": [
+      {
+        "label": "공식 이동 안내 1",
+        "url": "https://shiopan-maison.com/"
+      },
+      {
+        "label": "공식 이동 안내 2",
+        "url": "https://www.tokyometro.jp/station/ginza/index.html"
+      },
+      {
+        "label": "공식 이동 안내 3",
+        "url": "https://www.tokyometro.jp/station/omote-sando/index.html"
+      },
+      {
+        "label": "공식 이동 안내 4",
+        "url": "https://www.tokyometro.jp/station/meiji-jingumae/index.html"
+      },
+      {
+        "label": "이치란 하라주쿠 공식 교통 안내",
+        "url": "https://ichiran.com/shop/tokyo/harajuku/"
+      }
+    ]
+  },
+  "plan-20261015-to-roppongi": {
+    "place": "東京都港区六本木4-8-8 石橋ビル1F",
+    "title": "시부야 → 롯폰기",
+    "day": "2026-11-30",
+    "time": "17:35",
+    "duration": 45,
+    "origin": "mont-bell Shibuya, 11-5 Udagawacho Tokyo",
+    "destination": "MEAT MAN Roppongi, 4-8-8 Roppongi Tokyo",
+    "mode": "transit",
+    "steps": [
+      "몽벨에서 시부야역까지 도보 약 8분. 역 안에서는 주황색 G 긴자선 표지를 따라가세요. 승강장까지 추가 이동시간을 잡으세요.",
+      "시부야 G01에서 긴자선 아사쿠사(浅草) 방면 승차 → 아오야마잇초메 G04 하차.",
+      "도에이 오에도선 E24로 환승. 롯폰기·다이몬(六本木・大門) 방면으로 한 정거장 이동 → 롯폰기 E23 하차.",
+      "6번 출구(롯폰기4초메 방면)로 나와 롯폰기4-8-8 미트맨까지 짧게 도보 이동. 건물과 간판을 지도에서 확인하세요.",
+      "17:35 출발→18:30 식사 목표에는 약55분의 이동창이 있습니다. 실시간 운행과 지상 이동에 따라 달라집니다."
+    ],
+    "sources": [
+      {
+        "label": "공식 이동 안내 1",
+        "url": "https://store.montbell.jp/search/shopinfo/?shop_no=618851"
+      },
+      {
+        "label": "공식 이동 안내 2",
+        "url": "https://www.tokyometro.jp/station/aoyama-itchome/index.html"
+      },
+      {
+        "label": "공식 이동 안내 3",
+        "url": "https://www.kotsu.metro.tokyo.jp/subway/timetable/oedo/E24AD.html"
+      },
+      {
+        "label": "공식 이동 안내 4",
+        "url": "https://www.kotsu.metro.tokyo.jp/other/kanren/ad/media_guide_2026/pageindices/index43.html"
+      },
+      {
+        "label": "공식 이동 안내 5",
+        "url": "https://teyandei.com/?page_id=11"
+      }
+    ]
+  },
+  "plan-evening-20261015-roppongi-to-tower": {
+    "place": "Akabanebashi Station, Tokyo, Japan",
+    "title": "롯폰기 → 아카바네바시 사진 명당",
+    "day": "2026-11-30",
+    "time": "20:30",
+    "duration": 30,
+    "origin": "MEAT MAN Roppongi, 4-8-8 Roppongi Tokyo",
+    "destination": "Akabanebashi intersection, Tokyo",
+    "mode": "transit",
+    "steps": [
+      "가까운 롯폰기역 6번 입구로 들어가 도에이 오에도선 E23 표지를 따라가세요. 깊은 승강장까지 내려가는 시간을 잡으세요.",
+      "다이몬·료고쿠(大門・両国) 방면 승차 → 아자부주반 E22을 지나 아카바네바시 E21 하차. 환승 없이 두 정거장입니다.",
+      "아카바네바시구치(赤羽橋口) 출구 → 바로 주변 교차로 보도로 이동. 사진은 보도에서 찍고 차도로 내려가지 마세요.",
+      "20:30 출발 → 21:00 촬영 시작 목표. 깊은 승강장과 열차 대기를 포함한 20–30분 추정이며 지연되면 전망대 대신 외관만 보는 선택도 가능해요."
+    ],
+    "sources": [
+      {
+        "label": "공식 이동 안내 1",
+        "url": "https://www.kotsu.metro.tokyo.jp/subway/stations/roppongi.html"
+      },
+      {
+        "label": "공식 이동 안내 2",
+        "url": "https://www.kotsu.metro.tokyo.jp/subway/timetable/oedo/E23AD.html"
+      },
+      {
+        "label": "공식 이동 안내 3",
+        "url": "https://www.kotsu.metro.tokyo.jp/subway/stations/akabanebashi.html"
+      },
+      {
+        "label": "공식 이동 안내 4",
+        "url": "https://www.city.minato.tokyo.jp/documents/90450/akabanebashi.pdf"
+      }
+    ]
+  },
+  "plan-evening-20261015-tower-to-hotel": {
+    "place": "2-10-2 Ginza, Chuo-ku, Tokyo 104-0061",
+    "title": "가미야초 → 긴자·호텔",
+    "day": "2026-11-30",
+    "time": "22:10",
+    "duration": 45,
+    "origin": "Tokyo Tower, 4-2-8 Shibakoen Tokyo",
+    "destination": "Hotel Monterey Ginza, 2-10-2 Ginza Tokyo",
+    "mode": "transit",
+    "steps": [
+      "도쿄타워에서 가미야초역 1번 입구까지 도보 약 7분. 초행·야간에는 10–15분 여유를 두세요.",
+      "가미야초 H05에서 히비야선 기타센주(北千住) 방면 승차 → 히가시긴자 H10 하차. 환승은 없습니다.",
+      "22시 이후에는 A2 출구를 이용하세요. 출구 바로 옆 골목으로 우회전해 약400m 직진하면 호텔이 왼쪽에 있습니다(호텔 공식 안내 약5분).",
+      "22:10 타워 출발 → 22:55 호텔 도착 목표. A7/A8는 22시 이후 닫히므로 A2 출구 안내를 따르세요."
+    ],
+    "sources": [
+      {
+        "label": "공식 이동 안내 1",
+        "url": "https://www.tokyotower.co.jp/access/railroad/"
+      },
+      {
+        "label": "공식 이동 안내 2",
+        "url": "https://www.tokyometro.jp/station/kamiyacho/index.html"
+      },
+      {
+        "label": "공식 이동 안내 3",
+        "url": "https://www.tokyometro.jp/station/higashi-ginza/index.html"
+      },
+      {
+        "label": "공식 이동 안내 4",
+        "url": "https://www.hotelmonterey.co.jp/ginza/access/"
+      }
+    ]
+  },
+  "plan-20261015-return-nex": {
+    "place": "Tokyo Station Japan",
+    "title": "도쿄역 14:03 나리타 익스프레스",
+    "day": "2026-12-01",
+    "time": "14:03",
+    "duration": 51,
+    "origin": "Tokyo Station, Tokyo",
+    "destination": "Narita Airport Terminal 3",
+    "mode": "transit",
+    "steps": [
+      "호텔에서13:15 택시 출발, 도쿄역13:30 도착 목표. 기사에게 도쿄역에서 나리타 익스프레스를 탄다고 보여주세요.",
+      "역내 N’EX / 成田エクスプレス / 総武・横須賀線 표지를 따라 지하 승강장으로 이동. 최소20분을 확보하고 승차권+특급권을 준비하세요. 전광판으로 승강장을 재확인하세요.",
+      "현재표 기준 N’EX31 도쿄14:03 → 공항 제2·3터미널역14:54 하차. 종점 제1터미널까지 가지 마세요.",
+      "Terminal3 / 第3ターミナル 표지를 따라 개찰구와 연결통로를 지나 T3 2층 출발 로비로 이동. 하차부터 약21분을 잡아15:15경 T3 건물 도착 목표입니다.",
+      "면세 구매품을 모두 소지한 채 세관 확인을 먼저 완료한 뒤 수하물을 위탁하고 보안검색으로 이동하세요.",
+      "현재 시간표 예시이며12/1 확정편이 아닙니다. 여행 전 재확인. 공식13분은 역 개찰구→T3 안내소 도보이며 하차시간은 별도입니다."
+    ],
+    "sources": [
+      {
+        "label": "공식 이동 안내 1",
+        "url": "https://timetables.jreast.co.jp/en/2610/train/030/031181.html"
+      },
+      {
+        "label": "공식 이동 안내 2",
+        "url": "https://www.narita-airport.jp/en/access/shuttlebus/walking-through/"
+      },
+      {
+        "label": "공식 이동 안내 3",
+        "url": "https://www.jreast.co.jp/multi/nex/tickets/"
+      },
+      {
+        "label": "공식 이동 안내 4",
+        "url": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00028.html"
+      }
+    ]
+  },
+  "plan-20261015-return-depart": {
+    "place": "Tokyo Station Japan",
+    "title": "13:15 호텔 출발 → 도쿄역",
+    "day": "2026-12-01",
+    "time": "13:15",
+    "duration": 15,
+    "origin": "Hotel Monterey Ginza, 2-10-2 Ginza Tokyo",
+    "destination": "Tokyo Station, Tokyo",
+    "mode": "driving",
+    "steps": [
+      "13:00 호텔에서 짐 수령, 13:15 택시 출발 목표. 호텔에 배차를 확인하고 기사에게 도쿄역 나리타 익스프레스 승차라고 보여주세요.",
+      "13:30경 도쿄역 도착 목표이며 도로 상황에 따라 달라져요. 역 안에서 N’EX / 成田エクスプレス / 総武・横須賀線 표지를 따라 지하로 이동하고 전광판에서 승강장을 확인하세요.",
+      "역 안 이동 최소 20분과 승차 여유를 확보하세요. 14:03 열차는 전석 지정석으로 승차권과 특급권이 필요해요."
+    ],
+    "sources": [
+      {
+        "label": "N’EX 공식 안내",
+        "url": "https://www.jreast.co.jp/multi/nex/tickets/"
+      }
+    ]
+  },
+  "plan-20261015-return-terminal": {
+    "place": "Narita International Airport Terminal 3 Japan",
+    "title": "나리타T2·3역 → 제3터미널",
+    "day": "2026-12-01",
+    "time": "14:54",
+    "duration": 21,
+    "origin": "Narita Airport Terminal 2・3 Station Japan",
+    "destination": "Narita Airport Terminal 3 Japan",
+    "mode": "walking",
+    "steps": [
+      "14:54 공항 제2빌딩(T2·3)역 하차. 종점인 제1터미널까지 가지 마세요.",
+      "개찰구를 나온 뒤 Terminal 3 / 第3ターミナル 안내를 따라 연결 통로로 이동하세요. 공식 도보 약 13분은 역 개찰구부터 안내소 기준이며 하차·짐 이동을 더해 15:15경 T3 출발 로비 도착으로 계획했어요.",
+      "면세품을 모두 가지고 반출 확인·필요 검사를 먼저 마친 뒤 위탁수하물과 보안검색을 진행하세요."
+    ],
+    "sources": [
+      {
+        "label": "공항 공식 도보 안내",
+        "url": "https://www.narita-airport.jp/en/access/shuttlebus/walking-through/"
+      }
+    ]
+  },
+  "plan-evening-20261015-meiji-to-humanmade": {
+    "place": "DANTON TOKYO, 6-12-17 Jingumae Tokyo",
+    "title": "HUMAN MADE → DANTON TOKYO",
+    "day": "2026-11-30",
+    "time": "11:45",
+    "duration": 10,
+    "origin": "HUMAN MADE HARAJUKU, 1-11-6 Jingumae Tokyo",
+    "destination": "DANTON TOKYO, 6-12-17 Jingumae Tokyo",
+    "mode": "walking",
+    "steps": [
+      "HUMAN MADE 하라주쿠에서 DANTON TOKYO까지 남쪽으로 도보 약 10분 계획. 지도에서 보행 경로를 확인하세요.",
+      "도보 경로는 당일 지도 안내와 보행 가능 구간을 확인하세요. 예상 소요시간은 신호·혼잡·층 이동에 따라 달라져요."
+    ],
+    "sources": []
+  },
+  "plan-20261015-to-shibuya": {
+    "place": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア12F",
+    "title": "단톤 → 캣스트리트 → 모헤지",
+    "day": "2026-11-30",
+    "time": "12:35",
+    "duration": 35,
+    "origin": "DANTON TOKYO, 6-12-17 Jingumae Tokyo",
+    "destination": "Moheji Shibuya Scramble Square, 2-24-12 Shibuya Tokyo",
+    "mode": "walking",
+    "steps": [
+      "캣스트리트를 따라 남쪽 시부야 방향으로 걷고 스크램블 스퀘어 12층 모헤지로 이동. 도보·건물 진입·엘리베이터 이동을 합쳐 약 35분 계획. 길에 보이는 매장은 선택 구경이며 오래 머물면 식사 시작을 조정하세요.",
+      "도보 경로는 당일 지도 안내와 보행 가능 구간을 확인하세요. 예상 소요시간은 신호·혼잡·층 이동에 따라 달라져요."
+    ],
+    "sources": []
+  },
+  "plan-20261015-shibuya-flex": {
+    "place": "東京都渋谷区道玄坂1-12-1 渋谷マークシティB1",
+    "title": "모헤지 → KALDI 도큐푸드쇼",
+    "day": "2026-11-30",
+    "time": "14:40",
+    "duration": 15,
+    "origin": "Moheji Shibuya Scramble Square, 2-24-12 Shibuya Tokyo",
+    "destination": "KALDI Shibuya Tokyu Foodshow, 1-12-1 Dogenzaka Tokyo",
+    "mode": "walking",
+    "steps": [
+      "스크램블 스퀘어 12층에서 내려와 시부야 마크시티 지하1층 도큐푸드쇼의 KALDI로 이동. 층 이동 포함 약 15분 계획.",
+      "도보 경로는 당일 지도 안내와 보행 가능 구간을 확인하세요. 예상 소요시간은 신호·혼잡·층 이동에 따라 달라져요."
+    ],
+    "sources": []
+  },
+  "plan-evening-20261015-parco-to-scramble": {
+    "place": "東京都渋谷区宇田川町15-1 渋谷PARCO1F",
+    "title": "KALDI → 시부야 PARCO",
+    "day": "2026-11-30",
+    "time": "15:30",
+    "duration": 20,
+    "origin": "KALDI Shibuya Tokyu Foodshow, 1-12-1 Dogenzaka Tokyo",
+    "destination": "Shibuya PARCO, 15-1 Udagawacho Tokyo",
+    "mode": "walking",
+    "steps": [
+      "마크시티에서 북쪽 PARCO로 도보 약 20분 계획. PORTER EXCHANGE는 PARCO 1층이에요.",
+      "도보 경로는 당일 지도 안내와 보행 가능 구간을 확인하세요. 예상 소요시간은 신호·혼잡·층 이동에 따라 달라져요."
+    ],
+    "sources": []
+  },
+  "plan-evening-20261015-ginten-to-hotel": {
+    "place": "2-10-2 Ginza, Chuo-ku, Tokyo 104-0061",
+    "title": "올드 임페리얼 바 → 호텔 도보",
+    "day": "2026-11-29",
+    "time": "22:00",
+    "duration": 25,
+    "origin": "Old Imperial Bar, 1-1-1 Uchisaiwaicho Tokyo",
+    "destination": "Hotel Monterey Ginza, 2-10-2 Ginza Tokyo",
+    "mode": "walking",
+    "steps": [
+      "올드 임페리얼 바에서 호텔 몬토레 긴자까지 공공보도로 약 20–25분 계획. 22:25 호텔 도착 목표. 비가 오거나 피곤하면 현장에서 택시를 선택하세요.",
+      "도보 경로는 당일 지도 안내와 보행 가능 구간을 확인하세요. 예상 소요시간은 신호·혼잡·층 이동에 따라 달라져요."
+    ],
+    "sources": []
+  },
+  "plan-evening-20261015-tower-exterior": {
+    "place": "35.655943,139.745107",
+    "title": "아카바네바시 교차로 사진 포인트",
+    "day": "2026-11-30",
+    "time": "21:00",
+    "duration": 25,
+    "origin": "35.655943,139.745107",
+    "destination": "Tokyo Tower, 4-2-8 Shibakoen Tokyo",
+    "mode": "walking",
+    "steps": [
+      "21:00–21:15 교차로의 시바공원 4-6 쪽 정류장 옆 공공보도에서 타워를 배경으로 촬영. 지도 버튼은 전망대가 아닌 촬영 지점 좌표예요. 정류장 옆 공공보도에서 도쿄타워 방향으로 촬영해요. 승하차 공간·점자블록·횡단보도를 비우고 차도에 나가지 않기. 당일 통제를 따라주세요. 이후 21:15–21:25 타워까지 도보 약 10분. 11/30 조명 색·특별 행사는 미확정이며, 주차장 계단은 촬영 장소로 넣지 않았어요. 공식 촬영 포인트 소개: https://ticket.tokyotower.co.jp/",
+      "도보 경로는 당일 지도 안내와 보행 가능 구간을 확인하세요. 예상 소요시간은 신호·혼잡·층 이동에 따라 달라져요."
+    ],
+    "sources": []
+  }
+}

@@ -1,0 +1,5 @@
+import assert from 'node:assert/strict';import {readFileSync} from 'node:fs';
+const a=JSON.parse(readFileSync('lib/recommendations.json','utf8')).recommendations;
+assert.equal(new Set(a.map(r=>r.id)).size,a.length);
+for(const r of a){assert.ok(r.title&&r.address&&r.originalName);assert.equal(new URL(r.sourceURL).protocol,'https:');if(r.walking?.status==='official')assert.ok(r.walking.sourceURL);if(r.walking?.status==='estimate')assert.ok(r.walking.note);}
+assert.ok(a.some(r=>r.id==='stussy-dsm-ginza'));assert.ok(a.some(r=>r.id==='supreme-dsm-ginza'));assert.ok(a.some(r=>r.id==='standardproducts-ginza'));assert.ok(a.some(r=>r.id==='ichiran-shimbashi'));assert.ok(!a.some(r=>r.id==='ichiran-ginza'));assert.equal(a.find(r=>r.id==='highfive-ginza').preferredDay,'2026-11-30');assert.equal(a.find(r=>r.id==='arcteryx-tokyo-ginza').preferredDay,'2026-11-29');console.log(`PASS ${a.length} catalog records with verified venue/address source fields, unique IDs, official-estimate attribution, retained closures and proper preferred dates`);

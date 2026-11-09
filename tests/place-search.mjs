@@ -1,0 +1,16 @@
+import assert from 'node:assert/strict';
+import {searchPlaces,searchSuggestions,selectPlace,changePlaceQuery} from '/tmp/tokyo-typeahead-tests/place-search.mjs';
+const entry={id:'draft',title:'원래 이름',place:'',area:'',day:'2026-11-30',time:'12:30',duration:75,category:'쇼핑',note:'수정 중인 메모'};
+for(const q of ['몽','몽벨','montbell','MONT-BELL','モンベル'])assert.equal(searchPlaces(q)[0].id,'montbell-kyobashi',q);
+assert.equal(searchPlaces('아크네')[0].id,'acne-ginza-mitsukoshi');assert.ok(searchPlaces('아미').every(p=>p.id.startsWith('ami-')));
+assert.ok(searchPlaces('ＭＵＪＩ').some(p=>p.id==='muji-ginza'));assert.ok(searchPlaces('ginza muji').some(p=>p.id==='muji-ginza'));
+assert.equal(searchPlaces('').length,0);assert.equal(searchPlaces('zzznomatch').length,0);assert.ok(searchPlaces('銀座').length<=8);
+const candidate=searchSuggestions('몽',[])[0];assert.ok(searchPlaces(candidate.address).some(p=>p.id===candidate.catalogId));
+const chosen=selectPlace(entry,candidate);assert.equal(chosen.catalogId,'montbell-kyobashi');for(const k of ['id','day','time','duration','category','note'])assert.equal(chosen[k],entry[k]);
+assert.equal(changePlaceQuery(chosen,'새로운 주소').catalogId,undefined);assert.equal(changePlaceQuery(chosen,'').catalogId,undefined);assert.equal(changePlaceQuery(chosen,chosen.place).catalogId,chosen.catalogId);assert.equal(chosen.catalogId,'montbell-kyobashi');
+const custom={...entry,id:'new-place',title:'내가 저장한 카페',place:'내가 쓴 주소'};
+const saved=searchSuggestions('저장한',[custom])[0];assert.equal(saved.source,'saved');assert.equal(saved.catalogId,undefined);assert.equal(selectPlace(chosen,saved).catalogId,undefined);assert.equal(selectPlace(chosen,saved).note,chosen.note);
+const duplicate={...chosen,id:'saved-montbell'};assert.equal(searchSuggestions('몽',[duplicate]).filter(x=>x.catalogId==='montbell-kyobashi').length,1);
+console.log('PASS local typeahead: Korean prefix/aliases, roman/case/full-width/Japanese address, saved custom places, dedup, maximum results, selection preserves unrelated fields, query changes clear stale identity');
+const {readFileSync}=await import('node:fs');const live=JSON.parse(readFileSync('/tmp/tokyo-typeahead-live.json','utf8')).trip.entries;const moheji=searchSuggestions('모헤지',live);assert.equal(moheji.length,1);assert.equal(moheji[0].catalogId,'moheji-ueno');const shio=searchSuggestions('시오콘부',live);assert.equal(shio[0].source,'saved');assert.equal(shio[0].address,'');assert.equal(shio[0].catalogId,undefined);
+console.log('PASS current 25-record snapshot: Moheji resolves to verified Ueno branch once; shiokonbu remains addressless and unverified; no record mutation');

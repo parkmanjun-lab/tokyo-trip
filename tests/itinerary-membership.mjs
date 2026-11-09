@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import {itineraryDays,matchesMembership,membershipLabel,savedPlaces} from '../.test-build/itinerary-membership.mjs';
+const base={id:'a',title:'몽벨',place:'',day:null,time:'',duration:0,area:'',note:'내 메모',category:'쇼핑'};
+const moved={...base,day:'2026-11-30',catalogId:'montbell-kyobashi'};
+assert.deepEqual(itineraryDays([moved],{entry:base}),['2026-11-30']);
+assert.deepEqual(itineraryDays([moved],{catalogId:'montbell-kyobashi'}),['2026-11-30']);
+assert.deepEqual(itineraryDays([{...moved,place:'다른 지점'}],{catalogId:'montbell-kyobashi'}),[]);
+assert.deepEqual(itineraryDays([{...moved,title:'내 장소',place:'123',catalogId:undefined}],{entry:base}),['2026-11-30']);
+assert.deepEqual(itineraryDays([moved,{...moved,id:'b',day:'2026-11-29'}, {...moved,id:'c'}],{catalogId:'montbell-kyobashi'}),['2026-11-29','2026-11-30']);
+assert.equal(membershipLabel(['2026-11-29','2026-11-30']),'일정 포함 · 1일차·2일차');
+assert.equal(membershipLabel([]),'일정 미포함');
+assert.ok(matchesMembership([],'excluded'));assert.ok(!matchesMembership([],'included'));assert.ok(matchesMembership(['2026-11-29'],'included'));assert.ok(matchesMembership([],'all'));
+assert.deepEqual(itineraryDays([{...base,title:'돈키호테/무지 입욕제',id:'product',day:null},moved],{entry:{...base,id:'product',title:'돈키호테/무지 입욕제'}}),[]);
+assert.deepEqual(savedPlaces([base,moved,{...moved,id:'transport',category:'이동'}]),[base,moved]);
+assert.deepEqual(itineraryDays([{...moved,id:'another'}],{entry:base}),[]);
+assert.deepEqual(itineraryDays([{...base,day:'2026-11-30'}],{catalogId:'montbell-kyobashi'}),[]);
+assert.equal(base.note,'내 메모');assert.equal(base.day,null);
+console.log('PASS membership: exact identity, branch isolation, saved/date moves, deduped chronological multi-day badges, independent filters, no implied product-candidate inclusion, no data mutation.');

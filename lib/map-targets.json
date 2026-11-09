@@ -1,0 +1,1057 @@
+{
+  "seveneleven-ginza1chome-chuo": {
+    "id": "seveneleven-ginza1chome-chuo",
+    "status": "place",
+    "label": "세븐일레븐 긴자1초메 주오점",
+    "query": "セブン-イレブン 銀座１丁目中央店, 東京都中央区銀座1-10-6",
+    "address": "東京都中央区銀座1-10-6",
+    "sourceURL": "https://www.sej.co.jp/products/andst_shoplist.html",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6735725,
+      "lng": 139.7689519
+    },
+    "url": "https://www.google.com/maps/place/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90+%EA%B8%B4%EC%9E%901%EC%B5%B8%EB%A9%94%EC%B8%84%EC%98%A4%EC%A0%90/@35.6735725,139.7689519,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be3de777149:0x1a4292d5a9202ee9!8m2!3d35.6735725!4d139.7689519!16s%2Fg%2F11csnt5dks"
+  },
+  "muji-ginza": {
+    "id": "muji-ginza",
+    "status": "place",
+    "label": "무인양품 긴자",
+    "query": "無印良品 銀座, 東京都中央区銀座3-3-5",
+    "address": "東京都中央区銀座3-3-5",
+    "sourceURL": "https://www.muji.com/jp/ja/shop/detail/046604",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.673214,
+      "lng": 139.7653677
+    },
+    "placeId": "ChIJfc-uOKqLGGAR-bVyIUWjtQo"
+  },
+  "celine-mitsukoshi": {
+    "id": "celine-mitsukoshi",
+    "status": "place",
+    "label": "셀린느 긴자 미쓰코시",
+    "query": "CELINE TOKYO GINZA MITSUKOSHI LEATHER GOODS, 東京都中央区銀座4-6-16 銀座三越1F",
+    "address": "東京都中央区銀座4-6-16 銀座三越1F",
+    "sourceURL": "https://www.celine.com/ja-jp/stores",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6713081,
+      "lng": 139.7658661
+    },
+    "url": "https://www.google.com/maps/place/CELINE+TOKYO+GINZA+MITSUKOSHI+LEATHER+GOODS/@35.6713081,139.7658661,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bc00b145fc7:0xc81cb8864bb63684!8m2!3d35.6713081!4d139.7658661!16s%2Fg%2F11flbfypn0"
+  },
+  "ami-mitsukoshi": {
+    "id": "ami-mitsukoshi",
+    "status": "place",
+    "label": "AMI 긴자 미쓰코시",
+    "query": "AMI PARIS 銀座三越, 東京都中央区銀座4-6-16 銀座三越本館4F",
+    "address": "東京都中央区銀座4-6-16 銀座三越本館4F",
+    "sourceURL": "https://www.mistore.jp/store/ginza/shops/luxury/mode/shopnews_list/shopnews056.html",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6714375,
+      "lng": 139.7657425
+    },
+    "url": "https://www.google.com/maps/place/AMI+Paris+-+Alexandre+Mattiussi/@35.6714375,139.7657425,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b8a91266965:0x670c1abe3adee7fc!8m2!3d35.6714375!4d139.7657425!16s%2Fg%2F11tjqvf5xn"
+  },
+  "bincho-ginza": {
+    "id": "bincho-ginza",
+    "status": "place",
+    "label": "히츠마부시 빈초 마로니에 게이트 긴자점",
+    "query": "ひつまぶし 名古屋 備長 マロニエゲート銀座店, 東京都中央区銀座2-2-14 マロニエゲート銀座1 12F",
+    "address": "東京都中央区銀座2-2-14 マロニエゲート銀座1 12F",
+    "sourceURL": "https://hitsumabushi.co.jp/GzQfgPd_/Marronnier_Gate_Ginza",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6743653,
+      "lng": 139.7653544
+    },
+    "url": "https://www.google.com/maps/place/%ED%9E%88%EC%B8%A0%EB%A7%88%EB%B6%80%EC%8B%9C+%EB%82%98%EA%B3%A0%EC%95%BC+%EB%B9%88%EC%B5%B8/@35.6743653,139.7653544,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be4ff7a4fc5:0x9e8e3b2862945879!8m2!3d35.6743653!4d139.7653544!16s%2Fg%2F1tcv1f89"
+  },
+  "gu-marronnier-ginza": {
+    "id": "gu-marronnier-ginza",
+    "status": "place",
+    "label": "GU 마로니에 게이트 긴자점",
+    "query": "ジーユー マロニエゲート銀座店, 東京都中央区銀座3-2-1 マロニエゲート銀座2 5F",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 5F",
+    "sourceURL": "https://www.marronniergate.com/shop/index/318",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6737637,
+      "lng": 139.7651281
+    },
+    "url": "https://www.google.com/maps/place/GU+Marronier+Gate+Ginza+Store/@35.6737637,139.7651281,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bf92b0b7f39:0x7ee5e3908b53ac91!8m2!3d35.6737637!4d139.7651281!16s%2Fg%2F11ths4tl3n"
+  },
+  "montbell-kyobashi": {
+    "id": "montbell-kyobashi",
+    "status": "place",
+    "label": "몽벨 도쿄 교바시점",
+    "query": "モンベル 東京京橋店, 東京都中央区京橋3-1-1 東京スクエアガーデン1・2F",
+    "address": "東京都中央区京橋3-1-1 東京スクエアガーデン1・2F",
+    "sourceURL": "https://store.montbell.jp/search/shopinfo/?shop_no=678502",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6759537,
+      "lng": 139.768802
+    },
+    "url": "https://www.google.com/maps/place/%EB%AA%BD%EB%B2%A8+%EB%8F%84%EC%BF%84+%EA%B5%90%EB%B0%94%EC%8B%9C%EC%A0%90/@35.6759537,139.768802,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be372353d69:0xfb583fcec3cd7b9a!8m2!3d35.6759537!4d139.768802!16s%2Fg%2F12m95qwnr"
+  },
+  "standardproducts-ginza": {
+    "id": "standardproducts-ginza",
+    "status": "place",
+    "label": "스탠다드프로덕트 마로니에 게이트 긴자점",
+    "query": "Standard Products マロニエゲート銀座店, 東京都中央区銀座3-2-1 マロニエゲート銀座2 6F",
+    "address": "東京都中央区銀座3-2-1 マロニエゲート銀座2 6F",
+    "sourceURL": "https://www.daiso-sangyo.co.jp/shop/detail/009170",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6737924,
+      "lng": 139.7649803
+    },
+    "url": "https://www.google.com/maps/place/Standard+Products/@35.6737924,139.7649803,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bd5ad810e81:0x62e7270866a8f0d6!8m2!3d35.6737924!4d139.7649803!16s%2Fg%2F11pz1dtjzq"
+  },
+  "torigin-ginza": {
+    "id": "torigin-ginza",
+    "status": "place",
+    "label": "도리긴 긴자 본점",
+    "query": "鳥ぎん 銀座本店, 東京都中央区銀座5-5-7 ニューギンザビル6号館B1",
+    "address": "東京都中央区銀座5-5-7 ニューギンザビル6号館B1",
+    "sourceURL": "https://torigin-ginza.jp/access/",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6712821,
+      "lng": 139.7636683
+    },
+    "placeId": "ChIJlTfv4eWLGGAR5izSL_Nafyc"
+  },
+  "highfive-ginza": {
+    "id": "highfive-ginza",
+    "status": "place",
+    "label": "BAR HIGH FIVE",
+    "query": "BAR HIGH FIVE, 東京都中央区銀座5-4-15 エフローレ銀座5ビルB1F",
+    "address": "東京都中央区銀座5-4-15 エフローレ銀座5ビルB1F",
+    "sourceURL": "https://www.barhighfive.com/map",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.671641,
+      "lng": 139.762943
+    },
+    "url": "https://www.google.com/maps/place/%EB%B0%94+%ED%95%98%EC%9D%B4+%ED%8C%8C%EC%9D%B4%EB%B8%8C/@35.671641,139.762943,17z/data=!3m1!4b1!4m6!3m5!1s0x60188beed991b4bd:0x74b1824df56a88e0!8m2!3d35.671641!4d139.762943!16s%2Fg%2F119wjwkcp"
+  },
+  "stussy-dsm-ginza": {
+    "id": "stussy-dsm-ginza",
+    "status": "building",
+    "label": "Stüssy DSM 긴자",
+    "query": "Stüssy DSM Ginza, 東京都中央区銀座6-9-5 ギンザコマツ西館2F",
+    "address": "東京都中央区銀座6-9-5 ギンザコマツ西館2F",
+    "sourceURL": "https://jp.stussy.com/blogs/chapters/dsm-ginza",
+    "checkedAt": "2026-10-06",
+    "note": "건물까지 안내 · 매장 층은 주소 확인",
+    "coordinates": {
+      "lat": 35.6704316,
+      "lng": 139.763143
+    },
+    "placeId": "ChIJCyrxGuaLGGARJWVsJlwEERU",
+    "url": "https://www.google.com/maps/place/%EB%8F%84%EB%B2%84+%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8+%EB%A7%88%EC%BC%93+%EA%B8%B4%EC%9E%90/@35.6704316,139.763143,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be61af12a0b:0x1511045c266c6525!8m2!3d35.6704316!4d139.763143!16s%2Fg%2F11bwdm3qz9"
+  },
+  "supreme-dsm-ginza": {
+    "id": "supreme-dsm-ginza",
+    "status": "building",
+    "label": "Supreme DSM 긴자",
+    "query": "Supreme Dover Street Market Ginza, 東京都中央区銀座6-9-5 ギンザコマツ西館5F",
+    "address": "東京都中央区銀座6-9-5 ギンザコマツ西館5F",
+    "sourceURL": "https://ginza.doverstreetmarket.com/pages/floorguide",
+    "checkedAt": "2026-10-06",
+    "note": "건물까지 안내 · 매장 층은 주소 확인",
+    "coordinates": {
+      "lat": 35.6704316,
+      "lng": 139.763143
+    },
+    "placeId": "ChIJCyrxGuaLGGARJWVsJlwEERU",
+    "url": "https://www.google.com/maps/place/%EB%8F%84%EB%B2%84+%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8+%EB%A7%88%EC%BC%93+%EA%B8%B4%EC%9E%90/@35.6704316,139.763143,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be61af12a0b:0x1511045c266c6525!8m2!3d35.6704316!4d139.763143!16s%2Fg%2F11bwdm3qz9"
+  },
+  "cdg-dsm-ginza": {
+    "id": "cdg-dsm-ginza",
+    "status": "place",
+    "label": "꼼데가르송 DSM 긴자",
+    "query": "COMME des GARÇONS Dover Street Market Ginza, 東京都中央区銀座6-9-5 ギンザコマツ西館",
+    "address": "東京都中央区銀座6-9-5 ギンザコマツ西館",
+    "sourceURL": "https://ginza.doverstreetmarket.com/pages/floorguide",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6704364,
+      "lng": 139.7631425
+    },
+    "placeId": "ChIJpYjWGuaLGGARpMoVoxFXxQs"
+  },
+  "danton-bshop-yurakucho": {
+    "id": "danton-bshop-yurakucho",
+    "status": "place",
+    "label": "단톤 취급 Bshop 루미네 유라쿠초",
+    "query": "Bshop 有楽町ルミネ店, 東京都千代田区有楽町2-5-1 ルミネ有楽町2 4F",
+    "address": "東京都千代田区有楽町2-5-1 ルミネ有楽町2 4F",
+    "sourceURL": "https://bshop-inc.com/company/shop/yurakucho-lumine",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6735355,
+      "lng": 139.7628262
+    },
+    "url": "https://www.google.com/maps/place/Bshop+%E6%9C%89%E6%A5%BD%E7%94%BA%E3%83%AB%E3%83%9F%E3%83%8D%E5%BA%97/@35.6735355,139.7628262,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be57704d055:0xfa6c6597b07749e3!8m2!3d35.6735355!4d139.7628262!16s%2Fg%2F1hm65gflp"
+  },
+  "celine-ginza-six": {
+    "id": "celine-ginza-six",
+    "status": "place",
+    "label": "셀린느 긴자 GINZA SIX",
+    "query": "CELINE TOKYO GINZA MEN & WOMEN, 東京都中央区銀座6-10-1 GINZA SIX 1F",
+    "address": "東京都中央区銀座6-10-1 GINZA SIX 1F",
+    "sourceURL": "https://www.celine.com/ja-jp/cm/maison-de-couture/store-architecture/celine-tokyo-ginza",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6694933,
+      "lng": 139.7635421
+    },
+    "url": "https://www.google.com/maps/place/%EC%85%80%EB%A6%B0%EB%8A%90/@35.6694933,139.7635421,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be63a0cffab:0x53d48856d4e20d23!8m2!3d35.6694933!4d139.7635421!16s%2Fg%2F11dxl88r4h"
+  },
+  "ami-ginza-six": {
+    "id": "ami-ginza-six",
+    "status": "place",
+    "label": "AMI GINZA SIX",
+    "query": "Ami Paris GINZA SIX, 東京都中央区銀座6-10-1 GINZA SIX 3F",
+    "address": "東京都中央区銀座6-10-1 GINZA SIX 3F",
+    "sourceURL": "https://ginza6.tokyo/types/shops/",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.66946,
+      "lng": 139.7640986
+    },
+    "url": "https://www.google.com/maps/place/AMI+Paris+-+Alexandre+Mattiussi/@35.66946,139.7640986,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b9ca0e561bd:0x8a7cb349d35fb7a8!8m2!3d35.66946!4d139.7640986!16s%2Fg%2F11sz3wjhkj"
+  },
+  "arcteryx-ginza-six": {
+    "id": "arcteryx-ginza-six",
+    "status": "place",
+    "label": "아크테릭스 GINZA SIX",
+    "query": "ARC’TERYX GINZA SIX店, 東京都中央区銀座6-10-1 GINZA SIX 5F",
+    "address": "東京都中央区銀座6-10-1 GINZA SIX 5F",
+    "sourceURL": "https://arcteryx.jp/pages/storelist",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6698717,
+      "lng": 139.76401
+    },
+    "placeId": "ChIJ-3-Pm-6LGGARWhDAXp4tn7I"
+  },
+  "bacchus-ginza": {
+    "id": "bacchus-ginza",
+    "status": "place",
+    "label": "긴자 와인바 BaCChus",
+    "query": "銀座ワインバー BaCChus, 東京都中央区銀座7-5-15 AG-1ビル9F",
+    "address": "東京都中央区銀座7-5-15 AG-1ビル9F",
+    "sourceURL": "https://www.ginza-bacchus.jp/",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6697747,
+      "lng": 139.7610352
+    },
+    "url": "https://www.google.com/maps/place/%E9%8A%80%E5%BA%A7%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BCBaCChus/@35.6697747,139.7610352,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be8bf538661:0xa74e8a74ec3a892c!8m2!3d35.6697747!4d139.7610352!16s%2Fg%2F1tfqfstt"
+  },
+  "thedeep-ginza": {
+    "id": "thedeep-ginza",
+    "status": "place",
+    "label": "재즈 & 소울 바 The Deep",
+    "query": "Jazz & Soul Bar The Deep, 東京都中央区銀座6-3-12 数寄屋ビル4F",
+    "address": "東京都中央区銀座6-3-12 数寄屋ビル4F",
+    "sourceURL": "https://jazz-thedeep.com/",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6712082,
+      "lng": 139.7607358
+    },
+    "url": "https://www.google.com/maps/place/%EC%9E%AC%EC%A6%88+%26+%EC%86%8C%EC%9A%B8%EB%B0%94+-+%EB%8D%94+%EB%94%A5/@35.6712082,139.7607358,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bef17e8bf8f:0xa3da6b7be72f1bfc!8m2!3d35.6712082!4d139.7607358!16s%2Fg%2F1tf9n7cf"
+  },
+  "liquor-mountain-ginza777": {
+    "id": "liquor-mountain-ginza777",
+    "status": "place",
+    "label": "리커 마운틴 긴자777",
+    "query": "リカーマウンテン 銀座777, 東京都中央区銀座7-7-7",
+    "address": "東京都中央区銀座7-7-7",
+    "sourceURL": "https://www.likaman.co.jp/en/shop/tokyo/chuo-ku/8466.html",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6691889,
+      "lng": 139.7619934
+    },
+    "url": "https://www.google.com/maps/place/%EB%A6%AC%EC%BB%A4+%EB%A7%88%EC%9A%B4%ED%8B%B4+%EA%B8%B4%EC%9E%90+777/@35.6691889,139.7619934,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be897630247:0xe132abeb8f7dec6d!8m2!3d35.6691889!4d139.7619934!16s%2Fg%2F11gdvv0thq"
+  },
+  "sushinomidori-ginza": {
+    "id": "sushinomidori-ginza",
+    "status": "place",
+    "label": "미도리 스시 긴자점",
+    "query": "梅丘寿司の美登利 銀座店, 東京都中央区銀座8-3 先 東京高速道路山下ビル1F",
+    "address": "東京都中央区銀座8-3 先 東京高速道路山下ビル1F",
+    "sourceURL": "https://www.sushinomidori.co.jp/shops/ginza/",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6704396,
+      "lng": 139.7596577
+    },
+    "url": "https://www.google.com/maps/place/%EC%8A%A4%EC%8B%9C%EB%85%B8%EB%AF%B8%EB%8F%84%EB%A6%AC+%EA%B8%B4%EC%9E%90%EC%A0%90/@35.6704396,139.7596577,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bef55e55555:0x78730b4bf7a32c62!8m2!3d35.6704396!4d139.7596577!16s%2Fg%2F1tgk0mjx"
+  },
+  "ichiran-shimbashi": {
+    "id": "ichiran-shimbashi",
+    "status": "place",
+    "label": "이치란 신바시점",
+    "query": "一蘭 新橋店, 東京都港区新橋2-5-6 2F",
+    "address": "東京都港区新橋2-5-6 2F",
+    "sourceURL": "https://ichiran.com/shop/tokyo/shimbashi/",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6675081,
+      "lng": 139.7560198
+    },
+    "url": "https://www.google.com/maps/place/%EC%9D%B4%EC%B9%98%EB%9E%80+%EC%8B%A0%EB%B0%94%EC%8B%9C%EC%A0%90/@35.6675081,139.7560198,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bebdb994517:0x197f569d33d747f6!8m2!3d35.6675081!4d139.7560198!16s%2Fg%2F113fj0741"
+  },
+  "monkichi-tsukishima": {
+    "id": "monkichi-tsukishima",
+    "status": "official_identifier",
+    "label": "쓰키시마 몬키치 본점",
+    "query": "路地裏もんじゃ もん吉 本店, 東京都中央区月島3-8-10",
+    "address": "東京都中央区月島3-8-10",
+    "sourceURL": "https://monja.gr.jp/stores/monkichi-main-store/",
+    "checkedAt": "2026-10-07",
+    "note": "공식 본점 안내에 연결된 Google 지도예요. 본점·신점이 마주 보고 있어 본점 간판과 전화 03-3531-2380을 확인해주세요 Google 표시 전화는 신점 번호(03-3531-2366)와 겹쳐 본점 개별 핀은 확정하지 않았어요",
+    "fallbackURL": "https://www.monkichi.co.jp/restaurant/",
+    "url": "https://maps.google.com/maps?ll=35.663073,139.781183&z=15&t=m&hl=ja&gl=JP&mapclient=embed&cid=3341918865716385331"
+  },
+  "humanmade-harajuku": {
+    "id": "humanmade-harajuku",
+    "status": "place",
+    "label": "HUMAN MADE 하라주쿠",
+    "query": "HUMAN MADE HARAJUKU, 東京都渋谷区神宮前1-11-6",
+    "address": "東京都渋谷区神宮前1-11-6",
+    "sourceURL": "https://www.humanmade.jp/en/dealers.html",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6691596,
+      "lng": 139.7056252
+    },
+    "url": "https://www.google.com/maps/place/%ED%9C%B4%EB%A8%BC+%EB%A9%94%EC%9D%B4%EB%93%9C+%ED%95%98%EB%9D%BC%EC%A3%BC%EC%BF%A0/@35.6691596,139.7056252,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ca48e679fb3:0x244e931c7a580d19!8m2!3d35.6691596!4d139.7056252!16s%2Fg%2F11ckqrlmrd"
+  },
+  "kaldi-yaechika": {
+    "id": "kaldi-yaechika",
+    "status": "place",
+    "label": "KALDI 야에치카점",
+    "query": "カルディコーヒーファーム ヤエチカ店, 東京都中央区八重洲2-1 北1号 ヤエチカ",
+    "address": "東京都中央区八重洲2-1 北1号 ヤエチカ",
+    "sourceURL": "https://map.kaldi.co.jp/kaldi/detailMap?account=kaldi&bid=404",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6810299,
+      "lng": 139.7695047
+    },
+    "url": "https://www.google.com/maps/place/Kaldi+Coffee+Farm+Yaesu+Underground+Shopping+Mall/@35.6810299,139.7695047,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bfcf9a0e48b:0xfecbcabc6549b861!8m2!3d35.6810299!4d139.7695047!16s%2Fg%2F11cn9f_mxk"
+  },
+  "arcteryx-tokyo-ginza": {
+    "id": "arcteryx-tokyo-ginza",
+    "status": "place",
+    "label": "아크테릭스 도쿄 긴자",
+    "query": "アークテリクス 東京銀座, 東京都中央区銀座3-11-14 1F",
+    "address": "東京都中央区銀座3-11-14 1F",
+    "sourceURL": "https://arcteryx.jp/pages/storelist",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 지점 상호·주소 확인",
+    "coordinates": {
+      "lat": 35.6706036,
+      "lng": 139.7683731
+    },
+    "placeId": "ChIJS19c1-CLGGARThBsWYA42is",
+    "url": "https://www.google.com/maps/place/%EC%95%84%ED%81%AC%ED%85%8C%EB%A6%AD%EC%8A%A4+%EB%8F%84%EC%BF%84+%EA%B8%B4%EC%9E%90/@35.6706036,139.7683731,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be0d75c5f4b:0x2bda3880596c104e!8m2!3d35.6706036!4d139.7683731!16s%2Fg%2F11b67q8h9c"
+  },
+  "hotel-monterey-ginza": {
+    "id": "hotel-monterey-ginza",
+    "status": "place",
+    "label": "호텔 몬토레 긴자",
+    "query": "ホテルモントレ銀座, 東京都中央区銀座2-10-2",
+    "address": "東京都中央区銀座2-10-2",
+    "coordinates": {
+      "lat": 35.672809,
+      "lng": 139.7689219
+    },
+    "url": "https://www.google.com/maps/place/%ED%98%B8%ED%85%94+%EB%AA%AC%ED%86%A0%EB%A0%88+%EA%B8%B4%EC%9E%90/@35.672809,139.7689219,17z/data=!3m1!5s0x60188be1432b7a1d:0x754f73b87ceb1a40!4m9!3m8!1s0x60188be142b2a27f:0x6c3ccde492241d39!5m2!4m1!1i2!8m2!3d35.672809!4d139.7689219!16s%2Fg%2F1tq8jjvp",
+    "checkedAt": "2026-10-06",
+    "note": "몬토레 긴자 상호·2-10-2 주소 확인 · 라 스루와 구분"
+  },
+  "narita-terminal-3": {
+    "id": "narita-terminal-3",
+    "status": "place",
+    "label": "Terminal 3",
+    "query": "Terminal 3, 字上人塚148-1 Tokkō, Narita, Japan",
+    "address": "Terminal 3, 字上人塚148-1 Tokkō, Narita, Japan",
+    "coordinates": {
+      "lat": 35.7788254,
+      "lng": 140.3846734
+    },
+    "checkedAt": "2026-10-06",
+    "note": "공항터미널 건물 확인 · T3 이름의 버스정류장과 구분",
+    "url": "https://www.google.com/maps/place/Terminal+3,+%E5%AD%97%E4%B8%8A%E4%BA%BA%E5%A1%9A148-1+Tokk%C5%8D,+Narita,+Chiba+282-0006+%EC%9D%BC%EB%B3%B8/@35.7788254,140.3846734,17z/data=!3m1!4b1!4m6!3m5!1s0x6022f37959fadf61:0xefe73655680fdcf3!8m2!3d35.7788254!4d140.3846734!16s%2Fg%2F11b8tb6jhh"
+  },
+  "narita-t23-station": {
+    "id": "narita-t23-station",
+    "status": "place",
+    "label": "空港第２ビル駅",
+    "query": "Narita Airport Terminal 2・3 Station Japan",
+    "address": "Narita Airport Terminal 2・3 Station Japan",
+    "coordinates": {
+      "lat": 35.7730734,
+      "lng": 140.3874543
+    },
+    "checkedAt": "2026-10-06",
+    "note": "역·건물 대표 위치 확인 · 출구·개별 승강장은 공식 안내 확인",
+    "url": "https://www.google.com/maps/place/%EA%B3%B5%ED%95%AD%EC%A0%9C2%EB%B9%8C%EB%94%A9/@35.7730734,140.3874543,17z/data=!3m1!4b1!4m6!3m5!1s0x6022f376378e2a55:0x1719593c59e63051!8m2!3d35.7730734!4d140.3874543!16s%2Fg%2F1tg_x6hj"
+  },
+  "higashi-ginza-station": {
+    "id": "higashi-ginza-station",
+    "status": "place",
+    "label": "Higashi-Ginza Station",
+    "query": "Higashi-Ginza Station Tokyo",
+    "address": "Higashi-Ginza Station Tokyo",
+    "coordinates": {
+      "lat": 35.6697003,
+      "lng": 139.7671399
+    },
+    "checkedAt": "2026-10-06",
+    "note": "역·건물 대표 위치 확인 · 출구·개별 승강장은 공식 안내 확인",
+    "placeId": "ChIJK2bxJueLGGARwHHeH52hGiM"
+  },
+  "tokyo-nihombashi-bus-arrival": {
+    "id": "tokyo-nihombashi-bus-arrival",
+    "status": "place",
+    "label": "Tokyo Station Nihombashi Gate bus stop",
+    "query": "Tokyo Station Nihombashi Gate bus stop",
+    "address": "Tokyo Station Nihombashi Gate bus stop",
+    "coordinates": {
+      "lat": 35.6838102,
+      "lng": 139.7689419
+    },
+    "checkedAt": "2026-10-06",
+    "note": "역·건물 대표 위치 확인 · 출구·개별 승강장은 공식 안내 확인",
+    "placeId": "ChIJKfMXvv6LGGARAWRuV-T4lOo"
+  },
+  "tokyo-yaesu-bus-terminal": {
+    "id": "tokyo-yaesu-bus-terminal",
+    "status": "place",
+    "label": "JR Bus Tokyo Station Expressway Bus Terminal",
+    "query": "JR Bus Tokyo Station Expressway Bus Terminal",
+    "address": "JR Bus Tokyo Station Expressway Bus Terminal",
+    "coordinates": {
+      "lat": 35.6793291,
+      "lng": 139.767703
+    },
+    "checkedAt": "2026-10-06",
+    "note": "역·건물 대표 위치 확인 · 출구·개별 승강장은 공식 안내 확인",
+    "placeId": "ChIJYZ-effuLGGARC-1o1s1I6kE"
+  },
+  "ginza-airport-bus-stop": {
+    "id": "ginza-airport-bus-stop",
+    "status": "place",
+    "label": "Ginza Sta.(Narita Airport Access Bus Stop)",
+    "query": "Ginza Sta.(Narita Airport Access Bus Stop)",
+    "address": "Ginza Sta.(Narita Airport Access Bus Stop)",
+    "coordinates": {
+      "lat": 35.6730588,
+      "lng": 139.7637788
+    },
+    "checkedAt": "2026-10-06",
+    "note": "공항버스 정류장 지점 · 승차 위치는 TYO-NRT 공식 지도와 함께 확인",
+    "placeId": "ChIJLWq3H9aLGGAREQK1hs3-7L0"
+  },
+  "tsunahachi-ginza": {
+    "id": "tsunahachi-ginza",
+    "status": "place",
+    "label": "쓰나하치 긴자점",
+    "query": "天ぷら 新宿つな八 銀座店, 東京都中央区銀座3-6-1 松屋銀座8F",
+    "address": "東京都中央区銀座3-6-1 松屋銀座8F",
+    "sourceURL": "https://www.tunahachi.co.jp/store/15.html",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 상호·주소 확인",
+    "url": "https://www.google.com/maps/place/Tempura+Shinjuku+Tsunahachi+Ginza/@35.6719385,139.7662641,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be6a113cf9b:0x8aae9ff02be67fe6!8m2!3d35.6719385!4d139.7662641!16s%2Fg%2F1thp7zxj",
+    "coordinates": {
+      "lat": 35.6719385,
+      "lng": 139.7662641
+    }
+  },
+  "ginza-hachigo": {
+    "id": "ginza-hachigo",
+    "status": "place",
+    "label": "긴자 하치고",
+    "query": "銀座 八五, 東京都中央区銀座3-14-2 第一はなぶさビル1F",
+    "address": "東京都中央区銀座3-14-2 第一はなぶさビル1F",
+    "sourceURL": "https://katsumoto-japan.com/ja/ginza_hachigou.html",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 상호·주소 확인",
+    "url": "https://www.google.com/maps/place/%EA%B8%B4%EC%9E%90+%ED%95%98%EC%B9%98%EA%B3%A0/@35.6705477,139.77015,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be664634e5f:0xb960da45f432b5da!8m2!3d35.6705477!4d139.77015!16s%2Fg%2F11f9x3zj8t",
+    "coordinates": {
+      "lat": 35.6705477,
+      "lng": 139.77015
+    }
+  },
+  "tsujihan-nihonbashi": {
+    "id": "tsujihan-nihonbashi",
+    "status": "place",
+    "label": "쓰지한 니혼바시 본점",
+    "query": "日本橋海鮮丼 つじ半 日本橋本店, 東京都中央区日本橋3-1-15 久栄ビル1F",
+    "address": "東京都中央区日本橋3-1-15 久栄ビル1F",
+    "sourceURL": "https://www.tsujihan-jp.com/blank",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 상호·주소 확인",
+    "url": "https://www.google.com/maps/place/%EC%B8%A0%EC%A7%80%ED%95%9C+%EB%8B%88%ED%98%BC%EB%B0%94%EC%8B%9C+%EB%B3%B8%EC%A0%90/@35.6807167,139.7715771,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bfd0d57e253:0x211fa4fa71a7c61e!8m2!3d35.6807167!4d139.7715771!16s%2Fg%2F1hf6rm299",
+    "coordinates": {
+      "lat": 35.6807167,
+      "lng": 139.7715771
+    }
+  },
+  "asakusa-imahan-kokusai": {
+    "id": "asakusa-imahan-kokusai",
+    "status": "place",
+    "label": "아사쿠사 이마한 국제거리 본점",
+    "query": "浅草今半 国際通り本店, 東京都台東区西浅草3-1-12",
+    "address": "東京都台東区西浅草3-1-12",
+    "sourceURL": "https://www.asakusaimahan.co.jp/kokusai",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 상호·주소 확인",
+    "url": "https://www.google.com/maps/place/%EC%95%84%EC%82%AC%EC%BF%A0%EC%82%AC+%EC%9D%B4%EB%A7%88%ED%95%9C+%EA%B5%AD%EC%A0%9C%EB%8C%80%EB%A1%9C%EB%B3%B8%EC%A0%90/@35.7139345,139.7922291,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ebfe994dcf7:0x402534c8b8ced7d8!8m2!3d35.7139345!4d139.7922291!16s%2Fg%2F1yl57jwcx",
+    "coordinates": {
+      "lat": 35.7139345,
+      "lng": 139.7922291
+    }
+  },
+  "maisen-aoyama": {
+    "id": "maisen-aoyama",
+    "status": "place",
+    "label": "마이센 아오야마 본점",
+    "query": "とんかつ まい泉 青山本店, 東京都渋谷区神宮前4-8-5",
+    "address": "東京都渋谷区神宮前4-8-5",
+    "sourceURL": "https://mai-sen.com/restaurant/aoyama/",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 상호·주소 확인",
+    "url": "https://www.google.com/maps/place/%EB%8F%88%EC%B9%B4%EC%B8%A0+%EB%A7%88%EC%9D%B4%EC%84%BC+%EC%95%84%EC%98%A4%EC%95%BC%EB%A7%88+%EB%B3%B8%EC%A0%90/@35.667925,139.7115365,17z/data=!3m1!4b1!4m6!3m5!1s0x60188d2dbaa7696b:0x73ec2569bd2d3eef!8m2!3d35.667925!4d139.7115365!16s%2Fg%2F1thcsb95",
+    "coordinates": {
+      "lat": 35.667925,
+      "lng": 139.7115365
+    }
+  },
+  "cafe-kimuraya-ginza": {
+    "id": "cafe-kimuraya-ginza",
+    "status": "building",
+    "label": "긴자 기무라야 2층 카페",
+    "query": "2F 喫茶木村家, 東京都中央区銀座4-5-7 2F",
+    "address": "東京都中央区銀座4-5-7 2F",
+    "sourceURL": "https://www.ginzakimuraya.jp/cafe-kimuraya/",
+    "checkedAt": "2026-10-06",
+    "note": "건물 위치 확인 · 기무라야 카페는 2층",
+    "url": "https://www.google.com/maps/place/%EA%B8%B4%EC%9E%90+%EA%B8%B0%EB%AC%B4%EB%9D%BC%EC%95%BC/@35.6716679,139.7652695,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be67fd7649b:0x11837a452f5a1fb5!8m2!3d35.6716679!4d139.7652695!16s%2Fg%2F11f12_4f3w",
+    "coordinates": {
+      "lat": 35.6716679,
+      "lng": 139.7652695
+    }
+  },
+  "extra-tokyo-character-street": {
+    "id": "extra-tokyo-character-street",
+    "status": "place",
+    "label": "도쿄 캐릭터 스트리트",
+    "query": "東京キャラクターストリート, 東京都千代田区丸の内1-9-1 東京駅一番街 B1",
+    "address": "東京都千代田区丸の内1-9-1 東京駅一番街 B1",
+    "sourceURL": "https://www.tokyoeki-1bangai.co.jp/en/",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 상호·주소 확인",
+    "url": "https://www.google.com/maps/place/%EB%8F%84%EC%BF%84+%EC%BA%90%EB%A6%AD%ED%84%B0%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8/@35.6820335,139.7686549,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bf95f25e619:0x103bd7d05407fec7!8m2!3d35.6820335!4d139.7686549!16s%2Fg%2F122x8gw_",
+    "coordinates": {
+      "lat": 35.6820335,
+      "lng": 139.7686549
+    }
+  },
+  "extra-biccamera-yurakucho": {
+    "id": "extra-biccamera-yurakucho",
+    "status": "place",
+    "label": "빅카메라 유라쿠초점",
+    "query": "ビックカメラ有楽町店, 東京都千代田区有楽町1-11-1",
+    "address": "東京都千代田区有楽町1-11-1",
+    "sourceURL": "https://www.biccamera.com/bc/i/shop/shoplist/shop014.jsp",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 상호·주소 확인",
+    "url": "https://www.google.com/maps/place/%EB%B9%85%EC%B9%B4%EB%A9%94%EB%9D%BC+%EC%9C%A0%EB%9D%BC%EC%BF%A0%EC%B4%88%EC%A0%90/@35.6753814,139.7629088,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bfaab72dbd1:0x87d4f325081b3653!8m2!3d35.6753814!4d139.7629088!16s%2Fg%2F1td42g_m",
+    "coordinates": {
+      "lat": 35.6753814,
+      "lng": 139.7629088
+    }
+  },
+  "extra-shibuya-parco": {
+    "id": "extra-shibuya-parco",
+    "status": "place",
+    "label": "시부야 PARCO",
+    "query": "渋谷PARCO, 東京都渋谷区宇田川町15-1",
+    "address": "東京都渋谷区宇田川町15-1",
+    "sourceURL": "https://shibuya.parco.jp/info/",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 상호·주소 확인",
+    "url": "https://www.google.com/maps/place/%ED%8C%8C%EB%A5%B4%EC%BD%94+%EC%8B%9C%EB%B6%80%EC%95%BC/@35.6620484,139.6987767,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ca8e2fe2173:0x1adbb1909538391b!8m2!3d35.6620484!4d139.6987767!16s%2Fg%2F11b5v5txkb",
+    "coordinates": {
+      "lat": 35.6620484,
+      "lng": 139.6987767
+    }
+  },
+  "extra-isetan-shinjuku": {
+    "id": "extra-isetan-shinjuku",
+    "status": "place",
+    "label": "이세탄 신주쿠 본점",
+    "query": "伊勢丹新宿店, 東京都新宿区新宿3-14-1",
+    "address": "東京都新宿区新宿3-14-1",
+    "sourceURL": "https://cp.mistore.jp/global/en/shinjuku.html",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 상호·주소 확인",
+    "url": "https://www.google.com/maps/place/%EC%9D%B4%EC%84%B8%ED%83%84+%EC%8B%A0%EC%A3%BC%EC%BF%A0/@35.691574,139.7046466,17z/data=!3m1!4b1!4m6!3m5!1s0x60188cdba56b3bf7:0x8b741cc73341edb5!8m2!3d35.691574!4d139.7046466!16s%2Fg%2F11cjk548y6",
+    "coordinates": {
+      "lat": 35.691574,
+      "lng": 139.7046466
+    }
+  },
+  "extra-kappabashi": {
+    "id": "extra-kappabashi",
+    "status": "place",
+    "label": "갓파바시 도구거리",
+    "query": "かっぱ橋道具街, 東京都台東区松が谷1-1-1 ニイミ洋食器店 앞에서 시작",
+    "address": "東京都台東区松が谷1-1-1 ニイミ洋食器店 앞에서 시작",
+    "sourceURL": "https://www.kappabashi.or.jp/",
+    "checkedAt": "2026-10-06",
+    "note": "니이미 양식기점(마츠가야 1-1-1)을 도구거리 시작점으로 지정",
+    "url": "https://www.google.com/maps/place/%EB%8B%88%EC%9D%B4%EB%AF%B8+%EC%96%91%EC%8B%9D%EA%B8%B0%EC%A0%90/@35.710571,139.7882539,17z/data=!3m1!5s0x60188ebc29f36257:0xa9824581a97ba9fc!4m10!1m2!2m1!1z44OL44Kk44Of5rSL6aOf5Zmo5bqXIOadseS6rOmDveWPsOadseWMuuadvuOBjOiwtzEtMS0x!3m6!1s0x60188ebc2bcda361:0x15efa4b7d72a212f!8m2!3d35.7105526!4d139.7880954!15sCjbjg4vjgqTjg5_mtIvpo5_lmajlupcg5p2x5Lqs6YO95Y-w5p2x5Yy65p2-44GM6LC3MS0xLTFaQCI-44OL44Kk44OfIOa0i-mjnyDlmagg5bqXIOadseS6rCDpg70g5Y-w5p2xIOWMuiDmnb7jgYzosLcgMSAxIDGSARdyZXN0YXVyYW50X3N1cHBseV9zdG9yZZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOS2EwOTZaMlJuRUFF4AEA-gEECAAQJA!16s%2Fg%2F1tdnl3dz",
+    "coordinates": {
+      "lat": 35.7105526,
+      "lng": 139.7880954
+    }
+  },
+  "acne-ginza-mitsukoshi": {
+    "id": "acne-ginza-mitsukoshi",
+    "status": "building",
+    "label": "아크네 스튜디오 긴자 미쓰코시",
+    "query": "銀座三越, 東京都中央区銀座4-6-16",
+    "address": "東京都中央区銀座4-6-16 銀座三越4F",
+    "coordinates": {
+      "lat": 35.6712864,
+      "lng": 139.7657382
+    },
+    "url": "https://www.google.com/maps/place/%EA%B8%B4%EC%9E%90+%EB%AF%B8%EC%93%B0%EC%BD%94%EC%8B%9C/@35.6706901,139.7620149,17z/data=!3m1!5s0x60188be692f7e16b:0xcfdcef9aeaad9b06!4m6!3m5!1s0x60188be68e21d35f:0x91fb4ae4762f83be!8m2!3d35.6712864!4d139.7657382!16s%2Fg%2F11byp6q2nj",
+    "sourceURL": "https://www.acnestudios.com/jp/ja/stores/ginza-mitsukoshi",
+    "checkedAt": "2026-10-06",
+    "note": "공식 링크의 미쓰코시 건물·주소 확인 · 아크네 매장은 4층"
+  },
+  "moheji-ueno": {
+    "id": "moheji-ueno",
+    "status": "place",
+    "label": "츠키시마 몬자 모헤지 우에노점",
+    "query": "月島もんじゃ もへじ 上野, 〒110-0005 東京都台東区上野6-11-2 1,2F",
+    "address": "〒110-0005 東京都台東区上野6-11-2 1,2F",
+    "sourceURL": "https://kissuigroup.com/shop/#moheji_ueno",
+    "checkedAt": "2026-10-06",
+    "note": "Google 지도 우에노점 6-11-2·전화 확인 · 우에노 분점 6-10-10과 별개",
+    "coordinates": {
+      "lat": 35.7104315,
+      "lng": 139.774573
+    },
+    "placeId": "ChIJoeziRJ6OGGARNqc5WYYfQn4",
+    "url": "https://www.google.com/maps/place/%EC%B8%A0%ED%82%A4%EC%8B%9C%EB%A7%88+%EB%AA%AC%EC%9E%90+%EB%AA%A8%ED%97%A4%EC%A7%80+%EC%9A%B0%EC%97%90%EB%85%B8%EC%A0%90/data=!4m7!3m6!1s0x60188e9e44e2eca1:0x7e421f865939a736!8m2!3d35.7104315!4d139.774573!16s%2Fg%2F1tkby6m_!19sChIJoeziRJ6OGGARNqc5WYYfQn4"
+  },
+  "pain-maison-ginza": {
+    "id": "pain-maison-ginza",
+    "label": "팡 메종 긴자점",
+    "query": "塩パン屋 パン・メゾン 銀座店, 東京都中央区銀座2-14-5 第27中央ビル1F",
+    "address": "東京都中央区銀座2-14-5 第27中央ビル1F",
+    "sourceURL": "https://shiopan-maison.com/",
+    "checkedAt": "2026-10-06",
+    "note": "공식 전체 상호·지점 주소 검색. Google 장소 핀·Place ID 미검증",
+    "status": "official_only",
+    "fallbackURL": "https://shiopan-maison.com/"
+  },
+  "bongen-coffee-ginza": {
+    "id": "bongen-coffee-ginza",
+    "label": "봉겐 커피 긴자 본점",
+    "query": "GINZA BONGEN 銀座本店, 東京都中央区銀座2-16-3",
+    "address": "東京都中央区銀座2-16-3",
+    "sourceURL": "https://ginza-bongen.jp/location/",
+    "checkedAt": "2026-10-06",
+    "note": "공식 긴자 본점 지도 iframe의 장소 식별자에서 CID를 변환. iframe 중심 좌표는 점포 핀으로 사용하지 않음. 이름 BONGEN COFFEE Tokyo Ginza 확인",
+    "status": "official_identifier",
+    "url": "https://www.google.com/maps?cid=9301737868646870783"
+  },
+  "tricolore-ginza-honten": {
+    "id": "tricolore-ginza-honten",
+    "label": "트리콜로르 긴자 본점",
+    "query": "トリコロール 本店, 東京都中央区銀座5-9-17",
+    "address": "東京都中央区銀座5-9-17",
+    "sourceURL": "https://www.ginza.jp/shop/873",
+    "checkedAt": "2026-10-06",
+    "note": "긴자 공식 해당 점포의 지도 링크 좌표. Google 장소 ID는 미확인",
+    "status": "official_pin",
+    "coordinates": {
+      "lat": 35.6702337,
+      "lng": 139.76516459999993
+    },
+    "url": "https://www.google.com/maps?ll=35.6702337,139.76516459999993&q=35.6702337,139.76516459999993&z=17"
+  },
+  "city-bakery-ginza-inz": {
+    "id": "city-bakery-ginza-inz",
+    "label": "시티 베이커리 긴자 인즈",
+    "query": "THE CITY BAKERY 銀座インズ, 東京都中央区銀座西2-2先 銀座インズ2 B1階",
+    "address": "東京都中央区銀座西2-2先 銀座インズ2 B1階",
+    "sourceURL": "https://thecitybakery.jp/shop",
+    "checkedAt": "2026-10-06",
+    "note": "공식 지점 지도 단축링크를 열어 THE CITY BAKERY 銀座インズ 명칭 및 장소 좌표(!3d/!4d)를 확인. 지도 화면 중심(@좌표)이 아닌 장소 좌표 사용",
+    "status": "official_pin",
+    "coordinates": {
+      "lat": 35.6745967,
+      "lng": 139.7647415
+    },
+    "url": "https://www.google.com/maps/place/THE%20CITY%20BAKERY%20%E9%8A%80%E5%BA%A7%E3%82%A4%E3%83%B3%E3%82%BA/data=!4m6!3m5!1s0x60188bc084475ca3:0xccf08b9757fe8d6b!8m2!3d35.6745967!4d139.7647415"
+  },
+  "le-petit-mec-hibiya": {
+    "id": "le-petit-mec-hibiya",
+    "label": "르 쁘띠 멕 히비야점",
+    "query": "ル プチメック 日比谷店, 東京都千代田区有楽町1-2-2 日比谷シャンテ1F",
+    "address": "東京都千代田区有楽町1-2-2 日比谷シャンテ1F",
+    "sourceURL": "https://www.lepetitmec.com/",
+    "checkedAt": "2026-10-06",
+    "note": "공식 히비야점 지도 단축링크를 열어 지점명 및 장소 좌표(!3d/!4d)를 확인. Google Place ID 자체는 미확인",
+    "status": "official_pin",
+    "coordinates": {
+      "lat": 35.6733248,
+      "lng": 139.7601046
+    },
+    "url": "https://www.google.com/maps/place/%E3%83%AB%20%E3%83%97%E3%83%81%E3%83%A1%E3%83%83%E3%82%AF%20%E6%97%A5%E6%AF%94%E8%B0%B7%E5%BA%97/data=!4m6!3m5!1s0x60188cdbaaf2f8b5:0xa08ea82bfb81c78d!8m2!3d35.6733248!4d139.7601046"
+  },
+  "viron-marunouchi-bakery": {
+    "id": "viron-marunouchi-bakery",
+    "label": "비롱 마루노우치 베이커리",
+    "query": "VIRON 丸の内店（ブーランジェリー・パティスリー）, 東京都千代田区丸の内2-7-3 東京ビルTOKIA 1F",
+    "address": "東京都千代田区丸の内2-7-3 東京ビルTOKIA 1F",
+    "sourceURL": "https://www.marunouchi.com/tenants/3018/",
+    "checkedAt": "2026-10-06",
+    "note": "공식 시설의 VIRON 지점 지도에 있는 Place ID와 좌표. 동일 지점 브라세리·베이커리 공용 위치, 개별 카운터 입구를 확정한 값은 아님",
+    "status": "official_pin",
+    "coordinates": {
+      "lat": 35.6784953,
+      "lng": 139.7649771
+    },
+    "placeId": "ChIJjXUcA_uLGGARnZ591kPrlaY",
+    "url": "https://www.google.com/maps/search/?api=1&query=35.6784953%2C139.7649771&query_place_id=ChIJjXUcA_uLGGARnZ591kPrlaY"
+  },
+  "donki-ginza-main": {
+    "id": "donki-ginza-main",
+    "status": "official_identifier",
+    "label": "돈키호테 긴자본관",
+    "query": "ドン・キホーテ 銀座本館",
+    "address": "東京都中央区銀座8-10 銀座ナイン3号館",
+    "url": "https://maps.google.com/maps?cid=6877499818092145610",
+    "sourceURL": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+    "checkedAt": "2026-10-07",
+    "note": "공식 지점 페이지가 연결한 Google CID 지도예요. Google 지도 본문·개별 출입구·도보 경로는 별도 검증하지 못했어요."
+  },
+  "lush-yurakucho-marui": {
+    "id": "lush-yurakucho-marui",
+    "status": "building",
+    "label": "유라쿠초 마루이 건물 · 러쉬1층",
+    "query": "有楽町マルイ",
+    "address": "東京都千代田区有楽町2-7-1 有楽町マルイ1F",
+    "coordinates": {
+      "lat": 35.674112,
+      "lng": 139.76385
+    },
+    "sourceURL": "https://visit-chiyoda.tokyo/app/spot/detail/870",
+    "checkedAt": "2026-10-07",
+    "note": "치요다구 관광협회 공식 지도 링크의 마루이 건물 좌표예요. 러쉬는 공식 확인된1층이며 독립 매장 핀·입구는 아니에요. 실제 도보 경로·거리·시간은 미검증이에요."
+  },
+  "ginza-mitsukoshi": {
+    "id": "ginza-mitsukoshi",
+    "status": "official_pin",
+    "label": "긴자 미츠코시 백화점",
+    "query": "銀座三越, 東京都中央区銀座4-6-16",
+    "address": "東京都中央区銀座4-6-16",
+    "sourceURL": "https://www.mistore.jp/store/ginza/access.html",
+    "checkedAt": "2026-10-09",
+    "coordinates": {
+      "lat": 35.6712864,
+      "lng": 139.7657382
+    },
+    "note": "호텔 공식 Google 지도 링크의 장소 좌표(!3d/!4d) 확인. 백화점 공식 지도 임베드와 동일 feature ID. 지도 본문 로딩은 실패했으며 리디렉트 주소에서 확인. CELINE 매장 핀이 아닌 백화점 핀."
+  },
+  "shabuki-ginza": {
+    "id": "shabuki-ginza",
+    "status": "place",
+    "label": "긴자 샤부키",
+    "query": "銀座しゃぶ輝 本店, 東京都中央区銀座5-9-5 チアーズ銀座4F",
+    "address": "東京都中央区銀座5-9-5 チアーズ銀座4F",
+    "sourceURL": "https://ginza-shabuki.hapyres.com/",
+    "checkedAt": "2026-10-15",
+    "note": "저장한 Google 지도 지점 확인 · 여행일 영업 재확인",
+    "coordinates": {
+      "lat": 35.6703,
+      "lng": 139.765507
+    }
+  },
+  "moheji-shibuya-scramble-square": {
+    "id": "moheji-shibuya-scramble-square",
+    "status": "unverified",
+    "label": "모헤지 시부야 스크램블 스퀘어",
+    "query": "もへじ 渋谷スクランブルスクエア, 東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア12F",
+    "address": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア12F",
+    "sourceURL": "https://www.shibuya-scramble-square.com/shops_restaurants/shop_77.html",
+    "checkedAt": "2026-10-15",
+    "note": "공식 주소 확인 · 개별 Google 지도 핀은 재확인 필요"
+  },
+  "kanda-yabusoba": {
+    "id": "kanda-yabusoba",
+    "status": "unverified",
+    "label": "간다 야부소바",
+    "query": "かんだやぶそば, 東京都千代田区神田淡路町2-10",
+    "address": "東京都千代田区神田淡路町2-10",
+    "sourceURL": "https://www.yabusoba.net/shop/",
+    "checkedAt": "2026-10-15",
+    "note": "공식 주소 확인 · 개별 Google 지도 핀은 재확인 필요"
+  },
+  "sato-yosuke-ginza": {
+    "id": "sato-yosuke-ginza",
+    "status": "unverified",
+    "label": "긴자 사토 요스케",
+    "query": "銀座 佐藤養助, 東京都中央区銀座6-4-17 出井本館1F",
+    "address": "東京都中央区銀座6-4-17 出井本館1F",
+    "sourceURL": "https://www.sato-yoske.co.jp/shop/ginza/",
+    "checkedAt": "2026-10-15",
+    "note": "공식 주소 확인 · 개별 Google 지도 핀은 재확인 필요"
+  },
+  "shinanoya-ginza": {
+    "id": "shinanoya-ginza",
+    "status": "unverified",
+    "label": "시나노야 긴자",
+    "query": "信濃屋 銀座店, 東京都中央区銀座8-6-22 銀座ピアースビル1F",
+    "address": "東京都中央区銀座8-6-22 銀座ピアースビル1F",
+    "sourceURL": "https://shinanoya.co.jp/shop/ginza.html",
+    "checkedAt": "2026-10-15",
+    "note": "공식 주소 확인 · 개별 Google 지도 핀은 재확인 필요"
+  },
+  "bouya-nihonbashi": {
+    "id": "bouya-nihonbashi",
+    "status": "unverified",
+    "label": "와규 야키니쿠 보우야 니혼바시",
+    "query": "和牛一頭焼肉 房家 日本橋店, 東京都中央区日本橋室町2-2-1 COREDO室町1 3F",
+    "address": "東京都中央区日本橋室町2-2-1 COREDO室町1 3F",
+    "sourceURL": "https://www.bou-ya.com/information/102.html",
+    "checkedAt": "2026-10-15",
+    "note": "공식 주소 확인 · 개별 Google 지도 핀은 재확인 필요"
+  },
+  "hirokiya-shibuya": {
+    "id": "hirokiya-shibuya",
+    "status": "place",
+    "label": "히로키야 시부야",
+    "query": "#ヒロキヤ渋谷, 東京都渋谷区宇田川町34-6 M&Iビル1F",
+    "address": "東京都渋谷区宇田川町34-6 M&Iビル1F",
+    "sourceURL": "https://hirokiya-group.com/shibuya/ja",
+    "checkedAt": "2026-10-15",
+    "note": "저장한 Google 지도 지점 확인 · 여행일 영업 재확인",
+    "coordinates": {
+      "lat": 35.6611939,
+      "lng": 139.6963244
+    }
+  },
+  "panga-ueno": {
+    "id": "panga-ueno",
+    "status": "building",
+    "label": "A5 와규 야키니쿠 우에노 판가",
+    "query": "和牛焼肉ぱんが 上野店, 東京都台東区上野3-27-3 ハトヤ3ビル2F",
+    "address": "東京都台東区上野3-27-3 ハトヤ3ビル2F",
+    "sourceURL": "https://www.wagyu-panga.jp/index.html",
+    "checkedAt": "2026-10-15",
+    "note": "Google 지도 건물 위치 확인. 공식 일본어·업장 안내2F, 공식 영어4F로 층수 상충: 입구 층별 안내 확인",
+    "coordinates": {
+      "lat": 35.7071098,
+      "lng": 139.7740939
+    }
+  },
+  "unafuji-midtown-yaesu": {
+    "id": "unafuji-midtown-yaesu",
+    "status": "place",
+    "label": "우나후지 도쿄 미드타운 야에스",
+    "query": "炭焼 うな富士 東京ミッドタウン八重洲店, 東京都中央区八重洲2-2-1 東京ミッドタウン八重洲3F",
+    "address": "東京都中央区八重洲2-2-1 東京ミッドタウン八重洲3F",
+    "sourceURL": "https://sumiyaki-unafuji.com/shops/yaesu/",
+    "checkedAt": "2026-10-15",
+    "note": "저장한 Google 지도 지점 확인 · 여행일 영업 재확인",
+    "coordinates": {
+      "lat": 35.6794084,
+      "lng": 139.7689311
+    }
+  },
+  "unafuji-yurakucho": {
+    "id": "unafuji-yurakucho",
+    "status": "unverified",
+    "label": "우나후지 유라쿠초",
+    "query": "炭焼 うな富士 有楽町店, 東京都千代田区内幸町1-7-1 日比谷OKUROJI H12/G26",
+    "address": "東京都千代田区内幸町1-7-1 日比谷OKUROJI H12/G26",
+    "sourceURL": "https://sumiyaki-unafuji.com/shops/ginza/",
+    "checkedAt": "2026-10-15",
+    "note": "공식 주소 확인 · 개별 Google 지도 핀은 재확인 필요"
+  },
+  "meatman-roppongi": {
+    "id": "meatman-roppongi",
+    "status": "place",
+    "label": "미트맨 롯폰기",
+    "query": "ミートマン 六本木店, 東京都港区六本木4-8-8 石橋ビル1F",
+    "address": "東京都港区六本木4-8-8 石橋ビル1F",
+    "coordinates": {
+      "lat": 35.6638889,
+      "lng": 139.7328811
+    },
+    "sourceURL": "https://teyandei.com/?page_id=11",
+    "checkedAt": "2026-10-15",
+    "note": "공식 연결 Google 지도와 좌표 확인 · https://goo.gl/maps/76vwjXVNoJ6WMabh9"
+  },
+  "ginza-marui": {
+    "id": "ginza-marui",
+    "status": "place",
+    "label": "긴자 스시 마루이",
+    "query": "銀座まる伊寿司 / 銀座寿司処まる伊総本店, 東京都中央区銀座3-8-15 銀座中央ビル1F",
+    "address": "東京都中央区銀座3-8-15 銀座中央ビル1F",
+    "coordinates": {
+      "lat": 35.6718653,
+      "lng": 139.7675537
+    },
+    "sourceURL": "https://ginza-maruisushi.com/index.html",
+    "url": "https://www.google.com/maps/place/긴자스시+마루이/@35.6718696,139.7649788,17z/data=!3m2!4b1!5s0x60188be6b44391bd:0x15e59911ff8768a3!4m6!3m5!1s0x60188be6b469e231:0xf1a224ba69360c40!8m2!3d35.6718653!4d139.7675537!16s%2Fg%2F1vxw87r3",
+    "checkedAt": "2026-10-15",
+    "note": "Google 지도 지점·주소 확인"
+  },
+  "ginten-ginza-corridor": {
+    "id": "ginten-ginza-corridor",
+    "status": "unverified",
+    "label": "긴텐 긴자 코리도점",
+    "query": "大衆蛇口酒場 ぎん天。銀座コリドー店, 東京都中央区銀座7-2-114 東京高速道路山下ビル1F",
+    "address": "東京都中央区銀座7-2-114 東京高速道路山下ビル1F",
+    "sourceURL": "https://ginten.dkdining.com/ginza/",
+    "checkedAt": "2026-10-15",
+    "note": "공식 주소 확인 · 개별 Google 지도 핀은 미확인, 주소 검색으로 확인"
+  },
+  "tokyo-tower-main-deck": {
+    "id": "tokyo-tower-main-deck",
+    "status": "unverified",
+    "label": "도쿄타워 메인데크 야경",
+    "query": "東京タワー メインデッキ, 東京都港区芝公園4-2-8",
+    "address": "東京都港区芝公園4-2-8",
+    "sourceURL": "https://en.tokyotower.co.jp/fee/",
+    "checkedAt": "2026-10-15",
+    "note": "공식 주소 확인 · 개별 Google 지도 핀은 미확인, 주소 검색으로 확인"
+  },
+  "porter-exchange-shibuya-parco": {
+    "id": "porter-exchange-shibuya-parco",
+    "status": "building",
+    "label": "PORTER EXCHANGE 시부야 PARCO",
+    "query": "PORTER EXCHANGE 渋谷PARCO, 東京都渋谷区宇田川町15-1 渋谷PARCO1F",
+    "address": "東京都渋谷区宇田川町15-1 渋谷PARCO1F",
+    "sourceURL": "https://shibuya.parco.jp/shop/detail/?cd=025704",
+    "checkedAt": "2026-10-15",
+    "note": "기존 검증된 시부야 PARCO 건물 위치 · PORTER EXCHANGE는 1층, 개별 입구 좌표 아님",
+    "coordinates": {
+      "lat": 35.6620484,
+      "lng": 139.6987767
+    }
+  },
+  "ushigoro-bambina-ginza": {
+    "id": "ushigoro-bambina-ginza",
+    "status": "place",
+    "label": "우시고로 반비나 긴자",
+    "query": "うしごろバンビーナ 銀座店, 東京都中央区銀座5-6-13 西五番街ビル3F",
+    "address": "東京都中央区銀座5-6-13 西五番街ビル3F",
+    "coordinates": {
+      "lat": 35.6710091,
+      "lng": 139.7636514
+    },
+    "url": "https://www.google.com/maps/place/우시고로+반비나+긴자점/@35.6710091,139.7636514,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be609595555:0xe9630c114103687e!8m2!3d35.6710091!4d139.7636514!16s%2Fg%2F11c5bjtkxm",
+    "sourceURL": "https://ushigoro-bambina.com/shop-info/ginza/",
+    "checkedAt": "2026-10-15",
+    "note": "Google 지도 매장 핀·공식 주소 확인. 층수는 매장 안내를 따르세요."
+  },
+  "old-imperial-bar": {
+    "id": "old-imperial-bar",
+    "status": "place",
+    "label": "올드 임페리얼 바",
+    "query": "オールドインペリアルバー, 東京都千代田区内幸町1-1-1 帝国ホテル東京 本館中2階",
+    "address": "東京都千代田区内幸町1-1-1 帝国ホテル東京 本館中2階",
+    "coordinates": {
+      "lat": 35.6723631,
+      "lng": 139.7587618
+    },
+    "url": "https://www.google.com/maps/place/Old+Imperial+Bar/@35.6723631,139.7587618,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bee5d15bc4f:0x54d01423020713e1!8m2!3d35.6723631!4d139.7587618!16s%2Fg%2F1tfb1zz9",
+    "sourceURL": "https://www.imperialhotel.co.jp/tokyo/restaurant/old-imperialbar",
+    "checkedAt": "2026-10-15",
+    "note": "Google 지도 매장 핀·공식 주소 확인. 층수는 매장 안내를 따르세요."
+  },
+  "danton-tokyo": {
+    "id": "danton-tokyo",
+    "status": "unverified",
+    "label": "DANTON TOKYO",
+    "query": "DANTON TOKYO, 東京都渋谷区神宮前6-12-17 ダイヤモンドビル1F",
+    "address": "東京都渋谷区神宮前6-12-17 ダイヤモンドビル1F",
+    "sourceURL": "https://danton.com/ja-jp/pages/shop",
+    "checkedAt": "2026-10-15",
+    "note": "공식 지점 주소 확인 · 개별 Google 핀 미검증, 주소 검색 결과를 확인하세요."
+  },
+  "kaldi-shibuya-tokyu-foodshow": {
+    "id": "kaldi-shibuya-tokyu-foodshow",
+    "status": "unverified",
+    "label": "KALDI 시부야 도큐푸드쇼",
+    "query": "カルディコーヒーファーム 渋谷 東急フードショー店, 東京都渋谷区道玄坂1-12-1 渋谷マークシティB1",
+    "address": "東京都渋谷区道玄坂1-12-1 渋谷マークシティB1",
+    "sourceURL": "https://www.tokyu-dept.co.jp/shibuya_foodshow/shop/kana_list.html?kana=%E3%82%AB",
+    "checkedAt": "2026-10-15",
+    "note": "공식 지점 주소 확인 · 개별 Google 핀 미검증, 주소 검색 결과를 확인하세요."
+  },
+  "montbell-shibuya": {
+    "id": "montbell-shibuya",
+    "status": "unverified",
+    "label": "몽벨 시부야점",
+    "query": "モンベル 渋谷店, 東京都渋谷区宇田川町11-5",
+    "address": "東京都渋谷区宇田川町11-5",
+    "sourceURL": "https://store.montbell.jp/search/shopinfo/?shop_no=618851",
+    "checkedAt": "2026-10-15",
+    "note": "공식 지점 주소 확인 · 개별 Google 핀 미검증, 주소 검색 결과를 확인하세요."
+  },
+  "ichiran-harajuku": {
+    "id": "ichiran-harajuku",
+    "status": "unverified",
+    "label": "이치란 하라주쿠점",
+    "query": "一蘭 原宿店, 東京都渋谷区神宮前6-5-6 サンポウ綜合ビル2F",
+    "address": "東京都渋谷区神宮前6-5-6 サンポウ綜合ビル2F",
+    "sourceURL": "https://ichiran.com/shop/tokyo/harajuku/",
+    "checkedAt": "2026-10-15",
+    "note": "공식 지점 주소·2층 확인. 개별 Google 핀은 미검증이므로 검색 결과의 하라주쿠 지점·주소를 확인하세요."
+  }
+}

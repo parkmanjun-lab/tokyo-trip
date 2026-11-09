@@ -1,0 +1,1380 @@
+{
+  "checkedAt": "2026-10-06",
+  "places": [
+    {
+      "id": "seveneleven-ginza1chome-chuo",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club",
+        "Discover",
+        "UnionPay"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 세븐일레븐 일본 공식 공통 안내",
+      "conditionsKo": [
+        "샌드위치·아이스크림 등 일반 상품 구매 기준. 요금 수납·우표·상품권·전자머니 충전 등은 카드 결제 제외",
+        "카드 일시불만 가능. 현금·다른 카드·전자머니와 혼합 결제 불가",
+        "10,001엔 이상 비접촉 결제 불가. UnionPay는 신용카드만 지원하며 비접촉·직불 결제는 불가"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://www.sej.co.jp/in/en/payment/",
+        "https://www.sej.co.jp/services/cash/credit.html",
+        "https://www.sej.co.jp/products/andst_shoplist.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "지점별 단말기 작동이나 실제 결제를 확인한 것은 아님. 일본 전체 매장 일반화가 아닌 세븐일레븐 운영사 공통 정책을 적용",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "bincho-ginza",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 가능 · 지점 공식 안내",
+      "conditionsKo": [
+        "공식 지점의 결제수단에 현금·카드·전자머니·QR 결제를 각각 명시",
+        "개별 카드 브랜드는 공식 지점 페이지에 미기재"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://hitsumabushi.co.jp/GzQfgPd_/Marronnier_Gate_Ginza"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "카드 최소 결제금액·해외 발급 카드 개별 제한은 공식 자료에서 미확인",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "brandCoverageKo": "개별 신용카드 브랜드는 공식 자료에서 미확인"
+    },
+    {
+      "id": "torigin-ginza",
+      "cardAccepted": false,
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 불가 · 점주 관리 안내",
+      "conditionsKo": [
+        "점주 관리 타베로그에 신용카드·전자머니·QR 결제 불가 명시",
+        "현금 전용이라는 직접 문구는 확인하지 못해 카드 불가와 현금 전용을 구분"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://tabelog.com/tokyo/A1301/A130101/13002571/",
+        "https://torigin-ginza.jp/map_disp/?br=br&ix=0&iy=0",
+        "https://torigin-ginza.jp/access/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "brandCoverageKo": "개별 신용카드 브랜드는 공식 자료에서 미확인"
+    },
+    {
+      "id": "highfive-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 확인 필요 · 공식 결제 안내 미확인",
+      "conditionsKo": [
+        "공식 홈페이지·지도·메뉴 페이지에서 매장 카드 사용 가능 여부와 브랜드를 찾지 못함",
+        "일반 지도·리뷰의 카드 가능 표시는 공식 확인값으로 사용하지 않음"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://www.barhighfive.com/",
+        "https://www.barhighfive.com/map",
+        "https://www.barhighfive.com/menu"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "bacchus-ginza",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 점주 관리 안내 확인",
+      "conditionsKo": [
+        "카드 최소 결제금액·해외 발급 카드 별도 조건은 미확인",
+        "사전 예약 규정은 결제수단과 별도. 현재 공식 홈페이지는 사전 전화예약제로 안내"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://bacchus.foodre.jp/",
+        "https://tabelog.com/tokyo/A1301/A130101/13265776/",
+        "https://www.ginza-bacchus.jp/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "thedeep-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 확인 필요 · 공식 결제 안내 미확인",
+      "conditionsKo": [
+        "공식 홈페이지에서 공연 차지·주문 조건은 안내하지만 카드 결제 가능 여부·브랜드는 찾지 못함",
+        "공연료와 최소 주문 조건은 카드 결제 가능 근거가 아님. 온라인 CD 판매점 결제도 매장과 별개"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://jazz-thedeep.com/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "sushinomidori-ginza",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "UnionPay"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 지점 공식 안내",
+      "conditionsKo": [
+        "공식 안내에 각종 신용카드 사용 가능, UnionPay(銀聯) 가능 명시",
+        "UnionPay만 가능한 뜻이 아님. 나머지 개별 브랜드는 해당 공식 페이지에서 미확인"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://www.sushinomidori.co.jp/shops/ginza/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "카드 최소 결제금액·해외 발급 카드 개별 제한은 공식 자료에서 미확인",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "brandCoverageKo": "확인된 브랜드만 표시. 목록에 없다고 사용할 수 없다는 뜻은 아님"
+    },
+    {
+      "id": "ichiran-shimbashi",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 식권 발매기 공식 안내",
+      "conditionsKo": [
+        "신바시점 식권 발매기에서 신용카드 5개 브랜드 사용 가능으로 안내",
+        "장비 유지보수 등에 따라 기재된 결제수단을 일시적으로 사용할 수 없을 수 있음"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://ichiran.com/shop/tokyo/shimbashi/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "카드 최소 결제금액·해외 발급 카드 개별 제한은 공식 자료에서 미확인",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "brandCoverageKo": "확인된 브랜드만 표시. 목록에 없다고 사용할 수 없다는 뜻은 아님"
+    },
+    {
+      "id": "monkichi-tsukishima",
+      "cardAccepted": false,
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 불가 · 본점 공식 안내",
+      "conditionsKo": [
+        "공식 본점 안내에 신용카드 사용 불가 명시. 현금만 가능·전자머니/QR도 불가라고 확대 해석하지 않음",
+        "본점 전화 03-3531-2380 기준. 신점·니시나카점과 구분하고 본점/지도 지점 표기 혼선 경고 유지"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://www.monkichi.co.jp/restaurant/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "카드 불가 안내의 게시 갱신일은 미기재. 전자머니·QR 결제 가능 여부 미확인",
+        "기존 본점/지도 지점 식별 문제는 해결된 것으로 취급하지 않음. Google Maps에서 결제수단을 검증한 결과가 아님",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "placeIdentityWarningKo": "본점(03-3531-2380) 기준 결제 안내. 지도 지점 표기 혼선이 있어 방문할 점포를 재확인"
+    },
+    {
+      "id": "tsunahachi-ginza",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "JCB"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 지점 공식 안내",
+      "conditionsKo": [
+        "공식 지점 페이지에 신용카드 사용 가능 명시",
+        "공식 연결 구루나비는 Visa·JCB·UC와 각종 카드 취급을 안내. 표시하지 않은 카드가 불가하다는 뜻은 아님"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://www.tunahachi.co.jp/store/15.html",
+        "https://r.gnavi.co.jp/g021913/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "카드 최소 결제금액·해외 발급 카드 개별 제한은 공식 자료에서 미확인",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "brandCoverageKo": "확인된 브랜드만 표시. 목록에 없다고 사용할 수 없다는 뜻은 아님"
+    },
+    {
+      "id": "ginza-hachigo",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "매장 신용카드 확인 필요 · 예약 카드 등록과 별개",
+      "conditionsKo": [
+        "공식 홈페이지·공식 연결 TableCheck는 식사대금을 방문 당일 매장에서 낸다고 안내하지만 현장 결제수단은 명시하지 않음",
+        "TableCheck 예약은 카드 정보 입력이 필요. 1인 500엔 예약 수수료와 늦은 취소·노쇼 시 1인 2,500엔은 매장 식사대금과 별개",
+        "공식 표시 Retty의 카드 가능 목록과 현금 전용 문구가 같은 페이지에서 상충하므로 어느 쪽도 확정하지 않음"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://katsumoto-japan.com/ja/ginza_hachigou.html",
+        "https://www.tablecheck.com/ja/shops/ginza-hachigou/reserve",
+        "https://retty.me/area/PRE13/ARE2/SUB201/100001452105/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "매장 카드 가능·불가와 현금 전용 여부 모두 미확정. 오래된 현금 전용 정보나 예약 카드 등록만으로 단정하지 않음",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "reservationPayment": {
+        "cardRequired": true,
+        "scope": "온라인 예약 수수료·취소 보증",
+        "feeJPYPerPerson": 500,
+        "lateCancellationJPYPerPerson": 2500,
+        "lateCancellationThresholdKo": "예약 시각 3시간 전을 지난 취소·노쇼",
+        "notProofOfInStoreCardAcceptance": true
+      }
+    },
+    {
+      "id": "tsujihan-nihonbashi",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 확인 필요 · 공식 결제 안내 미확인",
+      "conditionsKo": [
+        "공식 본점·홈페이지에서 카드 결제 여부를 찾지 못함",
+        "일반 이용자 수정이 가능한 외부 목록의 카드 불가 안내만으로 확정하지 않음"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://www.tsujihan-jp.com/blank",
+        "https://www.tsujihan-jp.com/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "brandCoverageKo": "개별 신용카드 브랜드는 공식 자료에서 미확인"
+    },
+    {
+      "id": "asakusa-imahan-kokusai",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club",
+        "UnionPay"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 본점 공식 안내",
+      "conditionsKo": [
+        "국제거리 본점 공식 안내에 현금·신용카드·QR·매장 식사권을 구분해 명시",
+        "공식 표기 카드사명: UC·DC·MC·SAISON·NICOS. 국제 결제 브랜드와 구분"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://www.asakusaimahan.co.jp/kokusai"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "카드 최소 결제금액·해외 발급 카드 개별 제한은 공식 자료에서 미확인",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "brandCoverageKo": "확인된 브랜드만 표시. 목록에 없다고 사용할 수 없다는 뜻은 아님"
+    },
+    {
+      "id": "maisen-aoyama",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 점주 관리 안내",
+      "conditionsKo": [
+        "아오야마 본점 이름·주소·전화가 공식 홈페이지와 일치하는 점주 관리 타베로그 기준",
+        "MAiSEN CARD 선불카드·온라인 쇼핑몰 결제수단을 매장 신용카드 근거로 사용하지 않음"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://mai-sen.com/restaurant/aoyama/",
+        "https://tabelog.com/tokyo/A1306/A130602/13001850/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "카드 최소 결제금액·해외 발급 카드 개별 제한은 공식 자료에서 미확인",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "brandCoverageKo": "확인된 브랜드만 표시. 목록에 없다고 사용할 수 없다는 뜻은 아님"
+    },
+    {
+      "id": "cafe-kimuraya-ginza",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club",
+        "Discover",
+        "UnionPay"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 2층 카페 공식 안내",
+      "conditionsKo": [
+        "2층 카페 페이지에서 신용카드 7개 브랜드 및 카드 터치 결제 가능 명시",
+        "1층 빵 판매점이나 다른 층의 결제수단을 가져온 정보가 아님"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://www.ginzakimuraya.jp/cafe-kimuraya/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "카드 최소 결제금액·해외 발급 카드 개별 제한은 공식 자료에서 미확인",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "brandCoverageKo": "확인된 브랜드만 표시. 목록에 없다고 사용할 수 없다는 뜻은 아님"
+    },
+    {
+      "id": "moheji-ueno",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 점주 관리 안내",
+      "conditionsKo": [
+        "우에노점(6-11-2, 03-6803-0083)의 점주 관리 안내 기준",
+        "우에노 분점(6-10-10)과 다른 지점. 카드 최소금액·추가 제한은 미확인"
+      ],
+      "minimumCardSpendKo": "공식 자료에서 최소 카드 결제금액 미확인",
+      "sourceUrls": [
+        "https://tabelog.com/tokyo/A1311/A131101/13230741/",
+        "https://kissuigroup.com/shop/#moheji_ueno"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "카드 최소 결제금액·해외 발급 카드 개별 제한은 공식 자료에서 미확인",
+        "2026-10-06 확인 기준. 2026-11-29~12-01 여행일의 결제 정책·단말기 상태는 달라질 수 있어 방문 전 재확인"
+      ],
+      "brandCoverageKo": "확인된 브랜드만 표시. 목록에 없다고 사용할 수 없다는 뜻은 아님"
+    },
+    {
+      "id": "acne-ginza-mitsukoshi",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "지점 카드 결제 확인 필요 · 미쓰코시 공통 안내는 카드 가능",
+      "conditionsKo": [
+        "긴자 미쓰코시 공식 해외고객 안내에는 Visa·Mastercard·JCB·AMEX·Diners·Discover가 표시됩니다. 다만 이 브랜드 매장의 현장 결제수단에 그대로 적용된다는 지점별 근거는 찾지 못해 확인 필요로 유지했습니다."
+      ],
+      "sourceUrls": [
+        "https://www.acnestudios.com/jp/ja/stores/ginza-mitsukoshi",
+        "https://www.mistore.jp/store/ginza/access.html",
+        "https://cp.mistore.jp/global/en/ginza.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "facility_policy_only_branch_unconfirmed"
+    },
+    {
+      "id": "muji-ginza",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "UnionPay"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 긴자점 공식 안내",
+      "conditionsKo": [
+        "긴자점 결제수단에 각종 신용카드와 은련카드를 명시합니다. 그 외 개별 카드 브랜드 목록은 해당 지점 안내에서 확인되지 않아 임의로 추가하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://www.muji.com/jp/ja/shop/detail/046604"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_payment_list"
+    },
+    {
+      "id": "celine-mitsukoshi",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "지점 카드 결제 확인 필요 · 미쓰코시 공통 안내는 카드 가능",
+      "conditionsKo": [
+        "긴자 미쓰코시 공식 해외고객 안내에는 Visa·Mastercard·JCB·AMEX·Diners·Discover가 표시됩니다. 다만 이 브랜드 매장의 현장 결제수단에 그대로 적용된다는 지점별 근거는 찾지 못해 확인 필요로 유지했습니다."
+      ],
+      "sourceUrls": [
+        "https://stores.celine.com/ja_jp/tokyo/chuo-ku/ginza-4-6-16",
+        "https://www.mistore.jp/store/ginza/access.html",
+        "https://cp.mistore.jp/global/en/ginza.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "facility_policy_only_branch_unconfirmed"
+    },
+    {
+      "id": "ami-mitsukoshi",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "지점 카드 결제 확인 필요 · 미쓰코시 공통 안내는 카드 가능",
+      "conditionsKo": [
+        "긴자 미쓰코시 공식 해외고객 안내에는 Visa·Mastercard·JCB·AMEX·Diners·Discover가 표시됩니다. 다만 이 브랜드 매장의 현장 결제수단에 그대로 적용된다는 지점별 근거는 찾지 못해 확인 필요로 유지했습니다."
+      ],
+      "sourceUrls": [
+        "https://www.mistore.jp/store/ginza/access.html",
+        "https://www.mistore.jp/store/ginza/shops/luxury/mode/shopnews_list/shopnews056.html",
+        "https://cp.mistore.jp/global/en/ginza.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "facility_policy_only_branch_unconfirmed"
+    },
+    {
+      "id": "gu-marronnier-ginza",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 가능 · GU 점포 공통 정책",
+      "conditionsKo": [
+        "공식 현장 결제 FAQ에 주요 신용카드 이용 가능으로 안내합니다. 이용 가능한 결제수단은 지점에 따라 다를 수 있으며, 마로니에 게이트점의 카드 브랜드별 목록은 확인되지 않았습니다. 온라인 주문 후 매장 결제 규정을 일반 현장 구매에 적용하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://faq.gu-global.com/articles/Knowledge/100009030/",
+        "https://www.marronniergate.com/shop/index/318"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "retailer_in_store_policy"
+    },
+    {
+      "id": "montbell-kyobashi",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club",
+        "UnionPay"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 도쿄 교바시점 공식 안내",
+      "conditionsKo": [
+        "도쿄 교바시점 공식 결제수단에 Visa·JCB·Mastercard·AMEX·Diners·은련 로고가 명시돼 있습니다."
+      ],
+      "sourceUrls": [
+        "https://store.montbell.jp/search/shopinfo/?shop_no=678502"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_payment_list"
+    },
+    {
+      "id": "standardproducts-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 결제 확인 필요",
+      "conditionsKo": [
+        "Standard Products 마로니에 게이트 긴자점 공식 서비스 목록에는 QR 결제수단만 보이며 신용카드 가능·불가가 명시돼 있지 않습니다. 같은 층의 DAISO 등 다른 점포 정책을 이 점포에 적용하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://www.daiso-sangyo.co.jp/shop/detail/009170"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_unconfirmed"
+    },
+    {
+      "id": "stussy-dsm-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 결제 확인 필요",
+      "conditionsKo": [
+        "DSM 긴자 매장·층별 안내에서는 현장 카드 결제수단을 확인하지 못했습니다. 별도로 찾은 DSMG E-SHOP 카드 정책은 온라인 구매용이므로 이 오프라인 매장에 적용하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://ginza.doverstreetmarket.com/pages/contact",
+        "https://ginza.doverstreetmarket.com/pages/floorguide",
+        "https://shop-jp.doverstreetmarket.com/pages/faqs_payment-taxes-duties_payment-methods"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_unconfirmed"
+    },
+    {
+      "id": "supreme-dsm-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 결제 확인 필요",
+      "conditionsKo": [
+        "DSM 긴자 매장·층별 안내에서는 현장 카드 결제수단을 확인하지 못했습니다. 별도로 찾은 DSMG E-SHOP 카드 정책은 온라인 구매용이므로 이 오프라인 매장에 적용하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://ginza.doverstreetmarket.com/pages/contact",
+        "https://ginza.doverstreetmarket.com/pages/floorguide",
+        "https://shop-jp.doverstreetmarket.com/pages/faqs_payment-taxes-duties_payment-methods"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_unconfirmed"
+    },
+    {
+      "id": "cdg-dsm-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 결제 확인 필요",
+      "conditionsKo": [
+        "DSM 긴자 매장·층별 안내에서는 현장 카드 결제수단을 확인하지 못했습니다. 별도로 찾은 DSMG E-SHOP 카드 정책은 온라인 구매용이므로 이 오프라인 매장에 적용하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://ginza.doverstreetmarket.com/pages/contact",
+        "https://ginza.doverstreetmarket.com/pages/floorguide",
+        "https://shop-jp.doverstreetmarket.com/pages/faqs_payment-taxes-duties_payment-methods"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_unconfirmed"
+    },
+    {
+      "id": "danton-bshop-yurakucho",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 결제 확인 필요",
+      "conditionsKo": [
+        "공식 지점 안내는 루미네카드 WEB 결제 서비스 대응을 확인해 줍니다. 일반 현장 구매 시 사용할 수 있는 카드 목록은 별도로 확인되지 않았습니다. Bshop 온라인몰의 해외발급 카드 제한을 현장 매장에 적용하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://www.lumine.ne.jp/yurakucho/floorguide/detail/?scd=003254",
+        "https://secure.lumine.ne.jp/yurakucho/topics/detail/?cd=000185"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_unconfirmed"
+    },
+    {
+      "id": "celine-ginza-six",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 결제 확인 필요",
+      "conditionsKo": [
+        "공식 브랜드/GINZA SIX 지점 페이지에서 현장 신용카드 결제수단을 확인하지 못했습니다. GINZA SIX 발레파킹·라운지의 카드 결제 안내나 포인트 대상 여부만으로 이 입점 매장의 결제수단을 확정하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://stores.celine.com/ja_jp/tokyo/chuo-ku/ginza-6-10-1",
+        "https://ginza6.tokyo/hours/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_unconfirmed"
+    },
+    {
+      "id": "ami-ginza-six",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 결제 확인 필요",
+      "conditionsKo": [
+        "공식 브랜드/GINZA SIX 지점 페이지에서 현장 신용카드 결제수단을 확인하지 못했습니다. GINZA SIX 발레파킹·라운지의 카드 결제 안내나 포인트 대상 여부만으로 이 입점 매장의 결제수단을 확정하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://ginza6.tokyo/shops/detail/5343004/?tenant_cd=5343004",
+        "https://ginza6.tokyo/hours/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_unconfirmed"
+    },
+    {
+      "id": "arcteryx-ginza-six",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 결제 확인 필요",
+      "conditionsKo": [
+        "공식 브랜드/GINZA SIX 지점 페이지에서 현장 신용카드 결제수단을 확인하지 못했습니다. GINZA SIX 발레파킹·라운지의 카드 결제 안내나 포인트 대상 여부만으로 이 입점 매장의 결제수단을 확정하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://ginza6.tokyo/shops/detail/3528007/?tenant_cd=3528007",
+        "https://arcteryx.jp/pages/storelist",
+        "https://ginza6.tokyo/hours/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_unconfirmed"
+    },
+    {
+      "id": "liquor-mountain-ginza777",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 가능 · 리커 마운틴 점포 공통 안내",
+      "conditionsKo": [
+        "운영사 공식 홈페이지·매장 멤버십 FAQ는 신용카드 현장 결제를 다룹니다. 긴자777 지점의 브랜드별 카드 목록은 별도 명시가 없어 카드 종류는 매장 확인이 필요합니다."
+      ],
+      "sourceUrls": [
+        "https://www.likaman.co.jp/",
+        "https://www.likaman.jp/homes/inquire",
+        "https://www.likaman.co.jp/en/shop/tokyo/chuo-ku/8466.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "retailer_in_store_policy"
+    },
+    {
+      "id": "humanmade-harajuku",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Mastercard (Hills Card)"
+      ],
+      "paymentSummaryKo": "카드 결제 근거 있음 · Hills Mastercard 확인",
+      "conditionsKo": [
+        "라포레 공식 HUMAN MADE 하라주쿠점 페이지에 신용카드 포인트 대상 매장으로 명시되고, 포인트 안내는 Hills Mastercard 결제에 적용됩니다. 시설 공통 안내의 다른 카드 브랜드를 이 지점에 일괄 적용하지 않았으므로 일반 해외발급 카드 종류는 매장 확인이 필요합니다."
+      ],
+      "sourceUrls": [
+        "https://www.laforet.ne.jp/en/shop_search/shop521",
+        "https://www.laforet.ne.jp/special/hillscard/",
+        "https://www.laforet.ne.jp/guide/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_credit_card_program",
+      "badgeKo": "Hills Mastercard 확인"
+    },
+    {
+      "id": "kaldi-yaechika",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 가능 · KALDI 점포 공통 정책",
+      "conditionsKo": [
+        "KALDI 공식 실매장 FAQ에 주요 카드 이용 가능으로 명시합니다. 입점 시설 운영에 따라 사용 가능한 카드 종류가 달라 야에치카점의 브랜드별 사용 가능 여부는 확인이 필요합니다."
+      ],
+      "sourceUrls": [
+        "https://www.kaldi.co.jp/faq/shopinfo/using/post001.html",
+        "https://www.yaechika.com/shop/sp384/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "retailer_in_store_policy"
+    },
+    {
+      "id": "arcteryx-tokyo-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 결제 확인 필요",
+      "conditionsKo": [
+        "공식 매장 공지에는 2022-11-30 통신 장애로 카드 결제가 중단됐다가 다음 날 통신이 복구됐다는 과거 기록이 있습니다. 현재 결제수단 목록은 확인되지 않아 4년 전 기록만으로 현시점 카드 가능을 확정하지 않았습니다."
+      ],
+      "sourceUrls": [
+        "https://arcteryxtokyoginza.jp/",
+        "https://arcteryxtokyoginza.jp/blogs/blog?page=2"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "branch_unconfirmed"
+    },
+    {
+      "id": "extra-tokyo-character-street",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club",
+        "Discover",
+        "UnionPay"
+      ],
+      "paymentSummaryKo": "카드 사용 가능 매장 있음 · 개별 점포 예외",
+      "conditionsKo": [
+        "도쿄역 일번가 공식 서비스 안내에 주요 카드 이용 가능과 일부 점포 예외가 함께 명시됩니다. 단일 매장이 아닌 구역이므로 모든 점포·팝업·가챠 결제를 보장하지 않습니다. Sanrio 도쿄 캐릭터 스트리트점은 공식 지점 안내로 카드 사용을 별도 확인했습니다."
+      ],
+      "sourceUrls": [
+        "https://www.tokyoeki-1bangai.co.jp/serviceguide/",
+        "https://stores.sanrio.co.jp/8865100"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "multi_tenant_facility_with_exceptions",
+      "badgeKo": "카드 가능 · 매장별 예외"
+    },
+    {
+      "id": "extra-biccamera-yurakucho",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club",
+        "UnionPay"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 빅카메라 점포 공통 정책",
+      "conditionsKo": [
+        "빅카메라 공식 현장 결제 안내에 주요 카드 브랜드가 명시됩니다. 결제수단·면세 등에 따라 포인트 조건은 달라질 수 있으며 온라인몰 결제 규정과 구분했습니다."
+      ],
+      "sourceUrls": [
+        "https://www.biccamera.com/bc/c/super/okaimono/oshiharai/oshiharai/index.jsp",
+        "https://www.biccamera.com/bc/i/shop/shoplist/shop014.jsp"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "retailer_in_store_policy"
+    },
+    {
+      "id": "extra-shibuya-parco",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "UnionPay"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 일부 입점 매장 예외",
+      "conditionsKo": [
+        "시부야 PARCO 공식 안내에 카드 터치결제·Visa/Mastercard·은련 결제를 명시합니다. 일부 매장 제외가 있으므로 모든 테넌트를 보장하지 않습니다. 15,000엔 초과 시 터치 대신 카드 삽입 등 다른 조작이 필요할 수 있으며, 이는 카드 총 결제한도 안내가 아닙니다."
+      ],
+      "sourceUrls": [
+        "https://shibuya.parco.jp/info/?gcd=facilities"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "multi_tenant_facility_with_exceptions",
+      "badgeKo": "카드 가능 · 매장별 예외"
+    },
+    {
+      "id": "extra-isetan-shinjuku",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club",
+        "Discover"
+      ],
+      "paymentSummaryKo": "신용카드 가능 · 일부 상품·매장 예외",
+      "conditionsKo": [
+        "이세탄 신주쿠 공식 지점 안내와 현장 결제 안내에서 확인했습니다. 일부 대상 제외 상품·매장이 있으므로 개별 매장이나 특수 거래까지 일괄 보장하지 않습니다."
+      ],
+      "sourceUrls": [
+        "https://cp.mistore.jp/global/en/shinjuku.html",
+        "https://www.mistore.jp/store/shinjuku/service/code_payment.html"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "department_store_with_exceptions",
+      "badgeKo": "카드 가능 · 매장별 예외"
+    },
+    {
+      "id": "extra-kappabashi",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "점포마다 다름 · 카드 결제 확인 필요",
+      "conditionsKo": [
+        "독립 점포가 모인 상점가로 공통 결제수단을 확인할 수 없습니다. 동선 시작점 니이미 양식기점 공식 홈페이지에도 카드 목록은 명시돼 있지 않습니다. 방문할 개별 점포 확인과 현금 준비가 필요합니다."
+      ],
+      "sourceUrls": [
+        "https://www.kappabashi.or.jp/qa/",
+        "https://niimi1907.com/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "2026-10-06 확인 기준. 여행일의 카드 정책·단말기·매장별 제외 조건은 방문 전 재확인"
+      ],
+      "brandCoverageKo": "명시적으로 확인한 브랜드만 표시. 다른 브랜드 지원 여부와 해외 발급 카드 승인은 별도 확인 필요",
+      "evidenceScope": "shopping_district_individual_shops"
+    },
+    {
+      "id": "pain-maison-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "공식 카드 수용 미확인",
+      "conditionsKo": [
+        "여행일 결제수단 및 해외 발급 카드 수용은 재확인",
+        "보조 자료에는 카드 가능 표기가 있으나, 공식 지점 근거가 확인되지 않아 미확인으로 표시합니다"
+      ],
+      "sourceUrls": [
+        "https://shiopan-maison.com/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "방문일 결제수단·해외 발급 카드·판매대별 조건은 다시 확인해주세요"
+      ]
+    },
+    {
+      "id": "bongen-coffee-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "공식 카드 수용 미확인",
+      "conditionsKo": [
+        "여행일 결제수단 및 해외 발급 카드 수용은 재확인",
+        "보조 자료에는 카드 가능 표기가 있으나, 공식 지점 근거가 확인되지 않아 미확인으로 표시합니다"
+      ],
+      "sourceUrls": [
+        "https://ginza-bongen.jp/location/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "방문일 결제수단·해외 발급 카드·판매대별 조건은 다시 확인해주세요"
+      ]
+    },
+    {
+      "id": "tricolore-ginza-honten",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [],
+      "paymentSummaryKo": "카드 가능 · 매장 관리 타베로그 확인",
+      "conditionsKo": [
+        "여행일 결제수단 및 해외 발급 카드 수용은 재확인"
+      ],
+      "sourceUrls": [
+        "https://tabelog.com/tokyo/A1301/A130101/13007761/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "방문일 결제수단·해외 발급 카드·판매대별 조건은 다시 확인해주세요"
+      ]
+    },
+    {
+      "id": "city-bakery-ginza-inz",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "공식 카드 수용 미확인",
+      "conditionsKo": [
+        "여행일 결제수단 및 해외 발급 카드 수용은 재확인",
+        "보조 자료에는 카드 가능 표기가 있으나, 공식 지점 근거가 확인되지 않아 미확인으로 표시합니다"
+      ],
+      "sourceUrls": [
+        "https://thecitybakery.jp/news/inz"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "방문일 결제수단·해외 발급 카드·판매대별 조건은 다시 확인해주세요"
+      ]
+    },
+    {
+      "id": "le-petit-mec-hibiya",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "공식 지점 카드 수용 미확인",
+      "conditionsKo": [
+        "여행일 결제수단 및 해외 발급 카드 수용은 재확인"
+      ],
+      "sourceUrls": [
+        "https://www.hibiya-chanter.com/floorguide/detail/?scd=000010"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "방문일 결제수단·해외 발급 카드·판매대별 조건은 다시 확인해주세요"
+      ]
+    },
+    {
+      "id": "viron-marunouchi-bakery",
+      "cardAccepted": false,
+      "cashOnly": true,
+      "cardBrands": [],
+      "paymentSummaryKo": "베이커리 포장은 현금만",
+      "conditionsKo": [
+        "매장 안내에 포장은 현금만이라고 명시. 옆 브라세리 카드 정책에 일반화하지 않기; 여행 전 재확인"
+      ],
+      "sourceUrls": [
+        "https://tabelog.com/tokyo/A1302/A130201/13043904/"
+      ],
+      "checkedAt": "2026-10-06",
+      "uncertainties": [
+        "방문일 결제수단·해외 발급 카드·판매대별 조건은 다시 확인해주세요"
+      ],
+      "badgeKo": "빵 포장 현금만"
+    },
+    {
+      "id": "donki-ginza-main",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 가능 · 지점 공식 안내",
+      "conditionsKo": [
+        "공식 지점은 신용카드·UnionPay 및 한국 간편결제 일부를 안내",
+        "majica 이외 전자머니는 일부 계산대만 이용 가능"
+      ],
+      "sourceUrls": [
+        "https://www.donki.com/store/shop_detail.php?shop_id=92"
+      ],
+      "checkedAt": "2026-10-07",
+      "uncertainties": [
+        "개별 카드 브랜드·해외 발급 카드 제한은 미확인",
+        "여행일 정책·단말기 상태는 재확인"
+      ]
+    },
+    {
+      "id": "lush-yurakucho-marui",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "신용카드 확인 필요 · 지점별 안내",
+      "conditionsKo": [
+        "공식 FAQ는 지점마다 결제수단이 다르므로 방문점에 문의하도록 안내",
+        "온라인 결제수단을 이 지점 카드 정책으로 적용하지 않음"
+      ],
+      "sourceUrls": [
+        "https://helpfeel.com/lushjp-faq/%E6%94%AF%E6%89%95%E3%81%84%E6%96%B9%E6%B3%95%EF%BC%88%E5%BA%97%E8%88%97%EF%BC%89-649a50e6af32bb001bf96ab4",
+        "https://www.lush.com/jp/ja/shops/lush?id=JP206"
+      ],
+      "checkedAt": "2026-10-07",
+      "uncertainties": [
+        "유라쿠초 마루이점 카드 브랜드·사용 가능 여부는 미확인"
+      ]
+    },
+    {
+      "id": "ginza-mitsukoshi",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club",
+        "Discover",
+        "UnionPay"
+      ],
+      "paymentSummaryKo": "주요 신용카드 가능 · 백화점 공식 안내",
+      "conditionsKo": [
+        "일부 상품·숍은 결제수단 적용 제외 가능",
+        "QR결제 안내가 있으나 결제수단별 이용 조건은 계산대에서 확인"
+      ],
+      "minimumCardSpendKo": "최소 카드 결제금액 공식 확인 없음",
+      "sourceUrls": [
+        "https://cp.mistore.jp/global/ko/ginza.html",
+        "https://www.mistore.jp/store/ginza/service/faq.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "uncertainties": [
+        "Suica·PASMO·iD·QUICPay 등 IC 전자화폐는 확인필요",
+        "여행일 결제 정책·매장별 예외는 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "shabuki-ginza",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "American Express",
+        "Diners Club",
+        "JCB"
+      ],
+      "paymentSummaryKo": "카드·Apple Pay·PayPay·Alipay 가능",
+      "conditionsKo": [],
+      "sourceUrls": [
+        "https://ginza-shabuki.hapyres.com/",
+        "https://ginza-shabuki.owst.jp/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·결제수단은 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "moheji-shibuya-scramble-square",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "시설 공통 안내는 카드·전자머니·QR 결제 지원. 점포별 예외가 있어 모헤지의 개별 결제수단은 확인 필요",
+      "conditionsKo": [],
+      "sourceUrls": [
+        "https://www.shibuya-scramble-square.com/shops_restaurants/shop_77.html",
+        "https://shibuya-scramble-square.com/faq/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·결제수단은 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "kanda-yabusoba",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "공식 결제수단 미확인; 카드 불가로 단정하지 말 것",
+      "conditionsKo": [],
+      "sourceUrls": [
+        "https://www.yabusoba.net/shop/",
+        "https://www.yabusoba.net/reserve/",
+        "https://visit-chiyoda.tokyo/app/spot/detail/382"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·결제수단은 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "sato-yosuke-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "공식 매장 페이지에 결제수단 미기재. 제3자 지도에는 카드·QR 가능 안내가 있으나 공식 재확인 필요",
+      "conditionsKo": [],
+      "sourceUrls": [
+        "https://www.sato-yoske.co.jp/shop/ginza/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·결제수단은 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "shinanoya-ginza",
+      "cardAccepted": "unknown",
+      "cashOnly": "unknown",
+      "cardBrands": [],
+      "paymentSummaryKo": "공식 매장별 카드 브랜드·결제수단 미확인",
+      "conditionsKo": [],
+      "sourceUrls": [
+        "https://shinanoya.co.jp/shop/ginza.html"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·결제수단은 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "bouya-nihonbashi",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club"
+      ],
+      "paymentSummaryKo": "카드·교통계 전자머니·Edy·iD·QUICPay 및 주요 QR 결제 가능(업장 등록 식べ로그 안내)",
+      "conditionsKo": [],
+      "sourceUrls": [
+        "https://www.bou-ya.com/information/102.html",
+        "https://issei-inc.co.jp/service02/",
+        "https://booking.ebica.jp/webrsv/search/e014076701/25219?isfixshop=true",
+        "https://tabelog.com/tokyo/A1302/A130202/13117977/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·결제수단은 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "hirokiya-shibuya",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club"
+      ],
+      "paymentSummaryKo": "공식 안내: 카드·전자머니·QR 가능. 단, 예약 플랫폼은 점심 현금만 안내하므로 점심 방문 시 현금 준비·재확인",
+      "conditionsKo": [
+        "점심 현금 한정 안내와 공식 일반 결제 안내를 구분"
+      ],
+      "sourceUrls": [
+        "https://hirokiya-group.com/shibuya/ja",
+        "https://www.hotpepper.jp/strJ003671311/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·결제수단은 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "panga-ueno",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club"
+      ],
+      "paymentSummaryKo": "카드·교통계 전자머니·Edy·nanaco·WAON·iD·QUICPay 및 주요 QR 결제 가능(업장 등록 식べ로그)",
+      "conditionsKo": [],
+      "sourceUrls": [
+        "https://www.wagyu-panga.jp/index.html",
+        "https://www.wagyu-panga.jp/indexen.html",
+        "https://tabelog.com/tokyo/A1311/A131101/13303729/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·결제수단은 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "unafuji-midtown-yaesu",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [],
+      "paymentSummaryKo": "공식: 현금·카드·전자머니·상품권·QR 결제 가능; 개별 브랜드 미기재",
+      "conditionsKo": [],
+      "sourceUrls": [
+        "https://sumiyaki-unafuji.com/shops/yaesu/",
+        "https://www.yaesu.tokyo-midtown.com/shop-restaurant/detail/30400"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·결제수단은 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "unafuji-yurakucho",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [],
+      "paymentSummaryKo": "공식: 현금·카드·전자머니·QR 결제 가능; 개별 브랜드 미기재",
+      "conditionsKo": [],
+      "sourceUrls": [
+        "https://sumiyaki-unafuji.com/shops/ginza/",
+        "https://sumiyaki-unafuji.com/information/booking/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·결제수단은 방문 전 재확인"
+      ]
+    },
+    {
+      "id": "meatman-roppongi",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [],
+      "paymentSummaryKo": "공식사이트 신용카드 이용 가능",
+      "conditionsKo": [
+        "예약 카드 보증과 현장 결제는 별도입니다"
+      ],
+      "sourceUrls": [
+        "https://teyandei.com/?page_id=11",
+        "https://www.tablecheck.com/en/shops/meatman-roppongi/reserve"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "여행일·해외 발급 카드 조건 재확인"
+      ]
+    },
+    {
+      "id": "ginza-marui",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [],
+      "paymentSummaryKo": "Google Maps 소유자2026-09-06 게시: 현금,Visa,Mastercard,Amex,Diners,JCB,UnionPay; 교통IC/코드결제 불가",
+      "conditionsKo": [
+        "Google 매장 소유자2026.09.06 게시 확인"
+      ],
+      "sourceUrls": [
+        "https://www.google.com/maps/place/긴자스시+마루이/@35.6718696,139.7649788,17z/data=!3m2!4b1!5s0x60188be6b44391bd:0x15e59911ff8768a3!4m6!3m5!1s0x60188be6b469e231:0xf1a224ba69360c40!8m2!3d35.6718653!4d139.7675537!16s%2Fg%2F1vxw87r3"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "여행일·해외 발급 카드 조건 재확인"
+      ]
+    },
+    {
+      "id": "ushigoro-bambina-ginza",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "American Express",
+        "JCB",
+        "Diners Club"
+      ],
+      "paymentSummaryKo": "공식 매장 안내에서 현장 신용카드 결제 지원 확인",
+      "conditionsKo": [
+        "매장 결제 지원이며 예약 카드 보증과는 별개예요."
+      ],
+      "sourceUrls": [
+        "https://ushigoro-bambina.com/shop-info/ginza/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드와 실제 결제 조건은 방문 전 확인"
+      ]
+    },
+    {
+      "id": "old-imperial-bar",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "American Express",
+        "Visa",
+        "Mastercard",
+        "DC",
+        "Diners Club",
+        "JCB"
+      ],
+      "paymentSummaryKo": "공식 매장 안내에서 현장 신용카드 결제 지원 확인",
+      "conditionsKo": [
+        "매장 결제 지원이며 예약 카드 보증과는 별개예요."
+      ],
+      "sourceUrls": [
+        "https://www.imperialhotel.co.jp/tokyo/restaurant/old-imperialbar"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드와 실제 결제 조건은 방문 전 확인"
+      ]
+    },
+    {
+      "id": "ichiran-harajuku",
+      "cardAccepted": true,
+      "cashOnly": false,
+      "cardBrands": [
+        "Visa",
+        "Mastercard",
+        "JCB",
+        "American Express",
+        "Diners Club"
+      ],
+      "paymentSummaryKo": "공식 지점 안내에서 발매기 신용카드·교통IC·QR 결제 지원 확인",
+      "conditionsKo": [
+        "장비 점검 등으로 일부 결제수단 이용이 제한될 수 있어요."
+      ],
+      "sourceUrls": [
+        "https://ichiran.com/shop/tokyo/harajuku/"
+      ],
+      "checkedAt": "2026-10-15",
+      "uncertainties": [
+        "해외 발급 카드·실제 결제 가능 여부는 현장 확인"
+      ]
+    }
+  ]
+}

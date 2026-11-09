@@ -1,0 +1,17 @@
+import assert from 'node:assert/strict';
+import {combinedRecommendations,additionalRecommendations} from '/tmp/tokyo-list-tests/place-lists.mjs';
+import {catalog,extraCatalog,registeredCatalog} from '/tmp/tokyo-list-tests/catalog.mjs';
+assert.equal(combinedRecommendations.length,new Set([...catalog,...extraCatalog].map(r=>r.id)).size);
+assert.equal(combinedRecommendations.length,44);
+assert.ok(registeredCatalog.every(r=>!combinedRecommendations.some(x=>x.id===r.id)));
+const r=combinedRecommendations[0];
+const entry={id:'saved',title:r.title,place:r.address,catalogId:r.id,day:null,category:'기타',area:'',time:'',duration:0,note:'내 메모'};
+const before=JSON.stringify(entry);
+assert.ok(!additionalRecommendations([entry]).some(x=>x.id===r.id));
+assert.equal(JSON.stringify(entry),before);
+assert.equal(additionalRecommendations([{...entry,place:'다른 지점 주소'}]).length,44);
+assert.equal(additionalRecommendations([{...entry,title:'직접 추가한 다른 장소',catalogId:undefined,place:''}]).length,44);
+assert.equal(additionalRecommendations([entry, {...entry,id:'second',note:'별도 메모'}]).length,43);
+assert.equal(additionalRecommendations([],combinedRecommendations.filter(x=>x.id===r.id)).length,1);
+assert.equal(combinedRecommendations.filter(r=>/카페|빵집|베이커리/.test(r.category)).length,7);
+console.log('PASS merged 44 recommendations, registered-only exclusions, display-only dedup, changed-address isolation, custom entries, saved note preservation, filtered union, seven cafes');

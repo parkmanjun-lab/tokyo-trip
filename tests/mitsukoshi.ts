@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {allCatalog,matchEntry} from '../lib/catalog';
+import {reviewEntry} from '../lib/review-index';
+import {mapTarget,hasPlaceIdentity,targetWebUrl,iosPlaceUrl} from '../lib/map-targets';
+import {placeHours} from '../lib/place-hours';
+import payments from '../lib/place-payments.json';
+const r=allCatalog.find(r=>r.id==='ginza-mitsukoshi')!;
+assert.ok(r);assert.equal(allCatalog.filter(p=>p.id===r.id).length,1);assert.equal(r.walking?.timeLabel,'약 7분');assert.equal(r.walking?.distanceLabel,null);
+const base={id:'1601c64b-f5ba-4761-9308-cedab904f3fe',title:'미츠코시 백화점',place:'미츠코시 백화점',area:'',category:'구경' as const,day:null,time:'',duration:0,note:''};
+assert.equal(matchEntry(base),undefined);assert.equal(reviewEntry(base).status,'pending');
+const confirmed={...base,place:r.address,area:r.area,catalogId:r.id};
+assert.equal(matchEntry(confirmed)?.id,r.id);assert.equal(reviewEntry(confirmed).status,'reviewed');assert.equal(reviewEntry({...confirmed,place:'다른 지점'}).status,'pending');
+const m=mapTarget(r.id)!;assert.ok(hasPlaceIdentity(m));assert.equal(m.coordinates?.lat,35.6712864);assert.ok(iosPlaceUrl(targetWebUrl(m)).startsWith('comgooglemapsurl://'));
+const h=placeHours(r.id)!;assert.equal(h.days.length,3);assert.ok(h.days.every(d=>d.status==='needs_confirmation'));assert.equal(payments.places.find(p=>p.id===r.id)?.cardAccepted,true);
+assert.equal(payments.places.length,allCatalog.length);console.log('PASS Ginza Mitsukoshi identity, matching, map, official walking minutes, future-hours uncertainty and payment coverage');

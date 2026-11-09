@@ -1,0 +1,9 @@
+import assert from 'node:assert/strict';import fs from 'node:fs';import vm from 'node:vm';
+import {PHRASES,PHRASE_CATEGORIES,searchPhrases,phraseText,phraseMeaning,localJapaneseVoice} from '/tmp/tokyo-phrase-tests/japanese-phrases.mjs';
+const source={window:{}};vm.createContext(source);vm.runInContext(fs.readFileSync('/workspace/shared/japan_phrase_cards/dist/data.js','utf8'),source);
+assert.equal(JSON.stringify(PHRASES),JSON.stringify(source.window.PHRASES));assert.equal(JSON.stringify(PHRASE_CATEGORIES),JSON.stringify(source.window.CATEGORIES));assert.equal(PHRASES.length,34);
+for(const [q,n]of [['카드',1],['짐 보관',2],['두명',1],['포장',1],['qwerasdf',0]])assert.equal(searchPhrases(q).length,n,q);assert.equal(searchPhrases('','stay').length,4);
+const table=PHRASES.find(p=>p.id==='table');for(const n of [1,2,3,4]){assert.ok(phraseText(table,n).includes(['','一名','二名','三名','四名'][n]));assert.ok(phraseMeaning(table,n).includes(['','한 명','두 명','세 명','네 명'][n]));}
+const remote={lang:'ja-JP',localService:false},local={lang:'ja-JP',localService:true};assert.equal(localJapaneseVoice([remote]),null);assert.equal(localJapaneseVoice([{lang:'en-US',localService:true},remote,local]),local);
+const code=fs.readFileSync('app/japanese-phrases.tsx','utf8');assert.doesNotMatch(code,/fetch\(|XMLHttpRequest|localStorage|sessionStorage|<iframe/);assert.match(code,/navigator.clipboard.writeText/);assert.match(code,/pagehide/);const css=fs.readFileSync('app/globals.css','utf8');assert.match(css,/\.jp-dialog\[open\]\{display:flex;flex-direction:column/);assert.match(css,/height:100dvh/);assert.match(css,/\.jp-display\{flex:1 1 auto;min-height:0;overflow-y:auto/);
+console.log('PASS original 34 phrases preserved; search/category/party variants; local Japanese voice only; no phrase network/storage/iframe; bounded fullscreen layout');
