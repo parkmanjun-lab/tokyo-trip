@@ -1,2 +1,2 @@
 // Generated once per build; shared by the client and version endpoint.
-export const APP_BUILD_VERSION='tokyo-mwg5n6vo-9ec066a7';
+export const APP_BUILD_VERSION='tokyo-mwg6jp04-c8efce8b';
