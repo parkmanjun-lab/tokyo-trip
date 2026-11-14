@@ -7,7 +7,7 @@ export const emptyShoppingDraft:ShoppingDraft={id:null,place:'',item:'',base:nul
 export default function ShoppingList({items,pendingId,draft,locked,onDraft,onSubmit,onEdit,onToggle,onDelete,onComposition}:{items:ShoppingItem[],pendingId:string|null,draft:ShoppingDraft,locked:boolean,onDraft:(draft:ShoppingDraft)=>void,onSubmit:()=>void,onEdit:(item:ShoppingItem)=>boolean,onToggle:(id:string)=>void,onDelete:(id:string)=>void,onComposition:(active:boolean)=>void}){
  const itemInput=useRef<HTMLInputElement>(null);
  const done=items.filter(x=>x.done).length;
- return <><div className="section-top"><h2>쇼핑목록</h2><span className="progress-count">{done}<span> / {items.length}</span></span></div>
+ return <><div className="section-top"><h2>쇼핑목록</h2><span className="progress-count"><b className="count-roll" key={done}>{done}</b><span> / {items.length}</span></span></div>
  <div className="progress-track shopping-progress" role="progressbar" aria-label="쇼핑 완료" aria-valuenow={done} aria-valuemin={0} aria-valuemax={items.length||1}><div style={{width:`${items.length?done/items.length*100:0}%`}}/></div>
  <form className={`shopping-add shopping-add-compact ${draft.id?'is-editing':''}`} onSubmit={e=>{e.preventDefault();onSubmit()}} onCompositionStart={()=>onComposition(true)} onCompositionEnd={()=>onComposition(false)}>
   <label><span>장소</span><input aria-label="구매할 장소" value={draft.place} onChange={e=>onDraft({...draft,place:e.target.value})} disabled={locked} maxLength={180} list="shopping-store-options" placeholder="매장 이름 · 미정이면 비워두기"/></label>

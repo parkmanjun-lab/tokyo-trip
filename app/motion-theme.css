@@ -1,0 +1,141 @@
+/* Motion theme layer (2026-11). It loads after globals.css and only changes look and motion. It does not hide or remove any control. */
+:root{
+ --bg:#EEF1F2;--paper:#FFFFFF;--ink:#16202A;--muted:#56626C;--line:#D5DBDF;--soft:#E8EDF0;
+ --green:#0B6E65;--accent:#B0520A;
+ --d1:#C25E0C;--d2:#0B7A70;--d3:#3550C8;--on-day:#FFFFFF;--heart:#C9303F;
+ --sans:"IBM Plex Sans KR",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif;
+ --num:"Archivo","Helvetica Neue",Arial,sans-serif;
+ --ease-out:cubic-bezier(.22,1,.36,1);--spring:cubic-bezier(.2,.9,.25,1.12);
+}
+html,body{background:var(--bg)}
+body{font-family:var(--sans);color:var(--ink)}
+button,input,select,textarea{font-family:inherit}
+.app-header{background:var(--bg)}
+.startup-shell{color:var(--ink);font-family:var(--sans)}
+.progress-count,.date-tabs strong,.schedule-time strong{font-family:var(--num);font-variant-numeric:tabular-nums}
+
+/* Day colors: one line color per trip day. */
+.date-tabs button:nth-child(1),.timeline[data-line="1"]{--c:var(--d1)}
+.date-tabs button:nth-child(2),.timeline[data-line="2"]{--c:var(--d2)}
+.date-tabs button:nth-child(3),.timeline[data-line="3"]{--c:var(--d3)}
+.timeline{--c:var(--d2)}
+
+/* Date tabs with a sliding bar under the selected day. */
+.date-tabs{position:relative}
+.date-tabs button{background:transparent;transition:color .2s}
+.date-tabs .line-badge{display:inline-grid;place-items:center;width:20px;height:20px;border-radius:50%;background:var(--c);color:var(--on-day);font:800 11px/1 var(--num);flex:0 0 auto;transition:transform .3s var(--spring)}
+.date-tabs button.selected .line-badge{transform:scale(1.12)}
+.date-tabs button.selected strong{color:var(--ink)}
+@media(max-width:720px){
+ .date-tabs{gap:0}
+ .date-tabs:after{content:'';position:absolute;left:0;bottom:0;height:3px;width:calc(100% / 3);border-radius:3px;background:var(--d1);transform:translateX(calc(var(--i,0) * 100%));transition:transform .38s var(--spring),background-color .3s}
+ .date-tabs[style*="--i:1"]:after,.date-tabs[style*="--i: 1"]:after{background:var(--d2)}
+ .date-tabs[style*="--i:2"]:after,.date-tabs[style*="--i: 2"]:after{background:var(--d3)}
+ .date-tabs button.selected{box-shadow:none}
+ .date-tabs{border-bottom:1px solid var(--line)}
+}
+
+/* Schedule as a train line in the day color. */
+.timeline{animation:line-enter .34s var(--ease-out) both}
+@keyframes line-enter{from{opacity:0;transform:translateX(calc(var(--dir,1) * 18px))}to{opacity:1;transform:none}}
+.schedule-marker:before{border:3px solid var(--c);background:var(--paper);width:14px;height:14px;box-sizing:border-box;transition:background-color .3s,transform .3s var(--spring)}
+.schedule-marker:after{width:4px;left:5px;top:14px;border-radius:4px;background:var(--soft)}
+.schedule-row.passed .schedule-marker:before{background:var(--c)}
+.schedule-row.passed .schedule-marker:after{background:var(--c);transform-origin:top;animation:line-fill .7s var(--ease-out) both}
+.schedule-row.passed:nth-child(2) .schedule-marker:after{animation-delay:.08s}
+.schedule-row.passed:nth-child(3) .schedule-marker:after{animation-delay:.16s}
+.schedule-row.passed:nth-child(n+4) .schedule-marker:after{animation-delay:.24s}
+@keyframes line-fill{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+.schedule-row.next .schedule-marker:before{background:var(--paper);transform:scale(1.15);box-shadow:0 0 0 0 var(--c);animation:now-ping 1.6s var(--ease-out) 3}
+@keyframes now-ping{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--c) 55%,transparent)}100%{box-shadow:0 0 0 12px transparent}}
+.schedule-row.next .schedule-time strong{color:var(--c)}
+.schedule-title h3{transition:color .15s}
+
+/* Bottom navigation with a sliding pill under the active tab. */
+.bottom-nav{background:color-mix(in srgb,var(--paper) 92%,transparent);border-color:var(--line)}
+@supports (backdrop-filter:blur(1px)){.bottom-nav{-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}}
+.bottom-nav button{color:var(--muted);position:relative;z-index:1;transition:color .2s}
+.bottom-nav button.active{color:var(--ink)}
+.bottom-nav button svg{transition:transform .3s var(--spring)}
+.bottom-nav button.active svg{transform:translateY(-1px) scale(1.06)}
+@media(max-width:720px){
+ .bottom-nav:before{content:'';position:absolute;top:6px;height:54px;left:max(9px,env(safe-area-inset-left));width:calc((100% - max(9px,env(safe-area-inset-left)) - max(9px,env(safe-area-inset-right))) / 5);border-radius:16px;background:var(--soft);transform:translateX(calc(var(--i,0) * 100%));transition:transform .38s var(--spring);pointer-events:none}
+}
+
+/* Segmented tabs: 전체 / 위시 / 추천 with a sliding pill. */
+.places-segments{position:relative;background:var(--soft);border:0;border-radius:14px;padding:4px}
+.places-segments button{position:relative;z-index:1;background:transparent;color:var(--muted);border-radius:10px;transition:color .2s}
+.places-segments button.selected{background:transparent;color:var(--ink);font-weight:600;border-color:transparent}
+.places-segments button.selected span{color:var(--muted)}
+.places-segments:before{content:'';position:absolute;top:4px;bottom:4px;left:4px;width:calc((100% - 8px) / 3);border-radius:10px;background:var(--paper);box-shadow:0 1px 2px rgba(22,32,42,.14);transform:translateX(calc(var(--i,0) * 100%));transition:transform .34s var(--spring)}
+
+/* 전체 / 일정 포함 / 미포함 and category chips. */
+.membership-filters button,.filter-tabs button{transition:background-color .2s,color .2s,border-color .2s,transform .2s var(--spring)}
+.membership-filters button:active,.filter-tabs button:active{transform:scale(.95)}
+.membership-filters button.selected,.filter-tabs button.selected{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.favorites-filter.selected{color:var(--heart)}
+
+/* Airport direction tabs. */
+.airport-tabs button{transition:background-color .25s,color .25s}
+.airport-tabs button.selected{background:var(--ink);color:var(--paper)}
+.airport-option .option-badge{color:var(--accent)}
+.airport-option>summary:after{transition:transform .25s var(--spring)}
+
+/* Airport route drawing. */
+.airport-route-map{--c:var(--d3);position:relative;border:1px solid var(--line);border-radius:16px;padding:10px 8px 42px;margin:10px 0 12px;background:var(--paper);overflow:hidden}
+.airport-route-map[data-mode="bus"]{--c:var(--d1)}
+.airport-route-map svg{display:block;width:100%;height:auto;overflow:visible}
+.airport-route-map .route-base{fill:none;stroke:var(--soft);stroke-width:6;stroke-linecap:round}
+.airport-route-map .route-run{fill:none;stroke:var(--c);stroke-width:6;stroke-linecap:round}
+.airport-route-map .route-stop{fill:var(--paper);stroke:var(--c);stroke-width:3}
+.airport-route-map .route-label{fill:var(--ink);font:600 11.5px var(--sans)}
+.airport-route-map .route-sub{fill:var(--muted);font:500 10.5px var(--sans)}
+.airport-route-map .route-vehicle circle{fill:var(--c)}
+.airport-route-map .route-vehicle path{fill:none;stroke:var(--on-day);stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.route-replay{position:absolute;right:10px;bottom:8px;border:1px solid var(--line);background:var(--paper);border-radius:999px;font-size:12px;padding:0 12px;min-height:32px;color:var(--ink)}
+
+/* Shopping and checklist: check stroke draws, count rolls. */
+.check-box{transition:background-color .2s,border-color .2s,transform .25s var(--spring)}
+.check-row.done .check-box,.shopping-row.done .check-box{background:var(--green);border-color:var(--green);color:#fff}
+.check-box svg path{stroke-dasharray:24;stroke-dashoffset:0;animation:check-draw .32s var(--ease-out) both}
+@keyframes check-draw{from{stroke-dashoffset:24}to{stroke-dashoffset:0}}
+.check-row input:active+.check-box,.shopping-check>input:active+.check-box{transform:scale(.88)}
+.progress-count{color:var(--ink)}
+.progress-count .count-roll{display:inline-block;font-weight:inherit;animation:count-roll .36s var(--spring) both}
+@keyframes count-roll{from{transform:translateY(60%);opacity:0}to{transform:none;opacity:1}}
+.progress-track>div{background:var(--green);transition:width .5s var(--ease-out)}
+
+/* Hearts. */
+.heart-button.selected{color:var(--heart)}
+.heart-button svg{transform-origin:center}
+
+/* Cards and lists. */
+.rich-place-card{border-color:var(--line);box-shadow:0 1px 2px rgba(22,32,42,.05);transition:transform .2s var(--spring),box-shadow .2s}
+.rich-place-card:active{transform:scale(.99)}
+.screen-add{background:var(--ink);color:var(--paper);border-radius:50%;transition:transform .25s var(--spring)}
+.screen-add:active{transform:scale(.9) rotate(90deg)}
+.screen-add:disabled{opacity:.45}
+.more-menu-list>button>svg:first-child{color:var(--accent)}
+
+/* Sheet and dialogs open with a soft spring. */
+.place-detail-sheet[open]{animation:sheet-spring .42s var(--spring)}
+@keyframes sheet-spring{from{transform:translateY(40px);opacity:.4}to{transform:none;opacity:1}}
+.edit-dialog[open]{animation:dialog-spring .32s var(--spring)}
+@keyframes dialog-spring{from{transform:translateY(-50%) scale(.94);opacity:0}to{transform:translateY(-50%) scale(1);opacity:1}}
+.toast{background:var(--ink);animation:toast-in .3s var(--spring)}
+@keyframes toast-in{from{transform:translate(-50%,16px);opacity:0}to{transform:translate(-50%,0);opacity:1}}
+
+@media(prefers-reduced-motion:reduce){
+ .timeline,.schedule-row.passed .schedule-marker:after,.schedule-row.next .schedule-marker:before,.check-box svg path,.progress-count .count-roll,.place-detail-sheet[open],.edit-dialog[open],.toast{animation:none!important}
+ .date-tabs:after,.bottom-nav:before,.places-segments:before{transition:none!important}
+}
+
+/* Neutral surfaces that used warm tints before. */
+.schedule-marker:after{background:color-mix(in srgb,var(--c) 26%,var(--soft))}
+.schedule-time small{word-break:keep-all}
+.progress-track{background:var(--soft)}
+.check-box{border-color:#AEB8C0}
+.itinerary-membership.excluded{background:var(--soft);color:var(--muted)}
+.schedule-time small{overflow-wrap:normal}
+.date-tabs button.selected{box-shadow:inset 0 -3px var(--c)}
+@media(max-width:720px){.date-tabs button.selected{box-shadow:none}}
